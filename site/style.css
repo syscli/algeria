@@ -70,6 +70,12 @@ main { max-width: 1280px; margin: 0 auto; padding: 0 var(--gutter); }
 #suggestions .w b { font: 500 12px var(--mono); color: var(--green); }
 #suggestions .empty { color: var(--soft); cursor: default; }
 
+.locate { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 14px; max-width: 520px; margin-top: 14px; }
+.locate__btn { display: inline-flex; align-items: center; gap: 8px; min-height: 40px; padding: 0 14px; border: 1px solid var(--rule); border-radius: 8px; background: transparent; color: var(--ink); font: inherit; font-size: 14px; cursor: pointer; }
+.locate__btn:hover { border-color: var(--ink); }
+.locate__btn:disabled { color: var(--soft); cursor: progress; }
+.locate__btn svg { color: var(--green); flex: none; }
+.locate__status { color: var(--soft); font-size: 13px; }
 .stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); margin: 40px 0 0; border-top: 1px solid var(--rule); }
 .stats div { display: flex; flex-direction: column; justify-content: space-between; gap: 6px; padding: 14px 16px 0; }
 .stats div:first-child { padding-inline-start: 0; }

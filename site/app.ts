@@ -51,6 +51,7 @@ function applyLang() {
   input.placeholder = t("placeholder");
   document.querySelectorAll<HTMLButtonElement>(".lang button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
   renderNew();
+  if (locateStatus) renderStatus();
   if (selected) show(selected, false);
 }
 
@@ -224,6 +225,51 @@ function showWilaya(code: string) {
   const seat = communes(code).find(c => c.nameFr === wilaya(code)!.nameFr) ?? communes(code)[0];
   if (seat) pick(seat);
 }
+
+// --- use my location ----------------------------------------------------
+
+const locateBtn = $<HTMLButtonElement>("#locate");
+const locateStatus = $<HTMLSpanElement>("#locate-status");
+let status: { key: Key; vars: Record<string, string> } = { key: "locatePrivacy", vars: {} };
+
+function setStatus(key: Key, vars: Record<string, string> = {}) {
+  status = { key, vars };
+  renderStatus();
+}
+
+function renderStatus() {
+  locateStatus.dataset.t = status.key;
+  locateStatus.innerHTML = rich(t(status.key, status.vars));
+}
+
+function position(): Promise<GeolocationPosition> {
+  return new Promise((resolve, reject) =>
+    navigator.geolocation.getCurrentPosition(resolve, reject, { enableHighAccuracy: true, timeout: 15000, maximumAge: 60000 }),
+  );
+}
+
+locateBtn.addEventListener("click", async () => {
+  if (!("geolocation" in navigator)) return setStatus("locateFailed");
+  locateBtn.disabled = true;
+  setStatus("locating");
+  try {
+    // Loaded on first use: the boundaries weigh about 430 KB gzipped.
+    const [{ coords }, geo] = await Promise.all([position(), import("../src/geo.js")]);
+    const c = geo.communeAt(coords.latitude, coords.longitude);
+    if (c) {
+      pick(c);
+      setStatus("locateFound");
+    } else {
+      const w = geo.wilayaAt(coords.latitude, coords.longitude);
+      setStatus(w ? "locateWilaya" : "locateOutside", w ? { to: wLabel(w.code) } : {});
+    }
+  } catch (e) {
+    const denied = typeof GeolocationPositionError !== "undefined" && e instanceof GeolocationPositionError && e.code === e.PERMISSION_DENIED;
+    setStatus(denied ? "locateDenied" : "locateFailed");
+  } finally {
+    locateBtn.disabled = false;
+  }
+});
 
 // --- new wilayas --------------------------------------------------------
 

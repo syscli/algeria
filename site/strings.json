@@ -46,7 +46,15 @@
     "backTop": "Haut de page",
     "whatsapp": "Partager sur WhatsApp",
     "onsLabel": "Code ONS",
-    "madeBy": "Un projet SYSCLI"
+    "madeBy": "Un projet SYSCLI",
+    "locate": "Utiliser ma position",
+    "locatePrivacy": "Votre position reste sur votre appareil.",
+    "locating": "Recherche de votre position…",
+    "locateDenied": "Position refusée. Cherchez votre commune par son nom.",
+    "locateFailed": "Position introuvable. Cherchez votre commune par son nom.",
+    "locateOutside": "Cette position n’est pas en Algérie.",
+    "locateWilaya": "Commune introuvable à cette position, mais vous êtes dans la wilaya {to}.",
+    "locateFound": "Trouvée d’après votre position. Près d’une limite, vérifiez la commune."
   },
   "ar": {
     "title": "جغرافيا الجزائر",
@@ -95,6 +103,14 @@
     "backTop": "العودة إلى الأعلى",
     "whatsapp": "مشاركة عبر واتساب",
     "onsLabel": "رمز الديوان الوطني للإحصائيات",
-    "madeBy": "مشروع من SYSCLI"
+    "madeBy": "مشروع من SYSCLI",
+    "locate": "استعمل موقعي",
+    "locatePrivacy": "يبقى موقعك على جهازك.",
+    "locating": "جارٍ تحديد موقعك…",
+    "locateDenied": "لم يُسمح بالوصول إلى موقعك. ابحث عن بلديتك بالاسم.",
+    "locateFailed": "تعذّر تحديد موقعك. ابحث عن بلديتك بالاسم.",
+    "locateOutside": "هذا الموقع ليس في الجزائر.",
+    "locateWilaya": "لم نجد البلدية في هذا الموقع، لكنك في ولاية {to}.",
+    "locateFound": "حُدّدت من موقعك. إذا كنت قرب حدود بلدية، تحقّق منها."
   }
 }
