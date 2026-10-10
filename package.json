@@ -1,0 +1,69 @@
+{
+  "name": "@syscli/algeria",
+  "version": "0.1.0",
+  "description": "Algeria's 69 wilayas and 1541 communes from the Journal officiel, with search in French and Arabic.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Sysserv <me@sysserv.eu.org>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syscli/algeria.git"
+  },
+  "homepage": "https://github.com/syscli/algeria#readme",
+  "bugs": {
+    "url": "https://github.com/syscli/algeria/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "sideEffects": false,
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build:data": "node scripts/build.mjs",
+    "build": "npm run build:data && tsup",
+    "pretest": "npm run build:data",
+    "test": "vitest run",
+    "typecheck": "npm run build:data && tsc -p tsconfig.check.json",
+    "prepublishOnly": "npm run typecheck && npm test && npm run build"
+  },
+  "keywords": [
+    "algeria",
+    "algerie",
+    "wilaya",
+    "wilayas",
+    "commune",
+    "communes",
+    "daira",
+    "dz"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.11"
+  },
+  "overrides": {
+    "esbuild": "^0.28.1"
+  }
+}
