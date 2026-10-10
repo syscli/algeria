@@ -4,6 +4,13 @@ This project follows semantic versioning. Before 1.0, a minor version may
 change the API; a patch version never does. Data corrections ship as patch
 versions.
 
+## 0.2.0 - unreleased
+
+- `@syscli/algeria/geo`: `communeAt` and `wilayaAt` find the commune and
+  wilaya of a GPS point, and `bounds` gives the bounding box of a commune or a
+  wilaya. A separate entry, so the main package does not grow; its data is
+  CC BY-SA 2.0, from OpenStreetMap via geoBoundaries.
+
 ## 0.1.0 - 2026-10-10
 
 First release.

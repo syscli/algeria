@@ -29,6 +29,22 @@ Search accepts French or Arabic, with or without accents, articles or the
 usual transliteration variants (Djelfa / Jelfa, Beni / Bni, Ouled / Oulad), and
 older official names of renamed communes.
 
+## Which commune is this point in
+
+```ts
+import { communeAt, wilayaAt, bounds } from "@syscli/algeria/geo";
+
+communeAt(35.2083, 4.1736)?.nameFr;  // "Bou Saada"
+wilayaAt(35.2083, 4.1736)?.code;     // "68"
+bounds(16);                          // [2.7999, 36.5794, 3.3826, 36.8209], west south east north
+```
+
+Arguments are latitude then longitude, as GPS and map apps show them. The
+boundaries are a separate import so that the main package stays small: they
+add about 1.1 MB (430 KB gzipped) and answer a lookup in a few microseconds.
+They are accurate to about 100 m, so a point right on a boundary can land in
+the neighbouring commune. Menaa (0506) has no shape in the source data.
+
 ## Site, API and downloads
 
 AlgerieGeo, the site at https://syscli.github.io/algeria/, lets anyone look up
@@ -127,5 +143,7 @@ To report a security problem, see [SECURITY.md](SECURITY.md).
 
 ## License
 
-Code and data: MIT. Boundaries in geo/: CC BY-SA 2.0, derived from
-OpenStreetMap; see geo/README.md.
+Code and data: MIT. Boundaries in geo/ and the @syscli/algeria/geo entry:
+CC BY-SA 2.0, derived from OpenStreetMap; see geo/README.md. If you ship
+`communeAt` or `wilayaAt` in a product, credit "(c) OpenStreetMap
+contributors".
