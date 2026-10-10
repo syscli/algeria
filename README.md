@@ -31,9 +31,9 @@ older official names of renamed communes.
 
 ## Site, API and downloads
 
-The site at https://syscli.github.io/algeria/ answers one question for anyone:
-did my commune change wilaya in 2026? It is in French and Arabic and links
-every answer to the Journal officiel text behind it.
+AlgerieGeo, the site at https://syscli.github.io/algeria/, lets anyone look up
+a commune, its wilaya, and whether it moved in 2026. It is in French and
+Arabic and links every answer to the Journal officiel text behind it.
 
 The same build publishes a static JSON API, free to use without a key:
 
