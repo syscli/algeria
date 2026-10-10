@@ -29,6 +29,25 @@ Search accepts French or Arabic, with or without accents, articles or the
 usual transliteration variants (Djelfa / Jelfa, Beni / Bni, Ouled / Oulad), and
 older official names of renamed communes.
 
+## Site, API and downloads
+
+The site at https://syscli.github.io/algeria/ answers one question for anyone:
+did my commune change wilaya in 2026? It is in French and Arabic and links
+every answer to the Journal officiel text behind it.
+
+The same build publishes a static JSON API, free to use without a key:
+
+| endpoint | |
+|---|---|
+| /api/v1/wilayas.json | the 69 wilayas |
+| /api/v1/wilayas/{code}.json | one wilaya with its communes |
+| /api/v1/communes.json | all 1541 communes |
+| /api/v1/communes/{code}.json | one commune by ONS code |
+| /api/v1/changes/2026.json, /api/v1/changes/2019.json | communes moved by each reform |
+
+Downloads: CSV, JSON, SQL (MySQL, PostgreSQL, SQLite) and GeoJSON boundaries
+for the 69, 58 and 48 wilaya maps and for the communes, under /downloads/.
+
 ## Why another list
 
 Most lists in circulation still have 48 or 58 wilayas, carry no license, and
@@ -89,6 +108,18 @@ were matched by name.
 
 Corrections are welcome. Please cite the Journal officiel issue and page.
 
+## Building
+
+```sh
+npm ci
+npm test
+npm run build        # package in dist/
+npm run build:site   # site, API and downloads in public/
+npm run serve        # preview public/ on http://localhost:4173
+npm run build:geo    # rebuild geo/ from the open boundary sources
+```
+
 ## License
 
-MIT
+Code and data: MIT. Boundaries in geo/: CC BY-SA 2.0, derived from
+OpenStreetMap; see geo/README.md.
