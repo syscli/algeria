@@ -1,5 +1,6 @@
 import { changes, commune, communes, search, wilaya, wilayas, type Commune, type Wilaya } from "../src/index.js";
 import strings from "./strings.json";
+import { isolateNumbers, modernArabic } from "./arabic.js";
 
 type Lang = "fr" | "ar";
 type Key = keyof typeof strings.fr;
@@ -32,9 +33,10 @@ function t(key: Key, vars: Record<string, string | number> = {}): string {
 }
 
 const esc = (s: string) => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!);
-const cName = (c: Commune) => (lang === "ar" ? c.nameAr : c.nameFr);
-const wName = (w: Wilaya | undefined) => (w ? (lang === "ar" ? w.nameAr : w.nameFr) : "");
-const wLabel = (code: string) => `${code} ${wName(wilaya(code))}`;
+const cName = (c: Commune) => (lang === "ar" ? modernArabic(c.nameAr) : c.nameFr);
+const wName = (w: Wilaya | undefined) => (w ? (lang === "ar" ? modernArabic(w.nameAr) : w.nameFr) : "");
+const rich = (text: string) => isolateNumbers(esc(text));
+const wLabel = (code: string) => (lang === "ar" ? `${wName(wilaya(code))} (${code})` : `${code} ${wName(wilaya(code))}`);
 
 // Old wilaya names under the 58-wilaya map, for "before" lines
 function oldName(code: string): string {
@@ -45,7 +47,7 @@ function applyLang() {
   document.documentElement.lang = lang;
   document.documentElement.dir = lang === "ar" ? "rtl" : "ltr";
   document.title = t("title");
-  document.querySelectorAll<HTMLElement>("[data-t]").forEach(el => (el.textContent = t(el.dataset.t as Key)));
+  document.querySelectorAll<HTMLElement>("[data-t]").forEach(el => (el.innerHTML = rich(t(el.dataset.t as Key))));
   input.placeholder = t("placeholder");
   document.querySelectorAll<HTMLButtonElement>(".lang button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
   renderNew();
@@ -102,7 +104,7 @@ function pick(c: Commune) {
 function dairaName(c: Commune): string {
   if (lang === "fr") return c.daira1991!;
   const seat = communes().find(x => x.wilayaCode48 === c.wilayaCode48 && x.nameFr === c.daira1991);
-  return seat ? seat.nameAr : c.daira1991!;
+  return seat ? modernArabic(seat.nameAr) : c.daira1991!;
 }
 
 // --- result -------------------------------------------------------------
@@ -119,10 +121,10 @@ function show(c: Commune, scroll: boolean) {
   let source: string;
   if (m26) {
     head = t("moved2026", { commune: name, to });
-    before = t("moved2026Before", { from: esc(`${m26.from} ${oldName(m26.from)}`) });
+    before = t("moved2026Before", { from: esc(wLabel(m26.from)) });
     source = t("source2026");
   } else if (m19) {
-    head = t("moved2019", { commune: name, from: esc(`${m19.from} ${oldName(m19.from)}`), to });
+    head = t("moved2019", { commune: name, from: esc(wLabel(m19.from)), to });
     source = t("source2019");
   } else {
     head = t("same", { commune: name, to });
@@ -146,15 +148,15 @@ function show(c: Commune, scroll: boolean) {
       </div>
       <div class="notice__body">
         <p class="label">${esc(t("resultLabel"))}</p>
-        <h2>${head}</h2>
-        ${before ? `<p class="notice__before">${esc(before)}</p>` : ""}
+        <h2>${isolateNumbers(head)}</h2>
+        ${before ? `<p class="notice__before">${rich(before)}</p>` : ""}
         <dl class="notice__meta">
           <div><dt>${esc(t("wilayaLabel"))}</dt><dd>${esc(wName(now))}</dd></div>
           ${c.daira1991 ? `<div><dt>${esc(t("dairaLabel"))}</dt><dd>${esc(dairaName(c))}</dd></div>` : ""}
           <div><dt>${esc(t("onsLabel"))}</dt><dd class="mono">${c.code}</dd></div>
           <div><dt>${esc(t("factCommunes"))}</dt><dd class="mono">${communes(now.code).length}</dd></div>
         </dl>
-        <p class="notice__source"><b>${esc(t("sourceLabel"))}:</b> ${esc(source)}</p>
+        <p class="notice__source"><b>${esc(t("sourceLabel"))}:</b> ${rich(source)}</p>
         <div class="actions">
           <a class="btn btn--main" href="https://wa.me/?text=${encodeURIComponent(shareText)}" target="_blank" rel="noopener">${esc(t("whatsapp"))}</a>
           <a class="btn" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url.href)}" target="_blank" rel="noopener">Facebook</a>
