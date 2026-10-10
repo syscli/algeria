@@ -3,84 +3,114 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f2ec">
   <title>Ma nouvelle wilaya</title>
   <meta name="description" content="69 wilayas depuis 2026 : votre commune a-t-elle change de wilaya ? Donnees du Journal officiel.">
   <meta property="og:title" content="Ma nouvelle wilaya">
   <meta property="og:description" content="69 wilayas depuis 2026 : votre commune a-t-elle change de wilaya ?">
   <meta property="og:type" content="website">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="top">
-    <a class="brand" href="./">algeria</a>
-    <nav class="lang" aria-label="Langue">
-      <button type="button" data-lang="fr" aria-pressed="true">FR</button>
-      <button type="button" data-lang="ar" aria-pressed="false" lang="ar">&#1593;&#1585;&#1576;&#1610;</button>
+  <header class="top" id="top">
+    <a class="wordmark" href="./"><span class="wordmark__dot" aria-hidden="true"></span>algeria<span class="wordmark__sub mono">69/1541</span></a>
+    <nav class="top__nav" aria-label="Sections">
+      <a href="#new" data-t="navNew"></a>
+      <a href="#dev" data-t="navDev"></a>
+      <a href="https://github.com/syscli/algeria">GitHub</a>
     </nav>
+    <div class="lang" role="group" aria-label="Langue">
+      <button type="button" data-lang="fr" aria-pressed="true">FR</button>
+      <button type="button" data-lang="ar" aria-pressed="false" lang="ar">&#1593;&#1585;</button>
+    </div>
   </header>
 
   <main>
     <section class="hero">
-      <h1 data-t="title"></h1>
-      <p class="lead" data-t="lead"></p>
-      <div class="search" role="combobox" aria-haspopup="listbox" aria-owns="suggestions" aria-expanded="false">
-        <label class="sr" for="q" data-t="searchLabel"></label>
-        <input id="q" type="search" autocomplete="off" spellcheck="false" aria-autocomplete="list" aria-controls="suggestions">
-        <ul id="suggestions" role="listbox" hidden></ul>
+      <div class="hero__text">
+        <p class="label" data-t="eyebrow"></p>
+        <h1 data-t="title"></h1>
+        <p class="hero__lede" data-t="lead"></p>
+        <div class="search" role="combobox" aria-haspopup="listbox" aria-owns="suggestions" aria-expanded="false">
+          <label class="sr-only" for="q" data-t="searchLabel"></label>
+          <input id="q" type="search" autocomplete="off" spellcheck="false" aria-autocomplete="list" aria-controls="suggestions">
+          <span class="search__hint mono" aria-hidden="true">/</span>
+          <ul id="suggestions" role="listbox" hidden></ul>
+        </div>
+        <dl class="stats">
+          <div><dt data-t="factWilayas"></dt><dd class="mono">69</dd></div>
+          <div><dt data-t="factCommunes"></dt><dd class="mono">1541</dd></div>
+          <div><dt data-t="factMoved"></dt><dd class="mono">108</dd></div>
+        </dl>
       </div>
+      <figure class="hero__map">
+        <svg id="map" role="img" aria-labelledby="map-caption"></svg>
+        <figcaption id="map-caption" class="legend">
+          <span><i class="key key--new"></i><span data-t="legendNew"></span></span>
+          <span><i class="key key--you"></i><span data-t="resultLabel"></span></span>
+        </figcaption>
+      </figure>
     </section>
 
     <section id="result" class="result" hidden aria-live="polite"></section>
 
-    <figure class="map">
-      <svg id="map" role="img" aria-labelledby="map-caption"></svg>
-      <figcaption id="map-caption" data-t="mapCaption"></figcaption>
-    </figure>
-
-    <section class="new">
-      <h2 data-t="newTitle"></h2>
-      <p data-t="newLead"></p>
-      <ul id="new-wilayas" class="cards"></ul>
+    <section class="block" id="new">
+      <header class="block__head">
+        <p class="label">2026</p>
+        <h2 data-t="newTitle"></h2>
+        <p data-t="newLead"></p>
+      </header>
+      <ol id="new-wilayas" class="new"></ol>
     </section>
 
-    <section class="dev">
-      <h2 data-t="devTitle"></h2>
-      <p data-t="devLead"></p>
-      <pre><code>npm install @syscli/algeria
+    <section class="block" id="dev">
+      <header class="block__head">
+        <p class="label">API</p>
+        <h2 data-t="devTitle"></h2>
+        <p data-t="devLead"></p>
+      </header>
+      <div class="dev">
+<pre class="code"><code><span class="c">$</span> npm install @syscli/algeria
 
 import { search, changes } from "@syscli/algeria";
-search("bou saada")[0].wilaya.code; // "68"
-changes(2026).length;               // 108</code></pre>
-      <div class="cols">
-        <div>
-          <h3 data-t="apiTitle"></h3>
-          <ul class="links">
-            <li><a href="api/v1/wilayas.json">/api/v1/wilayas.json</a></li>
-            <li><a href="api/v1/wilayas/68.json">/api/v1/wilayas/68.json</a></li>
-            <li><a href="api/v1/communes.json">/api/v1/communes.json</a></li>
-            <li><a href="api/v1/communes/1601.json">/api/v1/communes/1601.json</a></li>
-            <li><a href="api/v1/changes/2026.json">/api/v1/changes/2026.json</a></li>
-          </ul>
-        </div>
-        <div>
-          <h3 data-t="downloadsTitle"></h3>
-          <ul class="links">
-            <li><a href="downloads/communes.csv" download>communes.csv</a> <a href="downloads/wilayas.csv" download>wilayas.csv</a></li>
-            <li><a href="downloads/algeria.json" download>algeria.json</a></li>
-            <li><a href="downloads/algeria.sql" download>algeria.sql</a></li>
-            <li><a href="downloads/wilayas-69.geojson" download>wilayas-69.geojson</a></li>
-            <li><a href="downloads/communes.geojson" download>communes.geojson</a></li>
-          </ul>
+
+search("bou saada")[0].wilaya.code; <span class="c">// "68"</span>
+changes(2026).length;               <span class="c">// 108</span></code></pre>
+        <div class="dev__lists">
+          <div>
+            <p class="label" data-t="apiTitle"></p>
+            <ul class="rows mono">
+              <li><a href="api/v1/wilayas.json">/api/v1/wilayas.json</a></li>
+              <li><a href="api/v1/wilayas/68.json">/api/v1/wilayas/68.json</a></li>
+              <li><a href="api/v1/communes/1601.json">/api/v1/communes/1601.json</a></li>
+              <li><a href="api/v1/changes/2026.json">/api/v1/changes/2026.json</a></li>
+            </ul>
+          </div>
+          <div>
+            <p class="label" data-t="downloadsTitle"></p>
+            <ul class="rows mono">
+              <li><a href="downloads/communes.csv" download>communes.csv</a></li>
+              <li><a href="downloads/algeria.json" download>algeria.json</a></li>
+              <li><a href="downloads/algeria.sql" download>algeria.sql</a></li>
+              <li><a href="downloads/wilayas-69.geojson" download>wilayas-69.geojson</a></li>
+            </ul>
+          </div>
         </div>
       </div>
     </section>
   </main>
 
   <footer class="foot">
-    <p data-t="footerData"></p>
-    <p data-t="footerMap"></p>
-    <p><span data-t="footerCode"></span> <a href="https://github.com/syscli/algeria">github.com/syscli/algeria</a></p>
+    <div class="foot__notes">
+      <p data-t="footerData"></p>
+      <p data-t="footerMap"></p>
+      <p><span data-t="footerCode"></span> <a href="https://github.com/syscli/algeria">github.com/syscli/algeria</a></p>
+    </div>
+    <a class="foot__by" href="https://syscl.ru"><span class="label" data-t="madeBy"></span>{{syscli}}</a>
   </footer>
 
   <script type="module" src="app.js"></script>

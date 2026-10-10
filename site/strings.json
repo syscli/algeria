@@ -33,7 +33,20 @@
     "footerMap": "Fond de carte : contributeurs OpenStreetMap, via geoBoundaries (CC BY-SA 2.0).",
     "footerCode": "Code et données sous licence MIT.",
     "communesMany": "{n} communes",
-    "wilayaLabel": "Wilaya"
+    "wilayaLabel": "Wilaya",
+    "tagline": "Wilayas et communes",
+    "navNew": "Nouvelles wilayas",
+    "navDev": "API et données",
+    "eyebrow": "Loi 26-06 du 4 avril 2026",
+    "factWilayas": "wilayas",
+    "factCommunes": "communes",
+    "factMoved": "communes ont changé de wilaya",
+    "legendNew": "Les 11 nouvelles wilayas",
+    "resultLabel": "Votre commune",
+    "backTop": "Haut de page",
+    "whatsapp": "Partager sur WhatsApp",
+    "onsLabel": "Code ONS",
+    "madeBy": "Un projet SYSCLI"
   },
   "ar": {
     "title": "ولايتي الجديدة",
@@ -69,6 +82,19 @@
     "footerMap": "الخريطة: مساهمو OpenStreetMap عبر geoBoundaries (CC BY-SA 2.0).",
     "footerCode": "الشيفرة والبيانات برخصة MIT.",
     "communesMany": "{n} بلدية",
-    "wilayaLabel": "الولاية"
+    "wilayaLabel": "الولاية",
+    "tagline": "الولايات والبلديات",
+    "navNew": "الولايات الجديدة",
+    "navDev": "الواجهة والبيانات",
+    "eyebrow": "القانون 26-06 المؤرخ في 4 أبريل 2026",
+    "factWilayas": "ولاية",
+    "factCommunes": "بلدية",
+    "factMoved": "بلدية انتقلت إلى ولاية أخرى",
+    "legendNew": "الولايات الإحدى عشرة الجديدة",
+    "resultLabel": "بلديتك",
+    "backTop": "العودة إلى الأعلى",
+    "whatsapp": "مشاركة عبر واتساب",
+    "onsLabel": "رمز الديوان الوطني للإحصائيات",
+    "madeBy": "مشروع من SYSCLI"
   }
 }

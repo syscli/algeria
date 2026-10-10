@@ -60,7 +60,7 @@ function suggest() {
   options = search(q, { limit: 8 }).map(r => r.commune);
   active = options.length ? 0 : -1;
   list.innerHTML = options.length
-    ? options.map((c, i) => `<li role="option" id="opt-${i}" data-code="${c.code}" aria-selected="${i === active}"><span>${esc(cName(c))}</span><span class="w">${esc(wLabel(c.wilayaCode))}</span></li>`).join("")
+    ? options.map((c, i) => `<li role="option" id="opt-${i}" data-code="${c.code}" aria-selected="${i === active}"><span>${esc(cName(c))}</span><span class="w"><b>${c.wilayaCode}</b>${esc(wName(wilaya(c.wilayaCode)))}</span></li>`).join("")
     : `<li class="empty">${esc(t("noResult"))}</li>`;
   list.hidden = false;
   box.setAttribute("aria-expanded", "true");
@@ -136,23 +136,32 @@ function show(c: Commune, scroll: boolean) {
   history.replaceState(null, "", url);
   const shareText = `${t("shareText", { commune: cName(c), to: wLabel(now.code) })} ${url.href}`;
 
-  result.className = `result${m26 || m19 ? " moved" : ""}`;
+  result.className = "result";
   result.innerHTML = `
-    <h2>${head}</h2>
-    ${before ? `<p class="before">${esc(before)}</p>` : ""}
-    <dl class="facts">
-      <div><dt>${esc(t("codeLabel"))}</dt><dd class="big">${now.code}</dd></div>
-      <div><dt>${esc(t("wilayaLabel"))}</dt><dd>${esc(wName(now))}</dd></div>
-      ${c.daira1991 ? `<div><dt>${esc(t("dairaLabel"))}</dt><dd>${esc(dairaName(c))}</dd></div>` : ""}
-      <div><dt>ONS</dt><dd>${c.code}</dd></div>
-    </dl>
-    <p class="note">${esc(t("codeNote"))}</p>
-    <p class="source"><strong>${esc(t("sourceLabel"))}:</strong> ${esc(source)}</p>
-    <div class="actions">
-      <a class="wa" href="https://wa.me/?text=${encodeURIComponent(shareText)}" target="_blank" rel="noopener">WhatsApp</a>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url.href)}" target="_blank" rel="noopener">Facebook</a>
-      <button type="button" id="copy">${esc(t("copy"))}</button>
-    </div>`;
+    <article class="notice">
+      <div class="notice__code">
+        <span class="label">${esc(t("codeLabel"))}</span>
+        <b>${now.code}</b>
+        <small>${esc(t("codeNote"))}</small>
+      </div>
+      <div class="notice__body">
+        <p class="label">${esc(t("resultLabel"))}</p>
+        <h2>${head}</h2>
+        ${before ? `<p class="notice__before">${esc(before)}</p>` : ""}
+        <dl class="notice__meta">
+          <div><dt>${esc(t("wilayaLabel"))}</dt><dd>${esc(wName(now))}</dd></div>
+          ${c.daira1991 ? `<div><dt>${esc(t("dairaLabel"))}</dt><dd>${esc(dairaName(c))}</dd></div>` : ""}
+          <div><dt>${esc(t("onsLabel"))}</dt><dd class="mono">${c.code}</dd></div>
+          <div><dt>${esc(t("factCommunes"))}</dt><dd class="mono">${communes(now.code).length}</dd></div>
+        </dl>
+        <p class="notice__source"><b>${esc(t("sourceLabel"))}:</b> ${esc(source)}</p>
+        <div class="actions">
+          <a class="btn btn--main" href="https://wa.me/?text=${encodeURIComponent(shareText)}" target="_blank" rel="noopener">${esc(t("whatsapp"))}</a>
+          <a class="btn" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url.href)}" target="_blank" rel="noopener">Facebook</a>
+          <button class="btn" type="button" id="copy">${esc(t("copy"))}</button>
+        </div>
+      </div>
+    </article>`;
   result.hidden = false;
   $<HTMLButtonElement>("#copy").addEventListener("click", async e => {
     try { await navigator.clipboard.writeText(url.href); (e.target as HTMLButtonElement).textContent = t("copied"); } catch {}
@@ -249,3 +258,8 @@ const start = new URLSearchParams(location.search).get("c");
 const first = start ? commune(start) : undefined;
 if (first) { input.value = cName(first); show(first, false); }
 fetch("map.json").then(r => r.json()).then(drawMap).catch(() => {});
+
+// "/" jumps to the search box, as on most search pages
+document.addEventListener("keydown", e => {
+  if (e.key === "/" && document.activeElement !== input) { e.preventDefault(); input.focus(); }
+});

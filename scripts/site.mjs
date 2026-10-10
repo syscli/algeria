@@ -113,7 +113,9 @@ put("map.json", { viewBox, w69: layer("wilayas-69"), w58: layer("wilayas-58") })
 
 // --- page --------------------------------------------------------------
 
-for (const f of ["index.html", "style.css", "favicon.svg"]) fs.copyFileSync(path.join(root, "site", f), path.join(pub, f));
+for (const f of ["style.css", "favicon.svg"]) fs.copyFileSync(path.join(root, "site", f), path.join(pub, f));
+const logo = fs.readFileSync(path.join(root, "site", "syscli.svg"), "utf8").trim();
+put("index.html", fs.readFileSync(path.join(root, "site", "index.html"), "utf8").replace("{{syscli}}", logo));
 await build({
   entryPoints: [path.join(root, "site", "app.ts")],
   bundle: true,
