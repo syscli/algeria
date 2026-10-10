@@ -42,7 +42,10 @@
     "pretest": "npm run build:data",
     "test": "vitest run",
     "typecheck": "npm run build:data && tsc -p tsconfig.check.json",
-    "prepublishOnly": "npm run typecheck && npm test && npm run build"
+    "prepublishOnly": "npm run typecheck && npm test && npm run build",
+    "build:site": "node scripts/site.mjs",
+    "build:geo": "node scripts/geo.mjs",
+    "serve": "node scripts/serve.mjs"
   },
   "keywords": [
     "algeria",
@@ -59,11 +62,15 @@
   },
   "devDependencies": {
     "@types/node": "^20.19.43",
+    "esbuild": "^0.28.2",
+    "mapshaper": "^0.6.121",
     "tsup": "^8.5.1",
     "typescript": "^5.9.3",
     "vitest": "^4.1.11"
   },
   "overrides": {
-    "esbuild": "^0.28.1"
+    "esbuild": "$esbuild",
+    "adm-zip": "^0.6.1",
+    "fflate": "^0.8.3"
   }
 }

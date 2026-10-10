@@ -9,3 +9,5 @@ coverage/
 
 *.tgz
 src/generated/
+geo/.cache/
+public/
