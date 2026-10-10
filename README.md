@@ -1,5 +1,7 @@
 # algeria
 
+[![npm](https://img.shields.io/npm/v/@syscli/algeria)](https://www.npmjs.com/package/@syscli/algeria) [![CI](https://github.com/syscli/algeria/actions/workflows/ci.yml/badge.svg)](https://github.com/syscli/algeria/actions/workflows/ci.yml)
+
 The 69 wilayas and 1541 communes of Algeria, taken from the Journal officiel,
 with French and Arabic names, ONS codes, and search that understands the many
 ways a place name gets spelled.
@@ -134,6 +136,30 @@ npm run build:site   # site, API and downloads in public/
 npm run serve        # preview public/ on http://localhost:4173
 npm run build:geo    # rebuild geo/ from the open boundary sources
 ```
+
+## Python
+
+The same data and search, with the same answers (checked in CI against this
+package on every commune name):
+
+```sh
+pip install syscli-algeria
+```
+
+```python
+from syscli_algeria import wilaya, search
+search("bou saada")[0].wilaya.code   # "68"
+```
+
+The source is in [python/](python/).
+
+## Related projects
+
+| project | what | get it |
+|---|---|---|
+| [algeria](https://github.com/syscli/algeria) | the 69 wilayas and 1541 communes, search, GPS lookups | npm `@syscli/algeria`, PyPI `syscli-algeria`, site [AlgerieGeo](https://syscli.github.io/algeria/) |
+| [dz-format](https://github.com/syscli/dz-format) | checks for phone numbers, RIP and RIB keys, plates, NIF, RC and more | npm `@syscli/dz-format`, PyPI `dz-format`, [playground](https://syscli.github.io/dz-format/) |
+| [algeria-mcp](https://github.com/syscli/algeria-mcp) | both of the above for AI assistants | npm `@syscli/algeria-mcp`, MCP Registry `io.github.syscli/algeria-mcp` |
 
 ## Releases and security
 
