@@ -1,0 +1,37 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "syscli-algeria"
+version = "0.1.0"
+description = "Algeria's 69 wilayas and 1541 communes from the Journal officiel, with search in French and Arabic."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Sysserv", email = "me@sysserv.eu.org" }]
+requires-python = ">=3.9"
+keywords = ["algeria", "algerie", "wilaya", "commune", "dz", "geography"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Natural Language :: French",
+  "Natural Language :: Arabic",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: GIS",
+  "Typing :: Typed",
+]
+
+[project.urls]
+Homepage = "https://github.com/syscli/algeria"
+Source = "https://github.com/syscli/algeria/tree/main/python"
+Changelog = "https://github.com/syscli/algeria/blob/main/python/CHANGELOG.md"
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/syscli_algeria"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

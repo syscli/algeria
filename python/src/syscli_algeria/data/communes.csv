@@ -1,0 +1,1542 @@
+code,wilaya_code,name_fr,name_ar,daira_1991,wilaya_code_58,wilaya_code_48,name_fr_source,name_ar_source,aliases
+0101,01,Adrar,أدرار,Adrar,01,01,loi 19-12,loi 19-12,
+0102,01,Tamest,تاماست,Fenoghil,01,01,loi 19-12,loi 19-12,
+0104,01,Reggane,رقان,Reggane,01,01,loi 19-12,loi 19-12,
+0105,01,In Zghmir,إن زغمير,Zaouiet Kounta,01,01,loi 19-12,loi 19-12,In Zeghmir
+0106,01,Tit,تيت,Aoulef,01,01,loi 19-12,loi 19-12,
+0108,01,Tsabit,تسابيت,Tsabit,01,01,loi 19-12,loi 19-12,
+0111,01,Zaouiet Kounta,زاوية كنتة,Zaouiet Kounta,01,01,loi 19-12,loi 19-12,Zaouiat Kounta
+0112,01,Aoulef,أولف,Aoulef,01,01,loi 19-12,loi 19-12,
+0113,01,Timekten,تيمقتن,Aoulef,01,01,loi 19-12,loi 19-12,Tamekten
+0114,01,Tamantit,تامنطيت,Fenoghil,01,01,loi 19-12,loi 19-12,
+0115,01,Fenoghil,فنوغيل,Fenoghil,01,01,loi 19-12,loi 19-12,Fenoughil
+0118,01,Sali,سالي,Reggane,01,01,loi 19-12,loi 19-12,
+0119,01,Akabli,أقبلي,Aoulef,01,01,loi 19-12,loi 19-12,
+0121,01,Ouled Ahmed Timmi,أولاد أحمد تيمي,Adrar,01,01,loi 19-12,loi 19-12,Ouled Ahmed Tammi
+0122,01,Bouda,بودة,Adrar,01,01,loi 19-12,loi 19-12,
+0126,01,Sebaa,السبع,Tsabit,01,01,loi 19-12,loi 19-12,Sbaa
+0201,02,Chlef,الشلف,Chlef,02,02,loi 84-09,loi 84-09,
+0202,02,Ténès,تنس,Ténès,02,02,loi 84-09,loi 84-09,
+0203,02,Benaïria,بنايرية,Zeboudja,02,02,loi 84-09,loi 84-09,Benaria
+0204,02,El Karimia,الكريمية,El Karimia,02,02,loi 84-09,loi 84-09,
+0205,02,Tadjena,تاجنة,Abou El Hassan,02,02,loi 84-09,loi 84-09,
+0206,02,Taougrite,تاوقريت,Taougrite,02,02,loi 84-09,loi 84-09,
+0207,02,Béni Haoua,بنى حواء,Béni Haoua,02,02,loi 84-09,loi 84-09,
+0208,02,Sobha,صبحة,Boukadir,02,02,loi 84-09,loi 84-09,
+0209,02,Harchoun,حرشون,El Karimia,02,02,loi 84-09,loi 84-09,Harchoune
+0210,02,Ouled Farès,أولاد فارس,Ouled Farès,02,02,loi 84-09,loi 84-09,
+0211,02,Sidi Akkacha,سيدى عكاشة,Ténès,02,02,loi 84-09,loi 84-09,Sidi Akacha
+0212,02,Boukadir,بوقادير,Boukadir,02,02,loi 84-09,loi 84-09,
+0213,02,Béni Rached,بنى راشد,Oued Fodda,02,02,loi 84-09,loi 84-09,
+0214,02,Talassa,تلعصة,Abou El Hassan,02,02,loi 84-09,loi 84-09,
+0215,02,Harenfa,الهرنفة,Aïn Merane,02,02,decret 91-306,loi 84-09,Herenfa
+0216,02,Oued Goussine,وادى قوسين,Béni Haoua,02,02,loi 84-09,loi 84-09,
+0217,02,Dahra,الظهرة,Taougrite,02,02,loi 84-09,loi 84-09,
+0218,02,Ouled Abbès,أولاد عباس,Oued Fodda,02,02,loi 84-09,loi 84-09,Ouled Abbas
+0219,02,Sendjas,السنجاس,Chlef,02,02,loi 84-09,loi 84-09,
+0220,02,Zeboudja,الزبوجة,Zeboudja,02,02,loi 84-09,loi 84-09,
+0221,02,Oued Sly,وادى سلى,Boukadir,02,02,loi 84-09,loi 84-09,
+0222,02,Abou El Hassan,أبو الحسن,Abou El Hassan,02,02,loi 84-09,loi 84-09,
+0223,02,El Marsa,المرسى,El Marsa,02,02,loi 84-09,loi 84-09,
+0224,02,Chettia,الشطية,Ouled Farès,02,02,loi 84-09,loi 84-09,
+0225,02,Sidi Abderrahmane,سيدي عبد الرحمن,El Marsa,02,02,decret 91-306,decret 91-306,Souk El Bagar
+0226,02,Moussadek,مصدق,El Marsa,02,02,loi 84-09,loi 84-09,Moussedek
+0227,02,El Hadjadj,الحجاج,Ouled Benabdelkader,02,02,loi 84-09,loi 84-09,
+0228,02,Labiod Medjadja,الابيض مجاجة,Ouled Farès,02,02,loi 84-09,loi 84-09,Labiodh Medjadja
+0229,02,Oued Fodda,وادى الفضة,Oued Fodda,02,02,loi 84-09,loi 84-09,
+0230,02,Ouled Benabdelkader,أولاد بن عبد القادر,Ouled Benabdelkader,02,02,loi 84-09,loi 84-09,
+0231,02,Bouzeghaïa,بوزغاية,Zeboudja,02,02,loi 84-09,loi 84-09,
+0232,02,Aïn Merane,عين مران,Aïn Merane,02,02,loi 84-09,loi 84-09,
+0233,02,Oum Drou,أم الذروع,Chlef,02,02,loi 84-09,loi 84-09,
+0234,02,Breïra,بريرة,Béni Haoua,02,02,loi 84-09,loi 84-09,
+0235,02,Béni Bouateb,بنى بوعتاب,El Karimia,02,02,loi 84-09,loi 84-09,Béni Bouatteb
+0301,03,Laghouat,الأغواط,Laghouat,03,03,loi 26-06,loi 26-06,
+0302,03,Ksar El Hirane,قصر الحيران,Ksar El Hirane,03,03,loi 26-06,loi 26-06,
+0303,03,Benacer Benchohra,بن ناصر بن شهرة,Ksar El Hirane,03,03,loi 26-06,loi 26-06,Mekhareg|Bennasser Benchohra
+0304,03,Sidi Makhlouf,سيدي مخلوف,Sidi Makhlouf,03,03,loi 26-06,loi 26-06,
+0305,03,Hassi Delaa,حاسي الدلاعة,Hassi R'Mel,03,03,loi 26-06,loi 26-06,
+0306,03,Hassi R'Mel,حاسي الرمل,Hassi R'Mel,03,03,loi 26-06,loi 26-06,
+0307,03,Aïn Madhi,عين ماضي,Aïn Madhi,03,03,loi 26-06,loi 26-06,
+0308,03,Tadjemout,تاجموت,Aïn Madhi,03,03,loi 26-06,loi 26-06,
+0309,03,Kheneg,الخنق,Aïn Madhi,03,03,loi 26-06,loi 26-06,
+0318,03,Tadjrouna,تاجرونة,Aïn Madhi,03,03,loi 26-06,loi 26-06,Tadjerouna
+0320,03,El Assafia,العسافية,Sidi Makhlouf,03,03,loi 26-06,loi 26-06,
+0323,03,El Haouita,الحويطة,Aïn Madhi,03,03,loi 26-06,loi 26-06,El Houaita|El Houita
+0401,04,Oum El Bouaghi,أم البواقى,Oum El Bouaghi,04,04,loi 84-09,loi 84-09,
+0402,04,Aïn Beïda,عين البيضاء,Aïn Beïda,04,04,loi 84-09,loi 84-09,
+0403,04,Aïn M'Lila,عين مليلة,Aïn M'Lila,04,04,loi 84-09,loi 84-09,
+0404,04,Behir Chergui,بحير الشرقى,Meskiana,04,04,loi 84-09,loi 84-09,
+0405,04,El Amiria,العامرية,Aïn Fakroun,04,04,loi 84-09,loi 84-09,
+0406,04,Sigus,سيقوس,Aïn Fakroun,04,04,loi 84-09,loi 84-09,
+0407,04,El Belala,البلالة,Meskiana,04,04,loi 84-09,loi 84-09,El Bellala
+0408,04,Aïn Babouche,عين ببوش,Aïn Babouche,04,04,loi 84-09,loi 84-09,
+0409,04,Berriche,بريش,Aïn Beïda,04,04,loi 84-09,loi 84-09,
+0410,04,Ouled Hamla,أولاد حملة,Aïn M'Lila,04,04,loi 84-09,loi 84-09,
+0411,04,Dhalaa,الضلعة,Dhalaa,04,04,decret 91-306,loi 84-09,Dhala
+0412,04,Aïn Kercha,عين كرشة,Aïn Kercha,04,04,loi 84-09,loi 84-09,
+0413,04,Hanchir Toumghani,هنشير تومغانى,Aïn Kercha,04,04,loi 84-09,loi 84-09,
+0414,04,El Djazia,الجازية,Dhalaa,04,04,loi 84-09,loi 84-09,Djazia
+0415,04,Aïn Diss,عين الديس,Aïn Babouche,04,04,loi 84-09,loi 84-09,
+0416,04,Fkirina,فكيرينة,Fkirina,04,04,loi 84-09,loi 84-09,
+0417,04,Souk Naamane,سوق نعمان,Souk Naamane,04,04,loi 84-09,loi 84-09,
+0418,04,Zorg,الزرق,Aïn Beïda,04,04,loi 84-09,loi 84-09,
+0419,04,El Fedjoudj Boughrara Saoudi,الفجوج بوغرارة سعودى,Aïn Kercha,04,04,loi 84-09,loi 84-09,El Fedjouz Boughrara Saoudi
+0420,04,Ouled Zouai,أولاد الزوى,Souk Naamane,04,04,loi 84-09,loi 84-09,Ouled Zoui
+0421,04,Bir Chouhada,بئر الشهداء,Souk Naamane,04,04,loi 84-09,loi 84-09,
+0422,04,Ksar Sbahi,قصر الصباحى,Ksar Sbahi,04,04,loi 84-09,loi 84-09,
+0423,04,Oued Nini,وادى نينى,Fkirina,04,04,loi 84-09,loi 84-09,
+0424,04,Meskiana,مسكيانة,Meskiana,04,04,loi 84-09,loi 84-09,
+0425,04,Aïn Fakroun,عين الفكرون,Aïn Fakroun,04,04,loi 84-09,loi 84-09,
+0426,04,Rahia,الراحية,Meskiana,04,04,loi 84-09,loi 84-09,
+0427,04,Aïn Zitoun,عين الزيتون,Oum El Bouaghi,04,04,loi 84-09,loi 84-09,
+0428,04,Ouled Gacem,أولاد قاسم,Aïn M'Lila,04,04,loi 84-09,loi 84-09,
+0429,04,El Harmilia,الحرملية,Aïn Kercha,04,04,loi 84-09,loi 84-09,
+0501,05,Batna,باتنة,Batna,05,05,loi 26-06,loi 26-06,
+0502,05,Ghassira,غسيرة,T'Kout,05,05,loi 26-06,loi 26-06,
+0503,05,Maafa,معافة,Aïn Touta,05,05,loi 26-06,loi 26-06,
+0504,05,Merouana,مروانة,Merouana,05,05,loi 26-06,loi 26-06,
+0505,05,Seriana,سريانة,Seriana,05,05,loi 26-06,loi 26-06,
+0506,05,Menaa,منعة,Menaa,05,05,loi 26-06,loi 26-06,
+0507,05,Elmadher,المعذر,Elmadher,05,05,loi 26-06,loi 26-06,
+0508,05,Tazoult,تازولت,Tazoult,05,05,loi 26-06,loi 26-06,
+0509,05,N'Gaous,نقاوس,N'Gaous,05,05,loi 26-06,loi 26-06,
+0510,05,Guigba,القيقبة,Ras El Aïoun,05,05,loi 26-06,loi 26-06,
+0511,05,Inoughissene,إينوغيسن,Ichmoul,05,05,loi 26-06,loi 26-06,Inoughissen
+0512,05,Ouyoun El Assafir,عيون العصافير,Tazoult,05,05,loi 26-06,loi 26-06,
+0513,05,Djerma,جرمة,Elmadher,05,05,loi 26-06,loi 26-06,
+0516,05,Arris,آريس,Arris,05,05,loi 26-06,loi 26-06,
+0517,05,Kimmel,كيمل,T'Kout,05,05,loi 26-06,loi 26-06,Kimel
+0519,05,Ain Djasser,عين جاسر,Ain Djasser,05,05,loi 26-06,loi 26-06,Aïn Djassar
+0520,05,Ouled Sellem,أولاد سلام,Ouled Sellem,05,05,loi 26-06,loi 26-06,Ouled Sellam
+0521,05,Tigherghar,تيغرغار,Menaa,05,05,loi 26-06,loi 26-06,
+0522,05,Ain Yagout,عين ياقوت,Elmadher,05,05,loi 26-06,loi 26-06,
+0523,05,Fesdis,فسديس,Batna,05,05,loi 26-06,loi 26-06,
+0524,05,Sefiane,سفيان,N'Gaous,05,05,loi 26-06,loi 26-06,
+0525,05,Rahbat,الرحبات,Ouled Sellem,05,05,loi 26-06,loi 26-06,
+0526,05,Tighanimine,تيغانمين,Arris,05,05,loi 26-06,loi 26-06,
+0527,05,Lemsane,لمسان,Ouled Si Slimane,05,05,loi 26-06,loi 26-06,
+0528,05,Ksar Belezma,قصر بلزمة,Merouana,05,05,loi 26-06,loi 26-06,Ksar Bellezma
+0530,05,Ichmoul,إيشمول,Ichmoul,05,05,loi 26-06,loi 26-06,
+0531,05,Foum Toub,فم الطوب,Ichmoul,05,05,loi 26-06,loi 26-06,
+0532,05,Béni Fedhala El Hakania,بني فضالة الحقانية,Aïn Touta,05,05,loi 26-06,loi 26-06,Béni Foudhala El Hakania|Béni Foudala El Hakania|Ben Foudala El Hakania
+0533,05,Oued El Ma,وادي الماء,Merouana,05,05,loi 26-06,loi 26-06,
+0534,05,Talkhamt,تالخمت,Ouled Sellem,05,05,loi 26-06,loi 26-06,
+0535,05,Bouzina,بوزينة,Bouzina,05,05,loi 26-06,loi 26-06,
+0536,05,Chemora,الشمرة,Chemora,05,05,loi 26-06,loi 26-06,
+0537,05,Oued Chaaba,وادي الشعبة,Batna,05,05,loi 26-06,loi 26-06,
+0538,05,Taxlent,تاكسلانت,Ouled Si Slimane,05,05,loi 26-06,loi 26-06,
+0539,05,Gosbat,القصبات,Ras El Aïoun,05,05,loi 26-06,loi 26-06,Guecha
+0540,05,Ouled Aouf,أولاد عوف,Aïn Touta,05,05,loi 26-06,loi 26-06,
+0541,05,Boumagueur,بومقر,N'Gaous,05,05,loi 26-06,loi 26-06,Boumaguer
+0544,05,T'Kout,تكوت,T'Kout,05,05,loi 26-06,loi 26-06,T'Koutt
+0545,05,Aïn Touta,عين التوتة,Aïn Touta,05,05,loi 26-06,loi 26-06,
+0546,05,Hidoussa,حيدوسة,Merouana,05,05,loi 26-06,loi 26-06,
+0547,05,Teniet El Abed,ثنية العابد,Teniet El Abed,05,05,loi 26-06,loi 26-06,Theniet El Abed
+0548,05,Oued Taga,وادي الطاقة,Teniet El Abed,05,05,loi 26-06,loi 26-06,
+0549,05,Ouled Fadel,أولاد فاضل,Timgad,05,05,loi 26-06,loi 26-06,Ouled Fadhel
+0550,05,Timgad,تيمقاد,Timgad,05,05,loi 26-06,loi 26-06,
+0551,05,Ras El Aïoun,رأس العيون,Ras El Aïoun,05,05,loi 26-06,loi 26-06,
+0552,05,Chir,شير,Teniet El Abed,05,05,loi 26-06,loi 26-06,Nouader
+0553,05,Ouled Si Slimane,أولاد سي سليمان,Ouled Si Slimane,05,05,loi 26-06,loi 26-06,
+0554,05,Zana El Beïda,زانة البيضاء,Seriana,05,05,loi 26-06,loi 26-06,Zanat El Beïda|Zanet El Beida
+0557,05,El Hassi,الحاسي,Ain Djasser,05,05,loi 26-06,loi 26-06,
+0558,05,Lazrou,لازرو,Seriana,05,05,loi 26-06,loi 26-06,
+0559,05,Boumia,بومية,Elmadher,05,05,loi 26-06,loi 26-06,
+0560,05,Boulhilat,بولهيلات,Chemora,05,05,loi 26-06,loi 26-06,Boulhilet
+0561,05,Larbaa,لارباع,Bouzina,05,05,loi 26-06,loi 26-06,
+0601,06,Béjaïa,بجاية,Béjaïa,06,06,loi 84-09,loi 84-09,
+0602,06,Amizour,أميزور,Amizour,06,06,loi 84-09,loi 84-09,
+0603,06,Ferraoun,فرعون,Amizour,06,06,loi 84-09,loi 84-09,
+0604,06,Taourirt Ighil,تاوريرت اغيل,Adekar,06,06,loi 84-09,loi 84-09,
+0605,06,Chellata,شلاطة,Akbou,06,06,decret 91-306,loi 84-09,Chelata
+0606,06,Tamokra,تامقرة,Akbou,06,06,loi 84-09,loi 84-09,
+0607,06,Timzrit,تيمزريت,Timzrit,06,06,loi 84-09,loi 84-09,Timezrit
+0608,06,Souk El Tenine,سوق الاثنين,Souk El Tenine,06,06,decret 91-306,loi 84-09,Souk El Thenine
+0609,06,M'Cisna,مسيسنة,Seddouk,06,06,decret 91-306,decret 91-306,Sidi Saïd
+0610,06,Thinabdher,تينبذار,Sidi Aïch,06,06,loi 84-09,loi 84-09,Tinabdher
+0611,06,Tichy,تيشى,Tichy,06,06,decret 91-306,loi 84-09,Tichi
+0612,06,Semaoun,سمعون,Amizour,06,06,loi 84-09,loi 84-09,Semaoune
+0613,06,Kendira,كنديرة,Barbacha,06,06,loi 84-09,loi 84-09,
+0614,06,Tifra,تيفرة,Sidi Aïch,06,06,loi 84-09,loi 84-09,
+0615,06,Ighram,اغرم,Akbou,06,06,loi 84-09,loi 84-09,
+0616,06,Amalou,أمالو,Seddouk,06,06,loi 84-09,loi 84-09,
+0617,06,Ighil Ali,اغيل على,Ighil Ali,06,06,loi 84-09,loi 84-09,
+0618,06,Iflaine El Maten,افلاين الماثن,El Kseur,06,06,decret 91-306,loi 84-09,Ifelain Ilmathen|Fenaïa Ilmaten
+0619,06,Toudja,توجة,El Kseur,06,06,loi 84-09,loi 84-09,
+0620,06,Darguina,درقينة,Darguina,06,06,loi 84-09,loi 84-09,
+0621,06,Sidi Ayad,سيدى عياد,Sidi Aïch,06,06,loi 84-09,loi 84-09,
+0622,06,Aokas,أوقاس,Aokas,06,06,loi 84-09,loi 84-09,
+0623,06,Béni Djellil,بنى جليل,Amizour,06,06,loi 84-09,loi 84-09,
+0624,06,Adekar,أذكار,Adekar,06,06,loi 84-09,loi 84-09,
+0625,06,Akbou,آقبو,Akbou,06,06,loi 84-09,loi 84-09,
+0626,06,Seddouk,صدوق,Seddouk,06,06,loi 84-09,loi 84-09,
+0627,06,Tazmalt,تازمالت,Tazmalt,06,06,loi 84-09,loi 84-09,
+0628,06,Aït Rizine,آيت رزين,Ighil Ali,06,06,loi 84-09,loi 84-09,Aït R'zine
+0629,06,Chemini,شمينى,Chemini,06,06,loi 84-09,loi 84-09,
+0630,06,Souk Oufella,السوق أوفلا,Chemini,06,06,loi 84-09,loi 84-09,
+0631,06,Taskriout,تاسكريوت,Darguina,06,06,loi 84-09,loi 84-09,
+0632,06,Tibane,تيبان,Chemini,06,06,loi 84-09,loi 84-09,
+0633,06,Tala Hamza,ثالة حمزة,Tichy,06,06,loi 84-09,loi 84-09,
+0634,06,Barbacha,برباشة,Barbacha,06,06,loi 84-09,loi 84-09,
+0635,06,Béni Ksila,بنى كسيلة,Adekar,06,06,loi 84-09,loi 84-09,
+0636,06,Ouzellaguen,أوزلاقن,Ifri Ouzellaguene,06,06,loi 84-09,loi 84-09,Ouzellaguène
+0637,06,Bouhamza,بوحمزة,Seddouk,06,06,loi 84-09,loi 84-09,
+0638,06,Béni Melikèche,بنى مليكش,Tazmalt,06,06,loi 84-09,loi 84-09,Beni Mellikeche
+0639,06,Sidi Aïch,سيدى عيش,Sidi Aïch,06,06,loi 84-09,loi 84-09,
+0640,06,El Kseur,القصر,El Kseur,06,06,loi 84-09,loi 84-09,
+0641,06,Melbou,ملبو,Souk El Tenine,06,06,loi 84-09,loi 84-09,
+0642,06,Akfadou,أكفادو,Chemini,06,06,loi 84-09,loi 84-09,
+0643,06,Leflaye,لفلاى,Sidi Aïch,06,06,loi 84-09,loi 84-09,
+0644,06,Kherrata,خراطة,Kherrata,06,06,loi 84-09,loi 84-09,
+0645,06,Draa El Kaïd,ذراع القايد,Kherrata,06,06,decret 91-306,loi 84-09,Draa Kaïd
+0646,06,Tamridjet,تامريجت,Souk El Tenine,06,06,loi 84-09,loi 84-09,
+0647,06,Aït Smaïl,آيت اسماعيل,Darguina,06,06,loi 84-09,loi 84-09,
+0648,06,Boukhelifa,بوخليفة,Tichy,06,06,loi 84-09,loi 84-09,
+0649,06,Tizi N'Berber,تيزى نبربر,Aokas,06,06,loi 84-09,loi 84-09,
+0650,06,Béni Maouche,بنى معوش,Béni Maouche,06,06,decret 91-306,loi 84-09,Béni Maouch
+0651,06,Oued Ghir,وادى غير,Béjaïa,06,06,loi 84-09,loi 84-09,
+0652,06,Boudjellil,بوجليل,Tazmalt,06,06,loi 84-09,loi 84-09,
+0701,07,Biskra,بسكرة,Biskra,07,07,loi 26-06,loi 26-06,
+0702,07,Oumache,أوماش,Ourlal,07,07,loi 26-06,loi 26-06,
+0704,07,Chetma,شتمة,Sidi Okba,07,07,loi 26-06,loi 26-06,
+0711,07,Sidi Okba,سيدي عقبة,Sidi Okba,07,07,loi 26-06,loi 26-06,
+0712,07,M'Chounèche,مشونش,M'Chounèche,07,07,loi 26-06,loi 26-06,Mechounèche
+0713,07,El Haouch,الحوش,Sidi Okba,07,07,loi 26-06,loi 26-06,
+0714,07,Aïn Naga,عين الناقة,Sidi Okba,07,07,loi 26-06,loi 26-06,
+0715,07,Zeribet El Oued,زريبة الوادي,Zeribet El Oued,07,07,loi 26-06,loi 26-06,
+0716,07,El Feïdh,الفيض,Zeribet El Oued,07,07,loi 26-06,loi 26-06,
+0721,07,Tolga,طولقة,Tolga,07,07,loi 26-06,loi 26-06,
+0722,07,Lioua,ليوة,Ourlal,07,07,loi 26-06,loi 26-06,
+0723,07,Lichana,ليشانة,Tolga,07,07,loi 26-06,loi 26-06,
+0724,07,Ourlal,أورلال,Ourlal,07,07,loi 26-06,loi 26-06,
+0725,07,M'Lili,أمليلي,Ourlal,07,07,loi 26-06,loi 26-06,
+0726,07,Foughala,فوغالة,Foughala,07,07,loi 26-06,loi 26-06,
+0727,07,Bordj Ben Azzouz,برج بن عزوز,Tolga,07,07,loi 26-06,loi 26-06,
+0728,07,Meziraa,المزيرعة,Zeribet El Oued,07,07,loi 26-06,loi 26-06,El Mizaraa
+0729,07,Bouchagroun,بوشقرون,Tolga,07,07,loi 26-06,loi 26-06,Bouchagroune
+0730,07,Mekhadma,أمخادمة,Ourlal,07,07,loi 26-06,loi 26-06,
+0731,07,El Ghrous,الغروس,Foughala,07,07,loi 26-06,loi 26-06,
+0732,07,El Hadjeb,الحاجب,Biskra,07,07,loi 26-06,loi 26-06,
+0733,07,Khangat Sidi Nadji,خنقة سيدي ناجي,Zeribet El Oued,07,07,loi 26-06,loi 26-06,Khenguet Sidi Nadji|Khanguet Sidi Nadji
+0801,08,Béchar,بشار,Béchar,08,08,loi 19-12,loi 19-12,
+0802,08,Erg Ferradj,عرق فراج,Abadla,08,08,loi 19-12,loi 19-12,Arg Ferradj
+0804,08,Meridja,مريجة,Kenadsa,08,08,loi 19-12,loi 19-12,
+0806,08,Lahmar,الاحمر,Lahmar,08,08,loi 19-12,loi 19-12,
+0809,08,Mechraa Houari Boumediène,مشرع هواري بومدين,Abadla,08,08,loi 19-12,loi 19-12,Mechra Houari Boumédiène|Mechraa Houari Boumedienne
+0810,08,Kenadsa,قنادسة,Kenadsa,08,08,loi 19-12,loi 19-12,
+0813,08,Taghit,تاغيت,Taghit,08,08,loi 19-12,loi 19-12,
+0815,08,Boukaïs,بوقايس,Lahmar,08,08,loi 19-12,loi 19-12,
+0816,08,Mogheul,موغل,Lahmar,08,08,loi 19-12,loi 19-12,Mougheul
+0817,08,Abadla,العبادلة,Abadla,08,08,loi 19-12,loi 19-12,
+0821,08,Béni Ounif,بني ونيف,Béni Ounif,08,08,loi 19-12,loi 19-12,
+0901,09,Blida,البليدة,Blida,09,09,loi 84-09,loi 84-09,
+0902,09,Chebli,الشبلى,Chebli,09,09,loi 84-09,loi 84-09,
+0903,09,Bouinan,بوعينان,Chebli,09,09,loi 84-09,loi 84-09,
+0904,09,Oued El Alleug,وادى العلايق,Oued El Alleug,09,09,loi 84-09,loi 84-09,Oued Alleug
+0907,09,Ouled Yaïch,أولاد يعيش,Ouled Yaïch,09,09,loi 84-09,loi 84-09,
+0908,09,Chréa,الشريعة,Ouled Yaïch,09,09,loi 84-09,loi 84-09,
+0910,09,El Affroun,العفرون,El Affroun,09,09,loi 84-09,loi 84-09,
+0911,09,Chiffa,الشفة,Mouzaïa,09,09,loi 84-09,loi 84-09,
+0912,09,Hammam Melouane,حمام ملوان,Bougara,09,09,loi 84-09,loi 84-09,Hammam El Ouane
+0913,09,Ben Khellil,بن خليل,Oued El Alleug,09,09,loi 84-09,loi 84-09,Benkhelil
+0914,09,Soumaa,الصومعة,Boufarik,09,09,loi 84-09,loi 84-09,
+0916,09,Mouzaïa,موزاية,Mouzaïa,09,09,loi 84-09,loi 84-09,
+0917,09,Souhane,صوحان,Larbaa,09,09,loi 84-09,loi 84-09,
+0918,09,Meftah,مفتاح,Meftah,09,09,loi 84-09,loi 84-09,
+0919,09,Ouled Selama,أولاد سلامة,Sidi Moussa,09,09,loi 84-09,loi 84-09,Ouled Slama
+0920,09,Boufarik,بوفاريك,Boufarik,09,09,loi 84-09,loi 84-09,
+0921,09,Larbaa,الاربعاء,Larbaa,09,09,loi 84-09,loi 84-09,
+0922,09,Oued Djer,وادى جر,El Affroun,09,09,loi 84-09,loi 84-09,
+0923,09,Béni Tamou,بنى تامو,Oued El Alleug,09,09,loi 84-09,loi 84-09,
+0924,09,Bouarfa,بوعرفة,Blida,09,09,loi 84-09,loi 84-09,
+0925,09,Béni Mered,بنى مراد,Ouled Yaïch,09,09,loi 84-09,loi 84-09,
+0926,09,Bougara,بوقرة,Bougara,09,09,loi 84-09,loi 84-09,
+0927,09,Guerrouaou,قرواو,Boufarik,09,09,loi 84-09,loi 84-09,Guerouaou
+0928,09,Aïn Romana,عين الرمانة,Mouzaïa,09,09,loi 84-09,loi 84-09,
+0929,09,Djebabra,جبابرة,Meftah,09,09,loi 84-09,loi 84-09,
+1001,10,Bouira,البويرة,Bouira,10,10,loi 84-09,loi 84-09,
+1002,10,El Asnam,الاسنام,Bechloul,10,10,loi 84-09,loi 84-09,
+1003,10,Guerrouma,قرومة,Lakhdaria,10,10,loi 84-09,loi 84-09,
+1004,10,Souk El Khemis,سوق الخميس,Souk El Khemis,10,10,loi 84-09,loi 84-09,
+1005,10,Kadiria,قاديرية,Kadiria,10,10,loi 84-09,loi 84-09,
+1006,10,Hanif,حنيف,M'Chedallah,10,10,loi 84-09,loi 84-09,Ahnif
+1007,10,Dirah,ديرة,Sour El Ghozlane,10,10,loi 84-09,loi 84-09,Dirrah
+1008,10,Ait Laaziz,آيت لعزيز,Bouira,10,10,decret 91-306,decret 91-306,Bezite|Aït Laziz
+1009,10,Taghzout,تاغزوت,Haïzer,10,10,loi 84-09,loi 84-09,
+1010,10,Raouraoua,روراوة,Bir Ghbalou,10,10,loi 84-09,loi 84-09,
+1011,10,Mezdour,مزدور,Bordj Okhriss,10,10,loi 84-09,loi 84-09,Mesdour
+1012,10,Haïzer,الحيزر,Haïzer,10,10,loi 84-09,loi 84-09,
+1013,10,Lakhdaria,الاخضرية,Lakhdaria,10,10,loi 84-09,loi 84-09,
+1014,10,Maala,معلة,Lakhdaria,10,10,loi 84-09,loi 84-09,
+1015,10,El Hachimia,الهاشمية,El Hachimia,10,10,loi 84-09,loi 84-09,
+1016,10,Aomar,عمر,Kadiria,10,10,loi 84-09,loi 84-09,
+1017,10,Chorfa,الشرفاء,M'Chedallah,10,10,loi 84-09,loi 84-09,
+1018,10,Bordj Okhriss,برج أوخريص,Bordj Okhriss,10,10,decret 91-306,loi 84-09,Bordj Oukhriss
+1019,10,El Adjiba,العجيبة,Bechloul,10,10,loi 84-09,loi 84-09,
+1020,10,El Hakimia,الحكيمية,Sour El Ghozlane,10,10,decret 91-306,decret 91-306,El Morra
+1021,10,El Khebouzia,الخبوزية,Bir Ghbalou,10,10,loi 84-09,loi 84-09,El Khabouzia
+1022,10,Ahl El Ksar,أهل القصر,Bechloul,10,10,loi 84-09,loi 84-09,
+1023,10,Bouderbala,بودربالة,Lakhdaria,10,10,loi 84-09,loi 84-09,
+1024,10,Z'barbar,زبربر,Lakhdaria,10,10,decret 91-306,decret 91-306,El Isseri
+1025,10,Aïn El Hadjar,عين الحجر,Aïn Bessem,10,10,loi 84-09,loi 84-09,Aïn Lahdjar
+1026,10,Djebahia,جباحية,Kadiria,10,10,loi 84-09,loi 84-09,
+1027,10,Aghbalou,أغبالو,M'Chedallah,10,10,loi 84-09,loi 84-09,
+1028,10,Taguedit,تاقديت,Bordj Okhriss,10,10,loi 84-09,loi 84-09,
+1029,10,Aïn Turk,عين الترك,Bouira,10,10,loi 84-09,loi 84-09,Aïn El Turc
+1030,10,Saharidj,الصهاريج,M'Chedallah,10,10,loi 84-09,loi 84-09,
+1031,10,Dechmia,الدشمية,Sour El Ghozlane,10,10,loi 84-09,loi 84-09,
+1032,10,Ridane,ريدان,Sour El Ghozlane,10,10,loi 84-09,loi 84-09,
+1033,10,Bechloul,بشلول,Bechloul,10,10,loi 84-09,loi 84-09,
+1034,10,Boukram,بوكرم,Lakhdaria,10,10,loi 84-09,loi 84-09,
+1035,10,Aïn Bessem,عين بسام,Aïn Bessem,10,10,decret 91-306,loi 84-09,Aïn Bessam
+1036,10,Bir Ghbalou,بئر غبالو,Bir Ghbalou,10,10,loi 84-09,loi 84-09,
+1037,10,M'Chedallah,مشدالة,M'Chedallah,10,10,loi 84-09,loi 84-09,M'Chedellah
+1038,10,Sour El Ghozlane,سور الغزلان,Sour El Ghozlane,10,10,loi 84-09,loi 84-09,
+1039,10,Maamora,المعمورة,Sour El Ghozlane,10,10,loi 84-09,loi 84-09,
+1040,10,Ouled Rached,أولاد راشد,Bechloul,10,10,loi 84-09,loi 84-09,
+1041,10,Aïn Laloui,عين العلوى,Aïn Bessem,10,10,loi 84-09,loi 84-09,
+1042,10,Hadjera Zerga,الحجرة الزرقاء,Bordj Okhriss,10,10,loi 84-09,loi 84-09,Hadjra Zerga
+1043,10,Taourirt,تاوريرت,M'Chedallah,10,10,loi 84-09,loi 84-09,Ath Mansour
+1044,10,El Mokrani,المقراني,Souk El Khemis,10,10,decret 91-306,decret 91-306,El Madjen
+1045,10,Oued El Berdi,وادى البردى,El Hachimia,10,10,loi 84-09,loi 84-09,
+1101,11,Tamenghasset,تامنغست,Tamenghasset,11,11,loi 19-12,loi 19-12,Tamanghasset|Tamanrasset
+1102,11,Abalessa,أباليسا,Abalessa,11,11,loi 19-12,loi 19-12,Silet Abalessa
+1105,11,Idlès,إدلس,Tazrouk,11,11,loi 19-12,loi 19-12,
+1106,11,Tazrouk,تازروق,Tazrouk,11,11,loi 19-12,loi 19-12,
+1109,11,In Amguel,إن أمقل,Tamenghasset,11,11,loi 19-12,loi 19-12,
+1201,12,Tébessa,تبسة,Tébessa,12,12,loi 26-06,loi 26-06,
+1203,12,Cheria,الشريعة,Cheria,12,12,loi 26-06,loi 26-06,
+1204,12,Stah Guentis,السطح قنتيس,El Ogla,12,12,loi 26-06,loi 26-06,
+1205,12,El Aouinet,العوينات,El Aouinet,12,12,loi 26-06,loi 26-06,
+1206,12,Lahouidjbet,الحويجبات,El Ma Labiod,12,12,loi 26-06,loi 26-06,El Houidjbet
+1207,12,Safsaf El Ouesra,صفصاف الوسرى,Oum Ali,12,12,loi 26-06,loi 26-06,
+1208,12,Hammamet,الحمامات,Bir Mokkadem,12,12,loi 26-06,loi 26-06,
+1210,12,Bir Mokkadem,بئر مقدم,Bir Mokkadem,12,12,loi 26-06,loi 26-06,Bir El Mokadem|Bir Mokadem
+1211,12,El Kouif,الكويف,El Kouif,12,12,loi 26-06,loi 26-06,
+1212,12,Morsott,مرسط,Morsott,12,12,loi 26-06,loi 26-06,
+1213,12,El Ogla,العقلة,El Ogla,12,12,loi 26-06,loi 26-06,
+1214,12,Bir Dheheb,بئر الذهب,Morsott,12,12,loi 26-06,loi 26-06,Bir Deheb|Bir Dheb
+1216,12,Gourrigueur,قريقر,Bir Mokkadem,12,12,loi 26-06,loi 26-06,Guorriguer|Ghorriguer
+1217,12,Bekkaria,بكارية,El Kouif,12,12,loi 26-06,loi 26-06,
+1218,12,Boukhadra,بوخضرة,El Aouinet,12,12,loi 26-06,loi 26-06,
+1219,12,Ouenza,الونزة,Ouenza,12,12,loi 26-06,loi 26-06,
+1220,12,El Ma Labiod,الماء الأبيض,El Ma Labiod,12,12,loi 26-06,loi 26-06,El Ma El Biodh|El Ma Labiodh
+1221,12,Oum Ali,أم علي,Oum Ali,12,12,loi 26-06,loi 26-06,
+1222,12,Thlidjene,ثليجان,Cheria,12,12,loi 26-06,loi 26-06,Thilidjène|Tlidjene
+1223,12,Ain Zerga,عين الزرقاء,Ouenza,12,12,loi 26-06,loi 26-06,
+1224,12,El Meridj,المريج,Ouenza,12,12,loi 26-06,loi 26-06,
+1225,12,Boulhaf Dyr,بولحاف الدير,El Kouif,12,12,loi 26-06,loi 26-06,Boulhef Dyn|Boulhaf Dir
+1226,12,Bedjene,بجن,El Ogla,12,12,loi 26-06,loi 26-06,
+1227,12,El Mezeraa,المزرعة,El Ogla,12,12,loi 26-06,loi 26-06,El Mezraa
+1301,13,Tlemcen,تلمسان,Tlemcen,13,13,loi 26-06,loi 26-06,
+1302,13,Béni Mester,بني مستر,Mansourah,13,13,loi 26-06,loi 26-06,
+1303,13,Aïn Tallout,عين تالوت,Aïn Tallout,13,13,loi 26-06,loi 26-06,
+1304,13,Remchi,الرمشي,Remchi,13,13,loi 26-06,loi 26-06,
+1305,13,El Fehoul,الفحول,Remchi,13,13,loi 26-06,loi 26-06,
+1306,13,Sabra,صبرة,Sabra,13,13,loi 26-06,loi 26-06,
+1307,13,Ghazaouet,الغزوات,Ghazaouet,13,13,loi 26-06,loi 26-06,
+1308,13,Souani,السواني,Bab El Assa,13,13,loi 26-06,loi 26-06,
+1309,13,Djebala,جبالة,Nédroma,13,13,loi 26-06,loi 26-06,
+1311,13,Oued Lakhdar,وادي الأخضر,Ouled Mimoun,13,13,loi 26-06,loi 26-06,Oued Chouli|Oued Chouly
+1312,13,Ain Fezza,عين فزة,Chetouane,13,13,loi 26-06,loi 26-06,
+1313,13,Ouled Mimoun,أولاد ميمون,Ouled Mimoun,13,13,loi 26-06,loi 26-06,
+1314,13,Amieur,عمير,Chetouane,13,13,loi 26-06,loi 26-06,
+1315,13,Ain Youcef,عين يوسف,Remchi,13,13,loi 26-06,loi 26-06,
+1316,13,Zenata,زناتة,Hennaya,13,13,loi 26-06,loi 26-06,
+1317,13,Béni Snous,بني سنوس,Béni Snous,13,13,loi 26-06,loi 26-06,
+1318,13,Bab El Assa,باب العسة,Bab El Assa,13,13,loi 26-06,loi 26-06,
+1319,13,Dar Yaghmouracène,دار يغمراسن,Ghazaouet,13,13,loi 26-06,loi 26-06,Dar Yaghmoracen
+1320,13,Fellaoucène,فلاوسن,Fellaoucène,13,13,loi 26-06,loi 26-06,
+1321,13,Azaïls,لعزايل,Béni Snous,13,13,loi 26-06,loi 26-06,Azail
+1322,13,Sebaa Chioukh,السبعة شيوخ,Remchi,13,13,loi 26-06,loi 26-06,
+1323,13,Tirni Béni Hediel,تيرني بني هديل,Mansourah,13,13,loi 26-06,loi 26-06,Terny Beni Hediel|Terny Beni Hdiel
+1324,13,Bensekrane,بن سكران,Bensekrane,13,13,loi 26-06,loi 26-06,
+1325,13,Ain Nehala,عين النحالة,Aïn Tallout,13,13,loi 26-06,loi 26-06,Aïn Nahala
+1326,13,Hennaya,الحناية,Hennaya,13,13,loi 26-06,loi 26-06,
+1327,13,Maghnia,مغنية,Maghnia,13,13,loi 26-06,loi 26-06,
+1328,13,Hammam Boughrara,حمام بوغرارة,Maghnia,13,13,loi 26-06,loi 26-06,Hammam Bougherara
+1329,13,Souahlia,السواحلية,Ghazaouet,13,13,loi 26-06,loi 26-06,
+1330,13,Msirda Fouaga,مسيردة الفواقة,Marsa Ben M'Hidi,13,13,loi 26-06,loi 26-06,M'Cirda Fouaga
+1331,13,Aïn Fetah,عين فتاح,Fellaoucène,13,13,loi 26-06,loi 26-06,
+1333,13,Souk Thlata,سوق الثلاثاء,Bab El Assa,13,13,loi 26-06,loi 26-06,Souk Tlata
+1334,13,Sidi Abdelli,سيد عبد اللى,Bensekrane,13,13,loi 26-06,loi 26-06,
+1335,13,Sebdou,سبدو,Sebdou,13,13,loi 26-06,loi 26-06,
+1336,13,Béni Ouarsous,بني ورسوس,Remchi,13,13,loi 26-06,loi 26-06,
+1337,13,Sidi Medjahed,سيدى مجاهد,Béni Boussaïd,13,13,loi 26-06,loi 26-06,
+1338,13,Béni Boussaïd,بني بوسعيد,Béni Boussaïd,13,13,loi 26-06,loi 26-06,
+1339,13,Marsa Ben M'Hidi,مرسى بن مهيدى,Marsa Ben M'Hidi,13,13,loi 26-06,loi 26-06,
+1340,13,Nédroma,ندرومة,Nédroma,13,13,loi 26-06,loi 26-06,
+1342,13,Béni Bahdel,بني بحدل,Béni Snous,13,13,loi 26-06,loi 26-06,
+1344,13,Honaïne,حنين,Honaïne,13,13,loi 26-06,loi 26-06,
+1345,13,Tianet,تيانت,Ghazaouet,13,13,loi 26-06,loi 26-06,Tienet
+1346,13,Ouled Riyah,أولاد رياح,Hennaya,13,13,loi 26-06,loi 26-06,Ouled Ryah
+1347,13,Bouhlou,بوحلو,Sabra,13,13,loi 26-06,loi 26-06,
+1348,13,Béni Khellad,بني خلاد,Honaïne,13,13,loi 26-06,loi 26-06,Souk El Khemis|Béni Khaled|Beni Rached
+1349,13,Aïn Ghoraba,عين الغرابة,Mansourah,13,13,loi 26-06,loi 26-06,
+1350,13,Chetouane,شتوان,Chetouane,13,13,loi 26-06,loi 26-06,
+1351,13,Mansourah,المنصورة,Mansourah,13,13,loi 26-06,loi 26-06,
+1352,13,Béni Semiel,بنى صميل,Ouled Mimoun,13,13,loi 26-06,loi 26-06,
+1353,13,Ain Kebira,العين الكبيرة,Fellaoucène,13,13,loi 26-06,loi 26-06,
+1401,14,Tiaret,تيارت,Tiaret,14,14,loi 26-06,loi 26-06,
+1402,14,Medroussa,مدروسة,Medroussa,14,14,loi 26-06,loi 26-06,
+1403,14,Aïn Bouchekif,عين بوشقيف,Dahmouni,14,14,loi 26-06,loi 26-06,Aïn Bouchkif
+1404,14,Sidi Ali Mellal,سيدي علي ملال,Oued Lili,14,14,loi 26-06,loi 26-06,
+1405,14,Aïn Dzarit,عين دزاريت,Mahdia,14,14,loi 26-06,loi 26-06,Aïn Zarit
+1406,14,Aïn Deheb,عين الذهب,Aïn Deheb,14,14,loi 26-06,loi 26-06,Ain Dheb
+1407,14,Sidi Bakhti,سيدى بختي,Medroussa,14,14,loi 26-06,loi 26-06,
+1408,14,Médrissa,مدريسة,Aïn Kermes,14,14,loi 26-06,loi 26-06,
+1410,14,Madna,مادنة,Aïn Kermes,14,14,loi 26-06,loi 26-06,
+1411,14,Sebt,السبت,Meghila,14,14,loi 26-06,loi 26-06,
+1412,14,Mellakou,ملاكو,Medroussa,14,14,loi 26-06,loi 26-06,
+1413,14,Dahmouni,الدحموني,Dahmouni,14,14,loi 26-06,loi 26-06,
+1414,14,Rahouia,الرحوية,Rahouia,14,14,loi 26-06,loi 26-06,
+1415,14,Mahdia,مهدية,Mahdia,14,14,loi 26-06,loi 26-06,
+1416,14,Sougueur,السوقر,Sougueur,14,14,loi 26-06,loi 26-06,
+1417,14,Sidi Abdelghani,سيدي عبد الغني,Sougueur,14,14,loi 26-06,loi 26-06,Si Abdelghani
+1418,14,Aïn El Hadid,عين الحديد,Frenda,14,14,loi 26-06,loi 26-06,
+1419,14,Djebilet Rosfa,جبيلة الرصفاء,Aïn Kermes,14,14,loi 26-06,loi 26-06,
+1420,14,Naïma,النعيمة,Aïn Deheb,14,14,loi 26-06,loi 26-06,
+1421,14,Meghila,مغيلة,Meghila,14,14,loi 26-06,loi 26-06,
+1422,14,Guertoufa,قرطوفة,Rahouia,14,14,loi 26-06,loi 26-06,
+1423,14,Sidi Hosni,سيدي حسني,Meghila,14,14,loi 26-06,loi 26-06,
+1424,14,Djileli Ben Amar,جيلالي بن عمار,Mechraa Sfa,14,14,loi 26-06,loi 26-06,Djillali Ben Amar
+1425,14,Sebaïne,سبعين,Mahdia,14,14,loi 26-06,loi 26-06,
+1426,14,Tousnina,توسنينة,Sougueur,14,14,loi 26-06,loi 26-06,
+1427,14,Frenda,فرندة,Frenda,14,14,loi 26-06,loi 26-06,
+1428,14,Aïn Kermes,عين كرمس,Aïn Kermes,14,14,loi 26-06,loi 26-06,
+1431,14,Nadorah,الناظورة,Mahdia,14,14,loi 26-06,loi 26-06,
+1432,14,Tagdemt,تاقدمت,Mechraa Sfa,14,14,loi 26-06,loi 26-06,
+1433,14,Oued Lili,وادى ليلي,Oued Lili,14,14,loi 26-06,loi 26-06,Oued Lilli
+1434,14,Mechraa Sfa,مشرع الصفا,Mechraa Sfa,14,14,loi 26-06,loi 26-06,Mechraa Safa
+1436,14,Chehaïma,شحيمة,Aïn Deheb,14,14,loi 26-06,loi 26-06,Chahaima
+1437,14,Takhemaret,تخمارت,Frenda,14,14,loi 26-06,loi 26-06,Takhmaret
+1438,14,Sidi Abderrahmane,سيدي عبد الرحمان,Aïn Kermes,14,14,loi 26-06,loi 26-06,Ouled Djerad
+1441,14,Faïdja,الفايجة,Sougueur,14,14,loi 26-06,loi 26-06,
+1442,14,Tidda,تيدة,Oued Lili,14,14,loi 26-06,loi 26-06,
+1501,15,Tizi Ouzou,تيزى وزو,Tizi Ouzou,15,15,loi 84-09,loi 84-09,
+1502,15,Aïn El Hammam,عين الحمام,Aïn El Hammam,15,15,loi 84-09,loi 84-09,
+1503,15,Akbil,أقبيل,Aïn El Hammam,15,15,loi 84-09,loi 84-09,
+1504,15,Fréha,فريحة,Azazga,15,15,loi 84-09,loi 84-09,
+1505,15,Souamaa,سوامع,Mekla,15,15,loi 84-09,loi 84-09,
+1506,15,Mechtras,مشتراس,Boghni,15,15,decret 91-306,loi 84-09,Mechtrass
+1507,15,Irdjen,ارجن,Larbaa Nath Iraten,15,15,loi 84-09,loi 84-09,
+1508,15,Timizart,تيمزارت,Ouaguenoun,15,15,loi 84-09,loi 84-09,
+1509,15,Makouda,ماكودة,Makouda,15,15,loi 84-09,loi 84-09,
+1510,15,Draa El Mizan,ذراع الميزان,Draa El Mizan,15,15,loi 84-09,loi 84-09,
+1511,15,Tizi Ghenif,تيزى غنيف,Tizi Ghenif,15,15,loi 84-09,loi 84-09,Tizi Gheniff
+1512,15,Bounouh,بونوح,Boghni,15,15,loi 84-09,loi 84-09,
+1513,15,Aït Chaffa,آيت شفعة,Azzefoun,15,15,decret 91-306,loi 84-09,Aït Chaffaa|Aït Chafâa
+1514,15,Frikat,فريقات,Draa El Mizan,15,15,loi 84-09,loi 84-09,
+1515,15,Béni Aïssi,بني عيسي,Béni Douala,15,15,loi 84-09,loi 84-09,
+1516,15,Béni Zmenzer,بنى زمنزر,Béni Douala,15,15,loi 84-09,loi 84-09,
+1517,15,Iferhounène,افرحونن,Iferhounène,15,15,loi 84-09,loi 84-09,
+1518,15,Azazga,عزازقة,Azazga,15,15,loi 84-09,loi 84-09,Azzazga
+1519,15,Illoula Oumalou,أيلولة أومالو,Bouzguen,15,15,decret 91-306,loi 84-09,Iloula Oumalou
+1520,15,Yakourène,اعكورن,Azazga,15,15,loi 84-09,loi 84-09,Yakouren
+1521,15,Larbaa Nath Iraten,الاربعاء نايت اراثن,Larbaa Nath Iraten,15,15,decret 91-306,loi 84-09,Larba Nath Iraten|Larbaâ Nath Irathen
+1522,15,Tizi Rached,تيزى راشد,Tizi Rached,15,15,loi 84-09,loi 84-09,
+1523,15,Zekri,زكرى,Azazga,15,15,loi 84-09,loi 84-09,
+1524,15,Ouaguenoun,واقنون,Ouaguenoun,15,15,loi 84-09,loi 84-09,
+1525,15,Aïn Zaouia,عين الزاوية,Draa El Mizan,15,15,loi 84-09,loi 84-09,
+1526,15,M'Kira,مكيرة,Tizi Ghenif,15,15,loi 84-09,loi 84-09,
+1527,15,Aït Yahia,آيت يحيى,Aïn El Hammam,15,15,loi 84-09,loi 84-09,
+1528,15,Aït Mahmoud,آيت محمود,Béni Douala,15,15,loi 84-09,loi 84-09,
+1529,15,Maatka,المعاتقة,Maatka,15,15,loi 84-09,loi 84-09,Maâtkas
+1530,15,Aït Boumahdi,آيت بومهدى,Ouacif,15,15,decret 91-306,loi 84-09,Aït Boumehdi
+1531,15,Abi Youcef,أبى يوسف,Aïn El Hammam,15,15,loi 84-09,loi 84-09,
+1532,15,Béni Douala,بنى دوالة,Béni Douala,15,15,loi 84-09,loi 84-09,
+1533,15,Illilten,أليلتين,Iferhounène,15,15,loi 84-09,loi 84-09,
+1534,15,Bouzguen,بوزقن,Bouzguen,15,15,loi 84-09,loi 84-09,Bouzeguène
+1535,15,Aït Agouacha,آيت أقواشة,Larbaa Nath Iraten,15,15,decret 91-306,loi 84-09,Aït Aggouacha|Aït Aouggacha
+1536,15,Ouadhia,واضية,Ouadhia,15,15,loi 84-09,loi 84-09,
+1537,15,Azzefoun,أزفون,Azzefoun,15,15,loi 84-09,loi 84-09,Azeffoun
+1538,15,Tigzirt,تقزرت,Tigzirt,15,15,loi 84-09,loi 84-09,
+1539,15,Djebel Aïssa Mimoun,جبل عيسى ميمون,Ouaguenoun,15,15,loi 84-09,loi 84-09,
+1540,15,Boghni,بوغنى,Boghni,15,15,loi 84-09,loi 84-09,
+1541,15,Ifigha,ايفيغاء,Azazga,15,15,loi 84-09,loi 84-09,
+1542,15,Aït Oumalou,آيت أومالو,Larbaa Nath Iraten,15,15,loi 84-09,loi 84-09,
+1543,15,Tirmitine,تيرمتين,Draa Ben Khedda,15,15,loi 84-09,loi 84-09,
+1544,15,Akerrou,أقرو,Azzefoun,15,15,loi 84-09,loi 84-09,
+1545,15,Yatafène,ياطفان,Béni Yenni,15,15,loi 84-09,loi 84-09,Yatafen
+1546,15,Béni Ziki,بنى زيكى,Bouzguen,15,15,loi 84-09,loi 84-09,Béni Zeki
+1547,15,Draa Ben Khedda,ذراع بن خدة,Draa Ben Khedda,15,15,decret 91-306,loi 84-09,Dra Ben Khedda
+1548,15,Ouacif,واسيف,Ouacif,15,15,loi 84-09,loi 84-09,
+1549,15,Idjeur,أجر,Bouzguen,15,15,loi 84-09,loi 84-09,
+1550,15,Mekla,مقلع,Mekla,15,15,loi 84-09,loi 84-09,
+1551,15,Tizi N'talata,تيزى نثلاثة,Ouadhia,15,15,decret 91-306,loi 84-09,Tizi N'Thlata|Tizi N'Tleta
+1552,15,Béni Yenni,بنى ينى,Béni Yenni,15,15,loi 84-09,loi 84-09,
+1553,15,Aghrib,أغريب,Azzefoun,15,15,loi 84-09,loi 84-09,Aghribs
+1554,15,Iflissen,ايفليسن,Tigzirt,15,15,loi 84-09,loi 84-09,
+1555,15,Boudjima,بوجيمة,Makouda,15,15,loi 84-09,loi 84-09,
+1556,15,Aït Yahia Moussa,آيت يحي موسى,Draa El Mizan,15,15,decret 91-306,decret 91-306,Oued Ksari
+1557,15,Souk El Thenine,سوق الاثنين,Maatka,15,15,loi 84-09,loi 84-09,Souk El Tenine
+1558,15,Aït Khellili,آيت خليلى,Mekla,15,15,loi 84-09,loi 84-09,Aït Khelili
+1559,15,Sidi Naamane,سيدى نعمان,Draa Ben Khedda,15,15,loi 84-09,loi 84-09,
+1560,15,Iboudraren,أبودرارن,Béni Yenni,15,15,loi 84-09,loi 84-09,Iboudrarène
+1561,15,Aghni Goughrane,أقنى قغران,Ouadhia,15,15,decret 91-306,loi 84-09,Aghni Goughran|Agouni Gueghrane
+1562,15,Mizrana,مزرانة,Tigzirt,15,15,loi 84-09,loi 84-09,Mezrara
+1563,15,Imsouhal,أمسوحال,Iferhounène,15,15,loi 84-09,loi 84-09,Imsouhel
+1564,15,Tadmaït,تادمايت,Draa Ben Khedda,15,15,loi 84-09,loi 84-09,
+1565,15,Aït Bouadou,آيت بوعدو,Ouadhia,15,15,loi 84-09,loi 84-09,Aït Bouaddou
+1566,15,Assi Youcef,أسى يوسف,Boghni,15,15,loi 84-09,loi 84-09,
+1567,15,Aït Toudert,آيت تودرت,Ouacif,15,15,loi 84-09,loi 84-09,
+1601,16,Alger-centre,الجزائر الوسطى,Sidi M'Hamed,16,16,loi 84-09,loi 84-09,El Djazaïr
+1602,16,Sidi M'Hamed,سيدى محمد,Sidi M'Hamed,16,16,loi 84-09,loi 84-09,
+1603,16,El Madania,المدنية,Hamma Annassers,16,16,loi 84-09,loi 84-09,
+1604,16,Hamma Annassers,حامة العناصر,Hamma Annassers,16,16,decret 91-306,loi 84-09,Hamma - Anassers|Mohamed Belouizdad
+1605,16,Bab El Oued,باب الوادى,Bab El Oued,16,16,loi 84-09,loi 84-09,
+1606,16,Bologhine,بولوغين,Bologhine,16,16,decret 91-306,decret 91-306,Bologhine Ibnou Ziri
+1607,16,Casbah,القصبة,Bab El Oued,16,16,loi 84-09,loi 84-09,
+1608,16,Oued Koriche,وادى قريش,Bab El Oued,16,16,loi 84-09,loi 84-09,
+1609,16,Bir Mourad Raïs,بئر مراد رايس,Bir Mourad Raïs,16,16,loi 84-09,loi 84-09,
+1610,16,El Biar,الابيار,Ben Aknoun,16,16,loi 84-09,loi 84-09,
+1611,16,Bouzaréah,بوزريعة,Bouzaréah,16,16,loi 84-09,loi 84-09,Bouzereah
+1612,16,Birkhadem,بئر خادم,Bir Mourad Raïs,16,16,loi 84-09,loi 84-09,
+1613,16,El Harrach,الحراش,El Harrach,16,16,loi 84-09,loi 84-09,
+1614,16,Baraki,براقى,Baraki,16,16,loi 84-09,loi 84-09,
+1615,16,Oued Smar,وادى السمار,El Harrach,16,16,loi 84-09,loi 84-09,
+1616,16,Bourouba,بوروبة,Bourouba,16,16,loi 84-09,loi 84-09,
+1617,16,Hussein Dey,حسين داى,Hussein Dey,16,16,loi 84-09,loi 84-09,
+1618,16,Kouba,القبة,Hussein Dey,16,16,loi 84-09,loi 84-09,
+1619,16,Badjarah,باش جراح,Bourouba,16,16,decret 91-306,loi 84-09,Bachedjarah|Bachdjerrah
+1620,16,Dar El Beïda,الدار البيضاء,Dar El Beïda,16,16,loi 84-09,loi 84-09,
+1621,16,Bab Ezzouar,باب الزوار,Dar El Beïda,16,16,loi 84-09,loi 84-09,
+1622,16,Ben Aknoun,ابن عكنون,Ben Aknoun,16,16,loi 84-09,loi 84-09,
+1623,16,Dély Ibrahim,دالى ابراهيم,Ben Aknoun,16,16,loi 84-09,loi 84-09,
+1624,16,Hammamet,الحمامات,Bologhine,16,16,decret 91-306,decret 91-306,Bains Romains|El Hammamet
+1625,16,Raïs Hamidou,رايس حميدو,Bologhine,16,16,loi 84-09,loi 84-09,
+1626,16,Gué de Constantine,جسر قسنطينة,Baraki,16,16,decret 91-306,decret 91-306,Djasr Kasentina
+1627,16,El Mouradia,المرادية,Hamma Annassers,16,16,loi 84-09,loi 84-09,
+1628,16,Hydra,حيدرة,Bir Mourad Raïs,16,16,loi 84-09,loi 84-09,
+1629,16,Mohammadia,المحمدية,El Harrach,16,16,loi 84-09,loi 84-09,Mohammedia
+1630,16,Bordj El Kiffan,برج الكيفان,Dar El Beïda,16,16,loi 84-09,loi 84-09,
+1631,16,El Magharia,المغارية,Hussein Dey,16,16,loi 84-09,loi 84-09,Maquaria
+1632,16,Béni Messous,بنى مسوس,Bouzaréah,16,16,loi 84-09,loi 84-09,
+1633,16,Les Eucalyptus,الكاليتوس,Baraki,16,16,loi 84-09,loi 84-09,Eucalyptus
+1634,16,Birtouta,بئر التوتة,Birtouta,16,16,ordonnance 97-14,loi 84-09,
+1635,16,Tessala El Merdja,تسالة المرجة,Birtouta,16,16,ordonnance 97-14,loi 84-09,Tassala El Merdja
+1636,16,Ouled Chebel,أولاد شبل,Chebli,16,16,ordonnance 97-14,loi 84-09,
+1637,16,Sidi Moussa,سيدى موسى,Sidi Moussa,16,16,ordonnance 97-14,loi 84-09,
+1638,16,Aïn Taya,عين طاية,Rouiba,16,16,ordonnance 97-14,loi 84-09,
+1639,16,Bordj El Bahri,البرج البحرى,Rouiba,16,16,ordonnance 97-14,loi 84-09,
+1640,16,El Marsa,المرسى,Rouiba,16,16,ordonnance 97-14,loi 84-09,Marsa
+1641,16,Heraoua,هراوة,Réghaïa,16,16,ordonnance 97-14,loi 84-09,Haraoua|Haroua|Harraoua
+1642,16,Rouiba,الرويبة,Rouiba,16,16,ordonnance 97-14,loi 84-09,
+1643,16,Réghaïa,الرغاية,Réghaïa,16,16,ordonnance 97-14,loi 84-09,
+1644,16,Aïn Bénian,عين البنيان,Chéraga,16,16,ordonnance 97-14,loi 84-09,
+1645,16,Staouéli,سطاوالى,Zéralda,16,16,ordonnance 97-14,loi 84-09,
+1646,16,Zéralda,زرالدة,Zéralda,16,16,ordonnance 97-14,loi 84-09,
+1647,16,Mâalma,المعالمة,Zéralda,16,16,ordonnance 97-14,loi 84-09,Mahelma
+1648,16,Rahmania,الرحمانية,Douéra,16,16,ordonnance 97-14,loi 84-09,
+1649,16,Souidania,السويدانية,Douéra,16,16,ordonnance 97-14,loi 84-09,
+1650,16,Chéraga,الشراقة,Chéraga,16,16,ordonnance 97-14,loi 84-09,
+1651,16,Ouled Fayet,أولاد فايت,Chéraga,16,16,ordonnance 97-14,loi 84-09,
+1652,16,El Achour,العشور,Draria,16,16,ordonnance 97-14,loi 84-09,
+1653,16,Draria,الدرارية,Draria,16,16,ordonnance 97-14,loi 84-09,
+1654,16,Douéra,الدويرة,Douéra,16,16,ordonnance 97-14,loi 84-09,
+1655,16,Baba Hassen,بابا حسن,Draria,16,16,ordonnance 97-14,loi 84-09,
+1656,16,Khraïcia,الخراصية,Douéra,16,16,ordonnance 97-14,loi 84-09,Khracia|Khraissia
+1657,16,Saoula,السحاولة,Draria,16,16,ordonnance 97-14,loi 84-09,S'haoula
+1701,17,Djelfa,الجلفة,Djelfa,17,17,loi 26-06,loi 26-06,
+1702,17,Moudjbara,المجبارة,Aïn El Ibel,17,17,loi 26-06,loi 26-06,Mouadjebar|Moudjebara
+1703,17,El Gueddid,القديد,Charef,17,17,loi 26-06,loi 26-06,El Guedid
+1704,17,Hassi Bahbah,حاسي بحبح,Hassi Bahbah,17,17,loi 26-06,loi 26-06,
+1705,17,Aïn Maabed,عين معبد,Hassi Bahbah,17,17,loi 26-06,loi 26-06,
+1710,17,Zaccar,زكار,Aïn El Ibel,17,17,loi 26-06,loi 26-06,
+1712,17,Sidi Baïzid,سيدي بايزيد,Dar Chioukh,17,17,loi 26-06,loi 26-06,
+1713,17,M'Liliha,المليليحة,Dar Chioukh,17,17,loi 26-06,loi 26-06,
+1714,17,El Idrissia,الإدريسية,El Idrissia,17,17,loi 26-06,loi 26-06,
+1715,17,Douis,الدويس,El Idrissia,17,17,loi 26-06,loi 26-06,
+1716,17,Hassi El Euch,حاسي العش,Hassi Bahbah,17,17,loi 26-06,loi 26-06,
+1723,17,Aïn Chouhada,عين الشهداء,El Idrissia,17,17,loi 26-06,loi 26-06,
+1725,17,Dar Chioukh,دار الشيوخ,Dar Chioukh,17,17,loi 26-06,loi 26-06,
+1726,17,Charef,الشارف,Charef,17,17,loi 26-06,loi 26-06,
+1727,17,Ben Yaagoub,بن يعقوب,Charef,17,17,loi 26-06,loi 26-06,Béni Yagoub|Beni Yacoub
+1728,17,Zaafrane,زعفران,Hassi Bahbah,17,17,loi 26-06,loi 26-06,
+1730,17,Aïn El Ibel,عين الإبل,Aïn El Ibel,17,17,loi 26-06,loi 26-06,
+1736,17,Tadmit,تعظميت,Aïn El Ibel,17,17,loi 26-06,loi 26-06,
+1801,18,Jijel,جيجل,Jijel,18,18,loi 84-09,loi 84-09,
+1802,18,Erraguène,اراقن,Ziamah Mansouriah,18,18,decret 91-306,loi 84-09,Eraguene
+1803,18,El Aouana,العوانة,El Aouana,18,18,loi 84-09,loi 84-09,
+1804,18,Ziamah Mansouriah,زيامة منصورية,Ziamah Mansouriah,18,18,decret 91-306,loi 84-09,Ziamma Mansouriah|Ziama Mansouriah
+1805,18,Taher,الطاهير,Taher,18,18,loi 84-09,loi 84-09,
+1806,18,Emir Abdelkader,الامير عبد القادر,Taher,18,18,loi 84-09,loi 84-09,
+1807,18,Chekfa,الشقفة,Chekfa,18,18,loi 84-09,loi 84-09,
+1808,18,Chahna,الشحنة,Taher,18,18,decret 91-306,loi 84-09,Chahana
+1809,18,El-Milia,الميلية,El-Milia,18,18,loi 84-09,loi 84-09,
+1810,18,Sidi Maarouf,سيدى معروف,Sidi Maarouf,18,18,loi 84-09,loi 84-09,Sidi Marouf
+1811,18,Settara,السطارة,Settara,18,18,loi 84-09,loi 84-09,
+1812,18,El Ançer,العنصر,El Ançer,18,18,loi 84-09,loi 84-09,
+1813,18,Sidi Abdelaziz,سيدى عبد العزيز,Chekfa,18,18,loi 84-09,loi 84-09,
+1814,18,Kaous,قاوس,Texenna,18,18,loi 84-09,loi 84-09,
+1815,18,Ghebala,غبالة,Settara,18,18,loi 84-09,loi 84-09,
+1816,18,Bouraoui Belhadef,بوراوى بلهادف,El Ançer,18,18,loi 84-09,loi 84-09,
+1817,18,Djimla,جيملة,Djimla,18,18,loi 84-09,loi 84-09,Jimla
+1818,18,Selma Benziada,سلمى بن زيادة,El Aouana,18,18,loi 84-09,loi 84-09,
+1819,18,Boucif Ouled Askeur,بوسيف أولاد عسكر,Taher,18,18,decret 91-306,loi 84-09,Boussif Ouled Askeur
+1820,18,El Kennar Nouchfi,القنار نوشفى,Chekfa,18,18,loi 84-09,loi 84-09,
+1821,18,Ouled Yahia khadrouche,أولاد يحيى خدروش,El-Milia,18,18,decret 91-306,loi 84-09,Ouled Yahia Khadrouch|Ouled Yahia Khedrouche
+1822,18,Boudria Béni Yadjis,بودريعة بن ياجيس,Djimla,18,18,loi 84-09,loi 84-09,Boudriaa Ben Yadjis
+1823,18,Khier Oued Adjoul,قمير وادى عجول,El Ançer,18,18,decret 91-306,loi 84-09,Kemir Oued Adjoul|Kheïri Oued Adjoul
+1824,18,Texenna,تاكسنة,Texenna,18,18,decret 91-306,loi 84-09,Texena
+1825,18,Djemaa Béni Habibi,الجمعة بنى حبيبى,El Ançer,18,18,loi 84-09,loi 84-09,
+1826,18,Bordj T'Har,برج الطهر,Chekfa,18,18,decret 91-306,loi 84-09,Bordj Taher|Bordj Tahar
+1827,18,Ouled Rabah,أولاد رابح,Sidi Maarouf,18,18,loi 84-09,loi 84-09,
+1828,18,Ouadjana,وجانة,Taher,18,18,loi 84-09,loi 84-09,Oudjana
+1901,19,Sétif,سطيف,Sétif,19,19,loi 84-09,loi 84-09,
+1902,19,Aïn El Kebira,عين الكبيرة,Aïn El Kebira,19,19,loi 84-09,loi 84-09,
+1903,19,Béni Aziz,بنى عزيز,Béni Aziz,19,19,loi 84-09,loi 84-09,
+1904,19,Ouled Si Ahmed,أولاد سى أحمد,Aïn Oulmène,19,19,loi 84-09,loi 84-09,
+1905,19,Boutaleb,بوطالب,Salah Bey,19,19,loi 84-09,loi 84-09,
+1906,19,Aïn Roua,عين الروى,Bougaa,19,19,loi 84-09,loi 84-09,
+1907,19,Draa Kebila,ذراع قبيلة,Hammam Guergour,19,19,loi 84-09,loi 84-09,
+1908,19,Bir El Arch,بئر العرش,Bir El Arch,19,19,loi 84-09,loi 84-09,
+1909,19,Béni Chebana,بنى شبانة,Beni Ourtilane,19,19,loi 84-09,loi 84-09,
+1910,19,Ouled Tebben,أولاد تبان,Salah Bey,19,19,loi 84-09,loi 84-09,
+1911,19,Hamma,الحامة,Salah Bey,19,19,loi 84-09,loi 84-09,
+1912,19,Maaouia,معاوية,Béni Aziz,19,19,loi 84-09,loi 84-09,
+1913,19,Aïn Legraj,عين لقراج,Beni Ourtilane,19,19,loi 84-09,loi 84-09,Aïn Legradj
+1914,19,Aïn Abessa,عين عباسة,Aïn Arnat,19,19,loi 84-09,loi 84-09,
+1915,19,Dehamcha,الدهامشة,Aïn El Kebira,19,19,loi 84-09,loi 84-09,
+1916,19,Babor,بابور,Babor,19,19,loi 84-09,loi 84-09,
+1917,19,Guidjel,قجال,Guidjel,19,19,loi 84-09,loi 84-09,Guijel
+1918,19,Aïn Lahdjar,عين الحجر,Aïn Azel,19,19,loi 84-09,loi 84-09,
+1919,19,Bousselam,بوسلام,Bouandas,19,19,loi 84-09,loi 84-09,
+1920,19,El Eulma,العلمة,El Eulma,19,19,loi 84-09,loi 84-09,
+1921,19,Djemila,جميلة,Djemila,19,19,loi 84-09,loi 84-09,
+1922,19,Beni Ourtilane,بنى ورثيلان,Beni Ourtilane,19,19,decret 91-306,loi 84-09,Béni Ouartilane
+1923,19,Rasfa,الرصفة,Salah Bey,19,19,decret 91-306,loi 84-09,Rosfa
+1924,19,Ouled Addouane,أولاد عدوان,Aïn El Kebira,19,19,loi 84-09,loi 84-09,
+1925,19,Belaa,بلعة,Bir El Arch,19,19,loi 84-09,loi 84-09,
+1926,19,Aïn Arnat,عين أرنات,Aïn Arnat,19,19,loi 84-09,loi 84-09,
+1927,19,Amoucha,عموشة,Amoucha,19,19,loi 84-09,loi 84-09,
+1928,19,Aïn Oulmène,عين أولمان,Aïn Oulmène,19,19,decret 91-306,loi 84-09,Aïn Oulmane
+1929,19,Beïdha Bordj,بيضاء برج,Aïn Azel,19,19,loi 84-09,loi 84-09,Beida Bordj
+1930,19,Bouandas,بوعنداس,Bouandas,19,19,loi 84-09,loi 84-09,
+1931,19,Bazer Sakhra,بازر الصخرة,El Eulma,19,19,loi 84-09,loi 84-09,Bazer Sakra
+1932,19,Hammam Sokhna,حمام السخونة,Hammam Sokhna,19,19,decret 91-306,decret 91-306,Oum Ladjoul|Hammam Soukhna
+1933,19,Mezloug,مزلوق,Aïn Arnat,19,19,loi 84-09,loi 84-09,
+1934,19,Bir Haddada,بئر حدادة,Aïn Azel,19,19,loi 84-09,loi 84-09,Bir Heddada
+1935,19,Serdj El Ghoul,سرج الغول,Babor,19,19,loi 84-09,loi 84-09,
+1936,19,Harbil,حربيل,Guenzet,19,19,loi 84-09,loi 84-09,
+1937,19,El Ouricia,الوريسية,Aïn Arnat,19,19,loi 84-09,loi 84-09,
+1938,19,Tizi N'Béchar,تيزى نبشار,Amoucha,19,19,loi 84-09,loi 84-09,Tizi N'Bchar
+1939,19,Salah Bey,صالح باى,Salah Bey,19,19,loi 84-09,loi 84-09,
+1940,19,Aïn Azel,عين أزال,Aïn Azel,19,19,decret 91-306,loi 84-09,Aïn Azal
+1941,19,Guenzet,قنزات,Guenzet,19,19,loi 84-09,loi 84-09,Gunzet
+1942,19,Talaïfacène,تالة ايفاسن,Maoklane,19,19,loi 84-09,loi 84-09,
+1943,19,Bougaa,بوقاعة,Bougaa,19,19,loi 84-09,loi 84-09,
+1944,19,Béni Fouda,بنى فودة,Djemila,19,19,loi 84-09,loi 84-09,Beni Foudda
+1945,19,Tachouda,تاشودة,Bir El Arch,19,19,loi 84-09,loi 84-09,
+1946,19,Béni Mouhli,بنى موحلي,Beni Ourtilane,19,19,loi 84-09,loi 84-09,
+1947,19,Ouled Sabor,أولاد صابر,Guidjel,19,19,loi 84-09,loi 84-09,
+1948,19,Guellal,قلال,Aïn Oulmène,19,19,decret 91-306,decret 91-306,Guelal Boutaleb
+1949,19,Aïn Sebt,عين السبت,Béni Aziz,19,19,loi 84-09,loi 84-09,
+1950,19,Hammam Guergour,حمام القرقور,Hammam Guergour,19,19,loi 84-09,loi 84-09,
+1951,19,Aït Naoual Mezada,آيت نوال مزادة,Bouandas,19,19,loi 84-09,loi 84-09,Aït Naoual M'Zada
+1952,19,Ksar El Abtal,قصر الابطال,Aïn Oulmène,19,19,loi 84-09,loi 84-09,Kasr El Abtal
+1953,19,Béni Hocine,بنى حسين,Bougaa,19,19,loi 84-09,loi 84-09,Beni Oussine
+1954,19,Aït Tizi,آيت تيزى,Bouandas,19,19,loi 84-09,loi 84-09,
+1955,19,Maoklane,ماوكلان,Maoklane,19,19,decret 91-306,loi 84-09,Maouaklane
+1956,19,Guelta Zerka,القلتة الزرقاء,El Eulma,19,19,loi 84-09,loi 84-09,Guelta Zerga
+1957,19,Oued El Barad,وادى البارد,Amoucha,19,19,loi 84-09,loi 84-09,Oued Bared
+1958,19,Taya,الطاية,Hammam Sokhna,19,19,loi 84-09,loi 84-09,
+1959,19,El Ouldja,الولجة,Bir El Arch,19,19,loi 84-09,loi 84-09,
+1960,19,Tella,التلة,Hammam Sokhna,19,19,loi 84-09,loi 84-09,Telaa
+2001,20,Saïda,سعيدة,Saïda,20,20,loi 84-09,loi 84-09,
+2002,20,Doui Thabet,دوى ثابت,Youb,20,20,loi 84-09,loi 84-09,Doui Tabet
+2003,20,Aïn El Hadjar,عين الحجر,Aïn El Hadjar,20,20,loi 84-09,loi 84-09,
+2004,20,Ouled Khaled,أولاد خالد,Sidi Boubekeur,20,20,loi 84-09,loi 84-09,
+2005,20,Moulay Larbi,مولاى العربى,Aïn El Hadjar,20,20,loi 84-09,loi 84-09,
+2006,20,Youb,يوب,Youb,20,20,loi 84-09,loi 84-09,
+2007,20,Hounet,حنات,Sidi Boubekeur,20,20,loi 84-09,loi 84-09,
+2008,20,Sidi Amar,سيدى عمرو,Sidi Boubekeur,20,20,loi 84-09,loi 84-09,Sidi Ammar
+2009,20,Sidi Boubekeur,سيدى بوبكر,Sidi Boubekeur,20,20,loi 84-09,loi 84-09,
+2010,20,El Hassasna,الحساسنة,El Hassasna,20,20,loi 84-09,loi 84-09,Al Hassasna
+2011,20,Maamora,المعمورة,El Hassasna,20,20,loi 84-09,loi 84-09,
+2012,20,Sidi Ahmed,سيدى أحمد,Aïn El Hadjar,20,20,loi 84-09,loi 84-09,
+2013,20,Aïn Sekhouna,عين السخونة,El Hassasna,20,20,loi 84-09,loi 84-09,Aïn Skhouna
+2014,20,Ouled Brahim,أولاد ابراهيم,Ouled Brahim,20,20,loi 84-09,loi 84-09,
+2015,20,Tircine,تيرسين,Ouled Brahim,20,20,loi 84-09,loi 84-09,
+2016,20,Aïn Soltane,عين السلطان,Ouled Brahim,20,20,loi 84-09,loi 84-09,
+2101,21,Skikda,سكيكدة,Skikda,21,21,loi 84-09,loi 84-09,
+2102,21,Aïn Zouit,عين زويت,El Hadaiek,21,21,loi 84-09,loi 84-09,
+2103,21,El Hadaiek,الحدائق,El Hadaiek,21,21,decret 91-306,loi 84-09,El Hadaïk
+2104,21,Azzaba,عزابة,Azzaba,21,21,loi 84-09,loi 84-09,
+2105,21,Djendel Saadi Mohamed,جندل سعدى محمد,Azzaba,21,21,loi 84-09,loi 84-09,
+2106,21,Aïn Cherchar,عين شرشار,Azzaba,21,21,loi 84-09,loi 84-09,Aïn Charchar
+2107,21,Bekkouche Lakhdar,بكوش الاخضر,Benazouz,21,21,loi 84-09,loi 84-09,
+2108,21,Benazouz,بن عزوز,Benazouz,21,21,loi 84-09,loi 84-09,Ben Azzouz
+2109,21,Es-Sebt,السبت,Azzaba,21,21,loi 84-09,loi 84-09,
+2110,21,Collo,القل,Collo,21,21,loi 84-09,loi 84-09,
+2111,21,Béni Zid,بنى زيد,Collo,21,21,loi 84-09,loi 84-09,
+2112,21,Kerkera,الكركرة,Tamalous,21,21,loi 84-09,loi 84-09,
+2113,21,Ouled Attia,أولاد عطية,Ouled Attia,21,21,loi 84-09,loi 84-09,Ouled Atia
+2114,21,Oued Zehour,وادى الزهور,Ouled Attia,21,21,loi 84-09,loi 84-09,Oued Z'Hour
+2115,21,Zitouna,الزيتونة,Zitouna,21,21,loi 84-09,loi 84-09,
+2116,21,El Harrouch,الحروش,El Harrouch,21,21,loi 84-09,loi 84-09,
+2117,21,Zardezas,زردازة,El Harrouch,21,21,decret 91-306,loi 84-09,Zerdazas|Zerdaza
+2118,21,Ouled Hebaba,أولاد حبابة,El Harrouch,21,21,loi 84-09,loi 84-09,Ouled Hbaba
+2119,21,Sidi Mezghiche,سيدى مزغيش,Sidi Mezghiche,21,21,loi 84-09,loi 84-09,
+2120,21,Emdjez Edchich,مجاز الدشيش,El Harrouch,21,21,loi 84-09,loi 84-09,
+2121,21,Béni Oulbane,بنى ولبان,Sidi Mezghiche,21,21,loi 84-09,loi 84-09,
+2122,21,Aïn Bouziane,عين بوزيان,Sidi Mezghiche,21,21,loi 84-09,loi 84-09,
+2123,21,Ramdane Djamel,رمضان جمال,Ramdane Djamel,21,21,loi 84-09,loi 84-09,
+2124,21,Béni Bechir,بنى بشير,Ramdane Djamel,21,21,loi 84-09,loi 84-09,Beni Bachir
+2125,21,Salah Bouchaour,صالح بو الشعور,El Harrouch,21,21,loi 84-09,loi 84-09,
+2126,21,Tamalous,تمالوس,Tamalous,21,21,loi 84-09,loi 84-09,
+2127,21,Aïn Kechra,عين قشرة,Aïn Kechra,21,21,loi 84-09,loi 84-09,Aïn Kechera
+2128,21,Oum Toub,أم الطوب,Oum Toub,21,21,loi 84-09,loi 84-09,
+2129,21,Beïn El Ouiden,بين الويدان,Tamalous,21,21,loi 84-09,loi 84-09,Bin El Ouiden
+2130,21,Fil Fila,فلفيلة,Skikda,21,21,loi 84-09,loi 84-09,
+2131,21,Cheraïa,الشرائع,Collo,21,21,loi 84-09,loi 84-09,
+2132,21,Kanoua,قنواع,Zitouna,21,21,loi 84-09,loi 84-09,Kenoua
+2133,21,El Ghedir,الغدير,Azzaba,21,21,loi 84-09,loi 84-09,
+2134,21,Bouchtata,بوشطاطة,El Hadaiek,21,21,loi 84-09,loi 84-09,
+2135,21,Ouldja Boulballout,الولجة بوالبلوط,Aïn Kechra,21,21,loi 84-09,loi 84-09,
+2136,21,Kheneg Mayoum,خنق مايون,Ouled Attia,21,21,loi 84-09,loi 84-09,Khenag Mayoun
+2137,21,Hamadi Krouma,حمادى كرومة,Skikda,21,21,loi 84-09,loi 84-09,Hammadi Krouma
+2138,21,El Marsa,المرسى,Benazouz,21,21,loi 84-09,loi 84-09,
+2201,22,Sidi Bel Abbès,سيدى بلعباس,Sidi Bel Abbès,22,22,loi 84-09,loi 84-09,
+2202,22,Tessala,تسالة,Tessala,22,22,loi 84-09,loi 84-09,
+2203,22,Sidi Brahim,سيدى ابراهيم,Aïn El Berd,22,22,loi 84-09,loi 84-09,
+2204,22,Mostefa Ben Brahim,مصطفى بن ابراهيم,Mostefa Ben Brahim,22,22,loi 84-09,loi 84-09,Mostepha Ben Brahim
+2205,22,Telagh,تلاغ,Telagh,22,22,loi 84-09,loi 84-09,
+2206,22,Mezaourou,مزاورو,Telagh,22,22,loi 84-09,loi 84-09,
+2207,22,Boukhanafis,بوخنيفيس,Sidi Ali Benyoub,22,22,loi 84-09,loi 84-09,Boukhenefis
+2208,22,Sidi Ali Boussidi,سيدى على بوسيدى,Sidi Ali Boussidi,22,22,loi 84-09,loi 84-09,
+2209,22,Badredine El Mokrani,بدر الدين المقرانى,Ben Badis,22,22,loi 84-09,loi 84-09,Bedradine El Mokrani
+2210,22,Marhoum,مرحوم,Marhoum,22,22,loi 84-09,loi 84-09,
+2211,22,Tafissour,تافسور,Merine,22,22,loi 84-09,loi 84-09,Tafessour
+2212,22,Amarnas,أمرناس,Sidi Lahcène,22,22,loi 84-09,loi 84-09,
+2213,22,Tilmouni,تلمونى,Mostefa Ben Brahim,22,22,loi 84-09,loi 84-09,
+2214,22,Sidi Lahcène,سيدى لحسن,Sidi Lahcène,22,22,loi 84-09,loi 84-09,
+2215,22,Aïn Thrid,عين الثريد,Tessala,22,22,loi 84-09,loi 84-09,
+2216,22,Makedra,مقدرة,Aïn El Berd,22,22,loi 84-09,loi 84-09,
+2217,22,Tenira,تنيرة,Tenira,22,22,loi 84-09,loi 84-09,
+2218,22,Moulay Slissen,مولاى سليسن,Moulay Slissen,22,22,loi 84-09,loi 84-09,
+2219,22,El Haçaïba,الحصيبة,Moulay Slissen,22,22,loi 84-09,loi 84-09,Haçaiba
+2220,22,Hassi Zehana,حاسى زهانة,Ben Badis,22,22,loi 84-09,loi 84-09,Hassi Zahana
+2221,22,Tabia,طابية,Sidi Ali Benyoub,22,22,loi 84-09,loi 84-09,
+2222,22,Merine,مرين,Merine,22,22,loi 84-09,loi 84-09,
+2223,22,Ras El Ma,رأس الماء,Ras El Ma,22,22,loi 84-09,loi 84-09,
+2224,22,Aïn Tindamine,عين تندمين,Moulay Slissen,22,22,loi 84-09,loi 84-09,Aïn Tidamine
+2225,22,Aïn Kada,عين قادة,Sidi Ali Boussidi,22,22,loi 84-09,loi 84-09,
+2226,22,M'Cid,مسيد,Sfisef,22,22,loi 84-09,loi 84-09,
+2227,22,Sidi Khaled,سيدى خالد,Sidi Lahcène,22,22,loi 84-09,loi 84-09,
+2228,22,Aïn El Berd,عين البرد,Aïn El Berd,22,22,loi 84-09,loi 84-09,
+2229,22,Sfisef,سفيزف,Sfisef,22,22,decret 91-306,loi 84-09,Sfissef
+2230,22,Aïn Adden,عين عدان,Sfisef,22,22,loi 84-09,loi 84-09,
+2231,22,Oued Taourira,وادى تاوريرة,Merine,22,22,loi 84-09,loi 84-09,
+2232,22,Dhaya,الضاية,Telagh,22,22,loi 84-09,loi 84-09,
+2233,22,Zerouala,زروالة,Mostefa Ben Brahim,22,22,loi 84-09,loi 84-09,Zerrouala
+2234,22,Lamtar,لمطار,Sidi Ali Boussidi,22,22,loi 84-09,loi 84-09,Lemtar
+2235,22,Sidi Chaïb,سيدى شعيب,Marhoum,22,22,loi 84-09,loi 84-09,
+2236,22,Sidi Dahou De Zaïrs,سيدى دحوالزاير,Sidi Ali Boussidi,22,22,loi 84-09,loi 84-09,Sidi Daho des Zairs
+2237,22,Oued Sebaa,وادى السبع,Ras El Ma,22,22,loi 84-09,loi 84-09,
+2238,22,Boudjebaa El Bordj,بوجبع البرج,Sfisef,22,22,loi 84-09,loi 84-09,
+2239,22,Sehala Thaoura,سحالة ثاورة,Tessala,22,22,loi 84-09,loi 84-09,
+2240,22,Sidi Yacoub,سيدى يعقوب,Sidi Lahcène,22,22,loi 84-09,loi 84-09,
+2241,22,Sidi Hamadouche,سيدى حمادوش,Aïn El Berd,22,22,loi 84-09,loi 84-09,
+2242,22,Belarbi,بلعربى,Mostefa Ben Brahim,22,22,loi 84-09,loi 84-09,
+2243,22,Oued Sefioun,وادى سفيون,Tenira,22,22,loi 84-09,loi 84-09,Oued Sefioune
+2244,22,Teghalimet,تغاليمت,Telagh,22,22,loi 84-09,loi 84-09,
+2245,22,Ben Badis,ابن باديس,Ben Badis,22,22,loi 84-09,loi 84-09,
+2246,22,Sidi Ali Benyoub,سيدى على بن يوب,Sidi Ali Benyoub,22,22,loi 84-09,loi 84-09,
+2247,22,Chetouane Belaila,شتوان بليلة,Ben Badis,22,22,loi 84-09,loi 84-09,Chettouane Belaila
+2248,22,Bir El Hammam,بئر الحمام,Marhoum,22,22,loi 84-09,loi 84-09,Bir El H'Mam
+2249,22,Taoudmout,تاودمونت,Merine,22,22,loi 84-09,loi 84-09,
+2250,22,Redjem Demouche,رجم دموش,Ras El Ma,22,22,loi 84-09,loi 84-09,
+2251,22,Benachiba Chelia,بن عشيبة شلية,Tenira,22,22,loi 84-09,loi 84-09,
+2252,22,Hassi Dahou,حاسى دحو,Tenira,22,22,loi 84-09,loi 84-09,Hassi Daho
+2301,23,Annaba,عنابة,Annaba,23,23,loi 84-09,loi 84-09,
+2302,23,Berrahal,برحال,Berrahal,23,23,decret 91-306,loi 84-09,Berrahel|Barrahal
+2303,23,El Hadjar,الحجار,El Hadjar,23,23,loi 84-09,loi 84-09,
+2304,23,El Eulma,العلمة,Aïn Berda,23,23,decret 91-306,loi 84-09,Eulma
+2305,23,El Bouni,البونى,El Bouni,23,23,loi 84-09,loi 84-09,
+2306,23,Oued El Aneb,وادى العنب,Berrahal,23,23,loi 84-09,loi 84-09,
+2307,23,Cheurfa,الشرفاء,Aïn Berda,23,23,loi 84-09,loi 84-09,Chorfa
+2308,23,Seraïdi,سرايدى,Annaba,23,23,loi 84-09,loi 84-09,
+2309,23,Aïn Berda,العين الباردة,Aïn Berda,23,23,loi 84-09,loi 84-09,Aïn El Berda
+2310,23,Chetaïbi,شطايبى,Chetaïbi,23,23,loi 84-09,loi 84-09,
+2311,23,Sidi Amar,سيدى عامر,El Hadjar,23,23,decret 91-306,loi 84-09,Sidi Amer
+2312,23,Tréat,التريعات,Berrahal,23,23,loi 84-09,loi 84-09,
+2401,24,Guelma,قالمة,Guelma,24,24,loi 84-09,loi 84-09,
+2402,24,Nechmaya,نشماية,Guelaät Bou Sbaa,24,24,loi 84-09,loi 84-09,
+2403,24,Bouati Mahmoud,بوعاطى محمود,Héliopolis,24,24,loi 84-09,loi 84-09,
+2404,24,Oued Zenati,وادى الزناتى,Oued Zenati,24,24,loi 84-09,loi 84-09,
+2405,24,Tamlouka,تاملوكة,Aïn Makhlouf,24,24,loi 84-09,loi 84-09,
+2406,24,Oued Fragha,وادى فراغا,Bouchegouf,24,24,loi 84-09,loi 84-09,Oued Fraga
+2407,24,Aïn Sandel,عين صندل,Khzara,24,24,loi 84-09,loi 84-09,
+2408,24,Ras El Agba,رأس العقبة,Aïn Hessania,24,24,loi 84-09,loi 84-09,
+2409,24,Dahouara,الدهوارة,Hammam N'Baïl,24,24,loi 84-09,loi 84-09,
+2410,24,Belkheir,بلخير,Guelaät Bou Sbaa,24,24,decret 91-306,loi 84-09,Belkhir
+2411,24,Badjarah,بن جراح,Guelma,24,24,decret 91-306,loi 84-09,Ben Djarah|Ben Djerrah
+2412,24,Bou Hamdane,بوحمدان,Hammam Debagh,24,24,loi 84-09,loi 84-09,
+2413,24,Aïn Makhlouf,عين مخلوف,Aïn Makhlouf,24,24,loi 84-09,loi 84-09,
+2414,24,Aïn Ben Beïda,عين بن بيضاء,Bouchegouf,24,24,loi 84-09,loi 84-09,
+2415,24,Khzara,خزارة,Khzara,24,24,decret 91-306,loi 84-09,Khezara|Khezarra
+2416,24,Béni Mezline,بنى مزلين,Guelaät Bou Sbaa,24,24,loi 84-09,loi 84-09,
+2417,24,Bou Hachana,بوحشانة,Khzara,24,24,loi 84-09,loi 84-09,
+2418,24,Guelaät Bou Sbaa,قلعة بوسبع,Guelaät Bou Sbaa,24,24,loi 84-09,loi 84-09,
+2419,24,Hammam Debagh,حمام دباغ,Hammam Debagh,24,24,decret 91-306,decret 91-306,Hammam Maskhoutine
+2420,24,El Fedjoudj,الفجوج,Héliopolis,24,24,loi 84-09,loi 84-09,
+2421,24,Bordj Sabat,برج صباط,Oued Zenati,24,24,loi 84-09,loi 84-09,
+2422,24,Hammam N'Baïl,حمام النبايل,Hammam N'Baïl,24,24,loi 84-09,loi 84-09,Hammam N'Bails
+2423,24,Aïn Larbi,عين العربى,Aïn Makhlouf,24,24,loi 84-09,loi 84-09,
+2424,24,Medjez Amar,مجاز عمار,Aïn Hessania,24,24,loi 84-09,loi 84-09,
+2425,24,Bouchegouf,بوشقوف,Bouchegouf,24,24,decret 91-306,loi 84-09,Boughouf
+2426,24,Héliopolis,هيليوبوليس,Héliopolis,24,24,loi 84-09,loi 84-09,
+2427,24,Aïn Hessania,عين الحساينية,Aïn Hessania,24,24,loi 84-09,loi 84-09,Aïn Hsainia|Houari Boumédiène
+2428,24,Roknia,الركنية,Hammam Debagh,24,24,loi 84-09,loi 84-09,
+2429,24,Sellaoua Announa,سلاوة عنونة,Aïn Hessania,24,24,decret 91-306,loi 84-09,Salaoua Announa
+2430,24,Medjez Sfa,مجاز الصفاء,Bouchegouf,24,24,loi 84-09,loi 84-09,
+2431,24,Boumahra Ahmed,بومهرة أحمد,Guelaät Bou Sbaa,24,24,loi 84-09,loi 84-09,
+2432,24,Aïn Reggada,عين رقادة,Oued Zenati,24,24,loi 84-09,loi 84-09,Ain Regada
+2433,24,Oued Cheham,وادى الشحم,Hammam N'Baïl,24,24,loi 84-09,loi 84-09,
+2434,24,Djebala Khemissi,جبالة الخميسى,Guelaät Bou Sbaa,24,24,loi 84-09,loi 84-09,Djeballah Khemissi
+2501,25,Constantine,قسنطينة,Constantine,25,25,loi 84-09,loi 84-09,
+2502,25,Hamma Bouziane,حامة بوزيان,Hamma Bouziane,25,25,loi 84-09,loi 84-09,
+2503,25,Ben Badis,ابن باديس,Aïn Abid,25,25,decret 91-306,decret 91-306,El Haria|Ibn Badis
+2504,25,Zighoud Youcef,زيغود يوسف,Zighoud Youcef,25,25,loi 84-09,loi 84-09,
+2505,25,Didouche Mourad,ديدوش مراد,Hamma Bouziane,25,25,loi 84-09,loi 84-09,
+2506,25,El Khroub,الخروب,El Khroub,25,25,loi 84-09,loi 84-09,
+2507,25,Aïn Abid,عين عبيد,Aïn Abid,25,25,loi 84-09,loi 84-09,
+2508,25,Béni Hamiden,بنى حميدان,Zighoud Youcef,25,25,loi 84-09,loi 84-09,Beni Hamidane
+2509,25,Ouled Rahmoune,أولاد رحمون,El Khroub,25,25,loi 84-09,loi 84-09,Ouled Rahmoun
+2510,25,Aïn Smara,عين سمارة,El Khroub,25,25,loi 84-09,loi 84-09,
+2511,25,Messaoud Boudjeriou,مسعود بوجريو,Ibn Ziad,25,25,decret 91-306,decret 91-306,Aïn Kerma|Messaoud Boudjriou
+2512,25,Ibn Ziad,ابن زياد,Ibn Ziad,25,25,loi 84-09,loi 84-09,
+2601,26,Médéa,المدية,Médéa,26,26,loi 26-06,loi 26-06,
+2602,26,Ouzera,وزرة,Ouzera,26,26,loi 26-06,loi 26-06,
+2605,26,Aïssaouia,العيساوية,Tablat,26,26,loi 26-06,loi 26-06,El Aïssaouia
+2606,26,Ouled Deïde,أولاد ذايد,Berrouaghia,26,26,loi 26-06,loi 26-06,Ouled Deïda
+2607,26,El Omaria,العمارية,El Omaria,26,26,loi 26-06,loi 26-06,
+2609,26,El Guelb El Kebir,القلب الكبير,El Guelb El Kebir,26,26,loi 26-06,loi 26-06,Guelb El Kebir
+2611,26,Mezghenna,مزغنة,Tablat,26,26,loi 26-06,loi 26-06,Mezerana|Mezghana
+2612,26,Ouled Brahim,أولاد ابراهيم,El Omaria,26,26,loi 26-06,loi 26-06,
+2613,26,Tizi Mahdi,تيزي مهدي,Ouzera,26,26,loi 26-06,loi 26-06,Damiat
+2614,26,Sidi Ziane,سيدي زيان,Souagui,26,26,loi 26-06,loi 26-06,
+2615,26,Tamezguida,تمزقيدة,Médéa,26,26,loi 26-06,loi 26-06,Tamesguida
+2616,26,El Hamdania,الحمدانية,Ouzera,26,26,loi 26-06,loi 26-06,
+2619,26,Bouskène,بوسكن,Béni Slimane,26,26,loi 26-06,loi 26-06,Bousekene
+2620,26,Rebaïa,الربعية,Berrouaghia,26,26,loi 26-06,loi 26-06,
+2621,26,Bouchrahil,بوشراحيل,Sidi Naamane,26,26,loi 26-06,loi 26-06,
+2624,26,Baata,بعطة,El Omaria,26,26,loi 26-06,loi 26-06,
+2626,26,Sidi Naamane,سيدي نعمان,Sidi Naamane,26,26,loi 26-06,loi 26-06,
+2627,26,Ouled Bouachra,أولاد بوعشرة,Si Mahdjoub,26,26,loi 26-06,loi 26-06,
+2628,26,Sidi Zahar,سيدي زهار,Souagui,26,26,loi 26-06,loi 26-06,
+2629,26,Oued Harbil,وادي حربيل,Ouamri,26,26,loi 26-06,loi 26-06,
+2630,26,Benchicao,بن شكاو,Ouzera,26,26,loi 26-06,loi 26-06,
+2633,26,Souagui,السواقي,Souagui,26,26,loi 26-06,loi 26-06,Souaghi
+2634,26,Zoubiria,الزبيرية,Seghouane,26,26,loi 26-06,loi 26-06,
+2636,26,Al Azizia,العزيزية,Al Azizia,26,26,loi 26-06,loi 26-06,El Azizia
+2637,26,Djouab,جواب,Souagui,26,26,loi 26-06,loi 26-06,
+2639,26,Meghraoua,مغراوة,Al Azizia,26,26,loi 26-06,loi 26-06,Maghraoua
+2643,26,Ouamri,وامري,Ouamri,26,26,loi 26-06,loi 26-06,
+2644,26,Si Mahdjoub,سي المحجوب,Si Mahdjoub,26,26,loi 26-06,loi 26-06,
+2645,26,Eddouair,الدواير,Seghouane,26,26,loi 26-06,loi 26-06,Tlatet Eddouaïr|Tlelat Ed Douair|Tlatet Eddouar
+2646,26,Béni Slimane,بني سليمان,Béni Slimane,26,26,loi 26-06,loi 26-06,
+2647,26,Berrouaghia,البرواقية,Berrouaghia,26,26,loi 26-06,loi 26-06,
+2648,26,Seghouane,سغوان,Seghouane,26,26,loi 26-06,loi 26-06,
+2650,26,Mihoub,ميهوب,Al Azizia,26,26,loi 26-06,loi 26-06,
+2652,26,Tablat,تابلاط,Tablat,26,26,loi 26-06,loi 26-06,
+2653,26,Deux Bassins,الحوضان,Tablat,26,26,loi 26-06,loi 26-06,
+2654,26,Draa Essamar,ذراع السمار,Médéa,26,26,loi 26-06,loi 26-06,
+2655,26,Sidi Errabie,سيدي الربيع,Béni Slimane,26,26,loi 26-06,loi 26-06,Sidi Errabia|Sidi Rabie
+2656,26,Bir Ben Abed,بئر بن عابد,El Guelb El Kebir,26,26,loi 26-06,loi 26-06,Bir Ben Laabed
+2659,26,Bouaïchoune,بوعيشون,Si Mahdjoub,26,26,loi 26-06,loi 26-06,
+2660,26,Hannacha,حناشة,Ouamri,26,26,loi 26-06,loi 26-06,Hanacha
+2661,26,Sedraïa,سدراية,El Guelb El Kebir,26,26,loi 26-06,loi 26-06,Sedraya
+2662,26,Medjebar,مجبر,Seghouane,26,26,loi 26-06,loi 26-06,Medjebeur|Moudjbar
+2663,26,Khamsa Djoumaa,خمس جوامع,Sidi Naamane,26,26,loi 26-06,loi 26-06,Khams Djouamaa
+2701,27,Mostaganem,مستغانم,Mostaganem,27,27,loi 84-09,loi 84-09,
+2702,27,Sayada,صيادة,Kheir Eddine,27,27,loi 84-09,loi 84-09,
+2703,27,Fornaka,فرناقة,Aïn Nouissy,27,27,loi 84-09,loi 84-09,
+2704,27,Stidia,ستيدية,Hassi Mameche,27,27,loi 84-09,loi 84-09,
+2705,27,Aïn Nouissy,عين نويسى,Aïn Nouissy,27,27,loi 84-09,loi 84-09,Aïn Nouicy
+2706,27,Hassi Mameche,حاسى معمش,Hassi Mameche,27,27,decret 91-306,loi 84-09,Hassi Maamèche
+2707,27,Aïn Tédeles,عين تادلس,Aïn Tédeles,27,27,decret 91-306,loi 84-09,Aïn Tadlès|Aïn Tedles
+2708,27,Sour,صور,Aïn Tédeles,27,27,loi 84-09,loi 84-09,
+2709,27,Oued El Kheïr,وادى الخير,Aïn Tédeles,27,27,loi 84-09,loi 84-09,
+2710,27,Sidi Bellatar,سيدى بلعطار,Aïn Tédeles,27,27,decret 91-306,loi 84-09,Sidi Bellater|Sidi Belattar
+2711,27,Kheir Eddine,خير الدين,Kheir Eddine,27,27,decret 91-306,loi 84-09,Kheïredine
+2712,27,Sidi Ali,سيدى على,Sidi Ali,27,27,loi 84-09,loi 84-09,
+2713,27,Abdelmalek Ramdane,عبد المالك رمضان,Sidi Lakhdar,27,27,loi 84-09,loi 84-09,Benabdelmalek Ramdane
+2714,27,Hadjadj,حجاج,Sidi Lakhdar,27,27,loi 84-09,loi 84-09,Hadjajd
+2715,27,Nekmaria,نكمارية,Achaacha,27,27,loi 84-09,loi 84-09,
+2716,27,Sidi Lakhdar,سيدى الاخضر,Sidi Lakhdar,27,27,loi 84-09,loi 84-09,
+2717,27,Achaacha,عشعاشة,Achaacha,27,27,loi 84-09,loi 84-09,Achacha
+2718,27,Khadra,خضراء,Achaacha,27,27,loi 84-09,loi 84-09,
+2719,27,Bouguirat,بوقيراط,Bouguirat,27,27,loi 84-09,loi 84-09,
+2720,27,Sirat,سيرات,Bouguirat,27,27,loi 84-09,loi 84-09,
+2721,27,Aïn Sidi Chérif,عين سيدى الشريف,Mesra,27,27,loi 84-09,loi 84-09,Aïn Sidi Chrif
+2722,27,Mesra,ماسرة,Mesra,27,27,loi 84-09,loi 84-09,Masra
+2723,27,Mansourah,منصورة,Mesra,27,27,loi 84-09,loi 84-09,Mansoura
+2724,27,Souaflia,السوافلية,Bouguirat,27,27,loi 84-09,loi 84-09,
+2725,27,Ouled Boughalem,أولاد بوغالم,Achaacha,27,27,loi 84-09,loi 84-09,
+2726,27,Ouled Maallah,أولاد مع الله,Sidi Ali,27,27,loi 84-09,loi 84-09,Ouled Maalah
+2727,27,Mezeghrane,مزغران,Hassi Mameche,27,27,decret 91-306,loi 84-09,Mezghrane|Mazagran
+2728,27,Aïn Boudinar,عين بودينار,Kheir Eddine,27,27,loi 84-09,loi 84-09,
+2729,27,Tazgaït,تزقايت,Sidi Ali,27,27,loi 84-09,loi 84-09,
+2730,27,Safsaf,صفصاف,Bouguirat,27,27,loi 84-09,loi 84-09,
+2731,27,Touahria,الطواهرية,Mesra,27,27,loi 84-09,loi 84-09,
+2732,27,El Hassaine,الحسيان,Aïn Nouissy,27,27,decret 91-306,loi 84-09,El Hassiane
+2801,28,M'Sila,المسيلة,M'Sila,28,28,loi 26-06,loi 26-06,
+2802,28,Maadid,المعاضيد,Ouled Derradj,28,28,loi 26-06,loi 26-06,
+2803,28,Hammam Dhalaa,حمام الضلعة,Hammam Dhalaa,28,28,loi 26-06,loi 26-06,
+2804,28,Ouled Derradj,أولاد دراج,Ouled Derradj,28,28,loi 26-06,loi 26-06,
+2805,28,Tarmount,تارمونت,Hammam Dhalaa,28,28,loi 26-06,loi 26-06,
+2806,28,M'Tarfa,المطارفة,Ouled Derradj,28,28,loi 26-06,loi 26-06,Metarfa
+2809,28,Chellal,الشلال,Chellal,28,28,loi 26-06,loi 26-06,
+2810,28,Ouled Madhi,أولاد ماضي,Chellal,28,28,loi 26-06,loi 26-06,Ouled Mahdi
+2811,28,Magra,مقرة,Magra,28,28,loi 26-06,loi 26-06,
+2812,28,Berhoum,برهوم,Magra,28,28,loi 26-06,loi 26-06,
+2813,28,Aïn Khadra,عين الخضراء,Magra,28,28,loi 26-06,loi 26-06,Aïn El Khadra
+2814,28,Ouled Addi Guebala,أولاد عدي القبالة,Ouled Derradj,28,28,loi 26-06,loi 26-06,
+2815,28,Belaïba,بلعايبة,Magra,28,28,loi 26-06,loi 26-06,
+2816,28,Sidi Aïssa,سيدي عيسى,Sidi Aïssa,28,28,loi 26-06,loi 26-06,
+2817,28,Aïn El Hadjel,عين الحجل,Aïn El Hadjel,28,28,loi 26-06,loi 26-06,
+2818,28,Sidi Hadjeres,سيدي هجرس,Aïn El Hadjel,28,28,loi 26-06,loi 26-06,
+2819,28,Ouanougha,ونوغة,Hammam Dhalaa,28,28,loi 26-06,loi 26-06,
+2828,28,Ouled Mansour,أولاد منصور,Hammam Dhalaa,28,28,loi 26-06,loi 26-06,
+2829,28,Maarif,المعاريف,Chellal,28,28,loi 26-06,loi 26-06,
+2830,28,Dehahna,الدهاهنة,Magra,28,28,loi 26-06,loi 26-06,
+2831,28,Bouti Sayah,بوطي السايح,Sidi Aïssa,28,28,loi 26-06,loi 26-06,
+2832,28,Khetouti Sed El Djir,خطوطي سد الجير,Chellal,28,28,loi 26-06,loi 26-06,Zerarka|Khatouti Sed El Djir|Khettouti Sed El Djir
+2840,28,Souamaa,السوامع,Ouled Derradj,28,28,loi 26-06,loi 26-06,
+2845,28,Béni Ilmane,بني يلمان,Sidi Aïssa,28,28,loi 26-06,loi 26-06,
+2901,29,Mascara,معسكر,Mascara,29,29,loi 84-09,loi 84-09,
+2902,29,Bou Hanifia,بوحنيفية,Bou Hanifia,29,29,loi 84-09,loi 84-09,
+2903,29,Tizi,تيزى,Tizi,29,29,loi 84-09,loi 84-09,
+2904,29,Hacine,حسين,Bou Hanifia,29,29,loi 84-09,loi 84-09,
+2905,29,Maoussa,ماوسة,Ghriss,29,29,loi 84-09,loi 84-09,
+2906,29,Tighenif,تيغنيف,Tighenif,29,29,decret 91-306,loi 84-09,Teghenif|Tighennif
+2907,29,El Hachem,الحشم,El Hachem,29,29,loi 84-09,loi 84-09,Rachem|Hachem
+2908,29,Sidi Kada,سيدى قادة,Tighenif,29,29,loi 84-09,loi 84-09,
+2909,29,Zelamta,زلامطة,El Hachem,29,29,decret 91-306,decret 91-306,M'Hamid|Zelmata
+2910,29,Oued El Abtal,وادى الابطال,Oued El Abtal,29,29,loi 84-09,loi 84-09,
+2911,29,Aïn Ferah,عين فراح,Oued El Abtal,29,29,loi 84-09,loi 84-09,
+2912,29,Ghriss,غريس,Ghriss,29,29,loi 84-09,loi 84-09,
+2913,29,Froha,فروحة,Tizi,29,29,loi 84-09,loi 84-09,
+2914,29,Matemore,مطمور,Ghriss,29,29,loi 84-09,loi 84-09,
+2915,29,Makdha,ماقضة,Ghriss,29,29,loi 84-09,loi 84-09,
+2916,29,Sidi Boussaïd,سيدى بوسعيد,Ghriss,29,29,loi 84-09,loi 84-09,
+2917,29,El Bordj,البرج,El Bordj,29,29,loi 84-09,loi 84-09,
+2918,29,Aïn Fekan,عين فكان,Aïn Fekan,29,29,loi 84-09,loi 84-09,Aïn Fekkan
+2919,29,Benian,بنيان,Aouf,29,29,loi 84-09,loi 84-09,Beniane
+2920,29,Khalouia,خلوية,El Bordj,29,29,loi 84-09,loi 84-09,
+2921,29,El Menaouer,المنور,El Bordj,29,29,loi 84-09,loi 84-09,
+2922,29,Oued Taria,وادى تاغية,Oued Taria,29,29,loi 84-09,loi 84-09,
+2923,29,Aouf,عوف,Aouf,29,29,loi 84-09,loi 84-09,
+2924,29,Aïn Farès,عين فارس,Aïn Farès,29,29,loi 84-09,loi 84-09,Aïn Fras
+2925,29,Aïn Frass,عين فرس,Aïn Fekan,29,29,loi 84-09,loi 84-09,
+2926,29,Sig,سيق,Sig,29,29,loi 84-09,loi 84-09,
+2927,29,Oggaz,عكاز,Oggaz,29,29,loi 84-09,loi 84-09,
+2928,29,Alaïmia,العلايمية,Oggaz,29,29,loi 84-09,loi 84-09,El Alaimia
+2929,29,El Gaada,القعدة,Zahana,29,29,loi 84-09,loi 84-09,
+2930,29,Zahana,زهانة,Zahana,29,29,loi 84-09,loi 84-09,
+2931,29,Mohammadia,المحمدية,Mohammadia,29,29,loi 84-09,loi 84-09,Mohammedia
+2932,29,Sidi Abdelmoumène,سيدى عبد المؤمن,Mohammadia,29,29,loi 84-09,loi 84-09,Sidi Abdelmoumen
+2933,29,Ferraguig,فراقيق,Mohammadia,29,29,loi 84-09,loi 84-09,
+2934,29,El Ghomri,الغمرى,Mohammadia,29,29,loi 84-09,loi 84-09,
+2935,29,Sedjerara,سجرارة,Mohammadia,29,29,loi 84-09,loi 84-09,
+2936,29,Moctadouz,مقطع الدوز,Mohammadia,29,29,loi 84-09,loi 84-09,
+2937,29,Bou Henni,بوهنى,Sig,29,29,loi 84-09,loi 84-09,
+2938,29,El Gueithna,القطنة,Bou Hanifia,29,29,decret 91-306,decret 91-306,Guettena El Mamounia|El Guettana
+2939,29,Mamounia,المأمونية,Aïn Farès,29,29,decret 91-306,decret 91-306,
+2940,29,El Keurt,القرط,Tizi,29,29,loi 84-09,loi 84-09,
+2941,29,Gharrous,غروس,Aouf,29,29,loi 84-09,loi 84-09,Gharouss
+2942,29,Guerdjoum,قرجوم,Oued Taria,29,29,loi 84-09,loi 84-09,
+2943,29,Chorfa,الشرفاء,Sig,29,29,loi 84-09,loi 84-09,
+2944,29,Ras Aïn Amirouche,رأس عين عميروش,Oggaz,29,29,loi 84-09,loi 84-09,Ras El Aïn Amirouche
+2945,29,Nesmoth,نسموط,El Hachem,29,29,decret 91-306,loi 84-09,Nesmot
+2946,29,Sidi Abdeldjebar,سيدى عبد الجبار,Oued El Abtal,29,29,loi 84-09,loi 84-09,
+2947,29,Sehaïlia,السحايلية,Tighenif,29,29,loi 84-09,loi 84-09,
+3001,30,Ouargla,ورقلة,Ouargla,30,30,loi 19-12,loi 19-12,
+3002,30,Aïn Beïda,عين البيضاء,Sidi Khouiled,30,30,loi 19-12,loi 19-12,
+3003,30,N'Goussa,نقوسة,N'Goussa,30,30,loi 19-12,loi 19-12,
+3004,30,Hassi Messaoud,حاسي مسعود,Hassi Messaoud,30,30,loi 19-12,loi 19-12,
+3005,30,Rouissat,الرويسات,,30,30,loi 19-12,loi 19-12,
+3011,30,Sidi Khouiled,سيدي خويلد,Sidi Khouiled,30,30,loi 19-12,loi 19-12,
+3012,30,Hassi Ben Abdelah,حاسي بن عبد الله,Sidi Khouiled,30,30,loi 19-12,loi 19-12,Hassi Ben Abdallah|Hassi Ben Abdellah
+3101,31,Oran,وهران,Oran,31,31,loi 84-09,loi 84-09,
+3102,31,Gdyel,قديل,Gdyel,31,31,loi 84-09,loi 84-09,
+3103,31,Bir El Djir,بئر الجير,Bir El Djir,31,31,loi 84-09,loi 84-09,
+3104,31,Hassi Bounif,حاسى بونيف,Bir El Djir,31,31,loi 84-09,loi 84-09,
+3105,31,Es Senia,السانية,Es Senia,31,31,loi 84-09,loi 84-09,
+3106,31,Arzew,أرزيو,Arzew,31,31,loi 84-09,loi 84-09,
+3107,31,Bethioua,بطيوة,Bethioua,31,31,loi 84-09,loi 84-09,
+3108,31,Marsat El Hadjadj,مرسى الحجاج,Bethioua,31,31,loi 84-09,loi 84-09,Mersa El Hadjadj
+3109,31,Aïn Turk,عين الترك,Aïn Turk,31,31,loi 84-09,loi 84-09,Aïn El Turk
+3110,31,El Ançar,العنصر,Aïn Turk,31,31,loi 84-09,loi 84-09,El Ançor
+3111,31,Oued Tlélat,وادى تليلات,Oued Tlélat,31,31,loi 84-09,loi 84-09,
+3112,31,Tafraoui,طفراوى,Oued Tlélat,31,31,loi 84-09,loi 84-09,
+3113,31,Sidi Chami,سيدى الشحمى,Es Senia,31,31,loi 84-09,loi 84-09,Sidi Chahmi
+3114,31,Boufatis,بوفتيس,Oued Tlélat,31,31,loi 84-09,loi 84-09,
+3115,31,Mers El Kébir,المرسى الكبير,Aïn Turk,31,31,loi 84-09,loi 84-09,
+3116,31,Bousfer,بوصفر,Aïn Turk,31,31,loi 84-09,loi 84-09,
+3117,31,El Kerma,الكرمة,Es Senia,31,31,decret 91-306,loi 84-09,El Karma
+3118,31,El Braya,البراية,Oued Tlélat,31,31,loi 84-09,loi 84-09,
+3119,31,Hassi Ben Okba,حاسى بن عقبة,Bir El Djir,31,31,loi 84-09,loi 84-09,
+3120,31,Ben Fréha,بن فريحة,Gdyel,31,31,loi 84-09,loi 84-09,
+3121,31,Hassi Mefsoukh,حاسى مفسوخ,Gdyel,31,31,loi 84-09,loi 84-09,
+3122,31,Sidi Benyebka,سيدى بن يبقى,Arzew,31,31,decret 91-306,loi 84-09,Sidi Ben Yabka
+3123,31,Misserghin,مسرغين,Boutlelis,31,31,decret 91-306,loi 84-09,Messerghin
+3124,31,Boutlelis,بوتليليس,Boutlelis,31,31,loi 84-09,loi 84-09,
+3125,31,Aïn El Karma,عين الكرمة,Boutlelis,31,31,decret 91-306,loi 84-09,Aïn Kerma|Aïn El Kerma
+3126,31,Aïn Biya,عين البية,Bethioua,31,31,loi 84-09,loi 84-09,Aïn El Bia
+3201,32,El Bayadh,البيض,El Bayadh,32,32,loi 26-06,loi 26-06,
+3202,32,Rogassa,روقاصة,Rogassa,32,32,loi 26-06,loi 26-06,
+3203,32,Stitten,استيتن,Boualem,32,32,loi 26-06,loi 26-06,Stiten
+3204,32,Brézina,بريزينة,Brézina,32,32,loi 26-06,loi 26-06,
+3205,32,Ghassoul,الغاسول,Brézina,32,32,loi 26-06,loi 26-06,
+3206,32,Boualem,بوعلام,Boualem,32,32,loi 26-06,loi 26-06,
+3210,32,Bougtob,بوقطب,Bougtob,32,32,loi 26-06,loi 26-06,Bougtoub
+3211,32,El Kheïther,الخيثر,Bougtob,32,32,loi 26-06,loi 26-06,El Kheiter
+3212,32,Kef El Ahmar,الكاف الاحمر,Rogassa,32,32,loi 26-06,loi 26-06,Kef Lahmar
+3215,32,Krakda,كراكدة,Brézina,32,32,loi 26-06,loi 26-06,Kraakda
+3217,32,Cheguig,الشقيق,Rogassa,32,32,loi 26-06,loi 26-06,
+3218,32,Sidi Amar,سيدي عمر,Boualem,32,32,loi 26-06,loi 26-06,Sidi Ameur
+3220,32,Tousmouline,توسمولين,Bougtob,32,32,loi 26-06,loi 26-06,
+3221,32,Sidi Slimane,سيدي سليمان,Boualem,32,32,loi 26-06,loi 26-06,
+3222,32,Sidi Tifour,سيدي طيفور,Boualem,32,32,loi 26-06,loi 26-06,Sidi Taifour
+3301,33,Illizi,إيليزي,Illizi,33,33,loi 19-12,loi 19-12,
+3303,33,Debdeb,دبداب,In Amenas,33,33,loi 19-12,loi 19-12,
+3304,33,Bordj Omar Driss,برج عمر ادريس,In Amenas,33,33,loi 19-12,loi 19-12,
+3306,33,In Amenas,إن اميناس,In Amenas,33,33,loi 19-12,loi 19-12,
+3401,34,Bordj Bou Arréridj,برج بوعريريج,Bordj Bou Arréridj,34,34,loi 84-09,loi 84-09,
+3402,34,Ras El Oued,رأس الوادى,Ras El Oued,34,34,loi 84-09,loi 84-09,
+3403,34,Bordj Zemoura,برج زمورة,Bordj Zemoura,34,34,loi 84-09,loi 84-09,Bordj Zemmoura
+3404,34,Mansoura,المنصورة,Mansoura,34,34,loi 84-09,loi 84-09,Mansourah
+3405,34,El M'Hir,المهير,Mansoura,34,34,loi 84-09,loi 84-09,El Mehir
+3406,34,Ben Daoud,بن داود,Mansoura,34,34,loi 84-09,loi 84-09,
+3407,34,El Achir,الياشير,Medjana,34,34,loi 84-09,loi 84-09,
+3408,34,Aïn Taghrout,عين تاغروت,Aïn Taghrout,34,34,loi 84-09,loi 84-09,
+3409,34,Bordj Ghdir,برج الغدير,Bordj Ghdir,34,34,loi 84-09,loi 84-09,Bordj Ghedir
+3410,34,Sidi Embarek,سيدى مبارك,Bir Kasdali,34,34,loi 84-09,loi 84-09,Sidi M'Barek
+3411,34,El Hamadia,الحمادية,El Hamadia,34,34,loi 84-09,loi 84-09,
+3412,34,Belimour,بليمور,Bordj Ghdir,34,34,loi 84-09,loi 84-09,
+3413,34,Medjana,مجانة,Medjana,34,34,loi 84-09,loi 84-09,
+3414,34,Teniet En Nasr,ثنية النصر,Medjana,34,34,loi 84-09,loi 84-09,Theniet En Nasr
+3415,34,Djaafra,الجعافرة,Djaafra,34,34,loi 84-09,loi 84-09,
+3416,34,El Maïn,الماين,Djaafra,34,34,loi 84-09,loi 84-09,
+3417,34,Ouled Braham,أولاد ابراهيم,Ras El Oued,34,34,decret 91-306,loi 84-09,Ouled Brahem|Ouled Brahim
+3418,34,Ouled Dahmane,أولاد دحمان,Bordj Zemoura,34,34,loi 84-09,loi 84-09,
+3419,34,Hasnaoua,حسناوة,Medjana,34,34,loi 84-09,loi 84-09,
+3420,34,Khelil,خليل,Bir Kasdali,34,34,loi 84-09,loi 84-09,
+3421,34,Taglaït,تقلعيت,Bordj Ghdir,34,34,loi 84-09,loi 84-09,
+3422,34,Ksour,القصور,El Hamadia,34,34,loi 84-09,loi 84-09,
+3423,34,Ouled Sidi Brahim,أولاد سيدى ابراهيم,Mansoura,34,34,loi 84-09,loi 84-09,
+3424,34,Tafreg,تفرق,Djaafra,34,34,loi 84-09,loi 84-09,Tefreg
+3425,34,Colla,القلة,Djaafra,34,34,loi 84-09,loi 84-09,
+3426,34,Tixter,تكستين,Aïn Taghrout,34,34,loi 84-09,loi 84-09,
+3427,34,El Ach,العش,El Hamadia,34,34,loi 84-09,loi 84-09,
+3428,34,El Anceur,العنصر,Bordj Ghdir,34,34,decret 91-306,loi 84-09,El Anseur
+3429,34,Tasmart,تسمرت,Bordj Zemoura,34,34,decret 91-306,loi 84-09,Tesmart|Tassameurt
+3430,34,Aïn Tesra,عين تسرة,Ras El Oued,34,34,loi 84-09,loi 84-09,
+3431,34,Bir Kasdali,بئر قصد على,Bir Kasdali,34,34,loi 84-09,loi 84-09,
+3432,34,Ghilassa,غيلاسة,Bordj Ghdir,34,34,loi 84-09,loi 84-09,
+3433,34,Rabta,الرابطة,El Hamadia,34,34,loi 84-09,loi 84-09,
+3434,34,Haraza,حرازة,Mansoura,34,34,loi 84-09,loi 84-09,
+3501,35,Boumerdès,بومرداس,Boumerdès,35,35,loi 84-09,loi 84-09,
+3502,35,Boudouaou,بودواو,Boudouaou,35,35,loi 84-09,loi 84-09,
+3504,35,Afir,أفير,Dellys,35,35,loi 84-09,loi 84-09,
+3505,35,Bordj Menaïel,برج منايل,Bordj Menaïel,35,35,loi 84-09,loi 84-09,
+3506,35,Baghlia,بغلية,Naciria,35,35,loi 84-09,loi 84-09,
+3507,35,Sidi Daoud,سيدى داود,Naciria,35,35,loi 84-09,loi 84-09,
+3508,35,Naciria,الناصرية,Naciria,35,35,loi 84-09,loi 84-09,
+3509,35,Djinet,جينات,Bordj Menaïel,35,35,loi 84-09,loi 84-09,
+3510,35,Isser,يسر,Isser,35,35,loi 84-09,loi 84-09,Issers
+3511,35,Zemmouri,زمورى,Bordj Menaïel,35,35,loi 84-09,loi 84-09,
+3512,35,Si Mustapha,سى مصطفى,Isser,35,35,loi 84-09,loi 84-09,
+3513,35,Tidjelabine,تجلبين,Boumerdès,35,35,loi 84-09,loi 84-09,
+3514,35,Chabet El Ameur,شعبة العامر,Isser,35,35,loi 84-09,loi 84-09,Chaabet El Ameur
+3515,35,Thenia,الثنية,Thenia,35,35,loi 84-09,loi 84-09,
+3518,35,Timezrit,تمزريت,Isser,35,35,loi 84-09,loi 84-09,
+3519,35,Corso,قورصو,Boumerdès,35,35,loi 84-09,loi 84-09,
+3520,35,Ouled Moussa,أولاد موسى,Khemis El Khechna,35,35,loi 84-09,loi 84-09,
+3521,35,Larbatache,الاربعطاش,Khemis El Khechna,35,35,loi 84-09,loi 84-09,
+3522,35,Keddara,قدارة,Boudouaou,35,35,decret 91-306,decret 91-306,Bouzegza Keddara
+3525,35,Taourga,تورقة,Dellys,35,35,loi 84-09,loi 84-09,
+3526,35,Ouled Aïssa,أولاد عيسى,Naciria,35,35,loi 84-09,loi 84-09,
+3527,35,Ben Choud,بن شود,Dellys,35,35,loi 84-09,loi 84-09,
+3528,35,Dellys,دلس,Dellys,35,35,loi 84-09,loi 84-09,
+3529,35,Ammal,عمال,Thenia,35,35,loi 84-09,loi 84-09,
+3530,35,Béni Amrane,بنى عمران,Thenia,35,35,loi 84-09,loi 84-09,
+3531,35,Souk El Had,سوق الحد,Thenia,35,35,loi 84-09,loi 84-09,
+3532,35,Boudouaou El Bahri,بودواو البحرى,Réghaïa,35,35,loi 84-09,loi 84-09,
+3533,35,Ouled Hedadj,أولاد هداج,Réghaïa,35,35,loi 84-09,loi 84-09,Ouled Hadjadj
+3535,35,Leghata,لقاطة,Bordj Menaïel,35,35,loi 84-09,loi 84-09,Lagata
+3536,35,Hammedi,حمادى,Khemis El Khechna,35,35,loi 84-09,loi 84-09,
+3537,35,Khemis El Khechna,خميس الخشنة,Khemis El Khechna,35,35,loi 84-09,loi 84-09,
+3538,35,El Kharrouba,الخروبة,Boudouaou,35,35,loi 84-09,loi 84-09,El Kharouba
+3601,36,El Tarf,الطارف,El Tarf,36,36,loi 84-09,loi 84-09,
+3602,36,Bouhadjar,بوحجار,Bouhadjar,36,36,loi 84-09,loi 84-09,
+3603,36,Ben M'Hidi,بن مهيدى,Ben M'Hidi,36,36,loi 84-09,loi 84-09,Ben Mehidi
+3604,36,Bougous,بوقوس,El Tarf,36,36,loi 84-09,loi 84-09,Bouggous
+3605,36,El Kala,القالة,El Kala,36,36,loi 84-09,loi 84-09,
+3606,36,Aïn El Assel,عين العسل,El Tarf,36,36,loi 84-09,loi 84-09,
+3607,36,El Aïoun,العيون,El Kala,36,36,loi 84-09,loi 84-09,
+3608,36,Bouteldja,بوثلجة,Bouteldja,36,36,loi 84-09,loi 84-09,
+3609,36,Souarekh,السوارخ,El Kala,36,36,loi 84-09,loi 84-09,
+3610,36,Berrihane,برحان,Ben M'Hidi,36,36,loi 84-09,loi 84-09,
+3611,36,Lac des Oiseaux,بحيرة الطيور,Bouteldja,36,36,loi 84-09,loi 84-09,
+3612,36,Chefia,الشافية,Bouteldja,36,36,loi 84-09,loi 84-09,Cheffia
+3613,36,Dréan,الذرعان,Dréan,36,36,loi 84-09,loi 84-09,
+3614,36,Chihani,شهانى,Dréan,36,36,loi 84-09,loi 84-09,
+3615,36,Chebaïta Mokhtar,شبايطة مختار,Dréan,36,36,loi 84-09,loi 84-09,Chbaita Mokhtar
+3616,36,Besbès,البسباس,Besbès,36,36,loi 84-09,loi 84-09,
+3617,36,Asfour,عصفور,Besbès,36,36,loi 84-09,loi 84-09,
+3618,36,Chatt,الشط,Ben M'Hidi,36,36,decret 91-306,decret 91-306,Béni Amar|Echatt
+3619,36,Zerizer,زريزر,Besbès,36,36,loi 84-09,loi 84-09,
+3620,36,Zitouna,الزيتونة,El Tarf,36,36,loi 84-09,loi 84-09,
+3621,36,Aïn Kerma,عين الكرمة,Bouhadjar,36,36,loi 84-09,loi 84-09,Aïn Karma
+3622,36,Oued Zitoun,وادى الزيتون,Bouhadjar,36,36,loi 84-09,loi 84-09,
+3623,36,Hammam Béni Salah,حمام بنى صالح,Bouhadjar,36,36,loi 84-09,loi 84-09,
+3624,36,Raml Souk,رمل السوق,El Kala,36,36,loi 84-09,loi 84-09,Raml Essouk
+3701,37,Tindouf,تندوف,Tindouf,37,37,loi 84-09,loi 84-09,
+3702,37,Oum El Assel,أم العسل,Tindouf,37,37,loi 84-09,loi 84-09,
+3801,38,Tissemsilt,تيسمسيلت,Tissemsilt,38,38,loi 84-09,loi 84-09,
+3802,38,Bordj Bou Naama,برج بونعامة,Bordj Bou Naama,38,38,loi 84-09,loi 84-09,
+3803,38,Theniet El Had,ثنية الاحد,Theniet El Had,38,38,loi 84-09,loi 84-09,
+3804,38,Lazharia,الازهرية,Lazharia,38,38,loi 84-09,loi 84-09,
+3805,38,Béni Chaïb,بنى شعيب,Bordj Bou Naama,38,38,loi 84-09,loi 84-09,
+3806,38,Lardjem,الارجم,Lardjem,38,38,loi 84-09,loi 84-09,
+3807,38,Melaab,ملعب,Lardjem,38,38,loi 84-09,loi 84-09,
+3808,38,Sidi Lantri,سيدى العنترى,Lardjem,38,38,loi 84-09,loi 84-09,
+3809,38,Bordj El Emir Abdelkader,برج الامير عبد القادر,Bordj El Emir Abdelkader,38,38,loi 84-09,loi 84-09,Bordj Emir Abdelkader
+3810,38,Layoune,العيون,Khemisti,38,38,loi 84-09,loi 84-09,Layoun
+3811,38,Khemisti,خميستى,Khemisti,38,38,loi 84-09,loi 84-09,
+3812,38,Ouled Bessem,اولاد بسام,Tissemsilt,38,38,loi 84-09,loi 84-09,
+3813,38,Ammari,عمارى,Ammari,38,38,loi 84-09,loi 84-09,
+3814,38,Youssoufia,اليوسفية,Bordj El Emir Abdelkader,38,38,decret 91-306,decret 91-306,Oued El Gherga
+3815,38,Sidi Boutouchent,سيدى بوتوشنت,Theniet El Had,38,38,loi 84-09,loi 84-09,
+3816,38,Larbaa,الاربعاء,Lazharia,38,38,loi 84-09,loi 84-09,
+3817,38,Naaçem,المعاصم,Ammari,38,38,decret 91-306,loi 84-09,Maassem|Maacem
+3818,38,Sidi Abed,سيدى عابد,Ammari,38,38,loi 84-09,loi 84-09,
+3819,38,Tamalaht,تاملاحت,Lardjem,38,38,loi 84-09,loi 84-09,Tamelaht
+3820,38,Sidi Slimane,سيدى سليمان,Bordj Bou Naama,38,38,loi 84-09,loi 84-09,
+3821,38,Boucaïd,بوقايد,Lazharia,38,38,loi 84-09,loi 84-09,Boukaïd
+3822,38,Béni Lahcène,بنى لحسن,Bordj Bou Naama,38,38,loi 84-09,loi 84-09,
+3901,39,El Oued,الوادي,El Oued,39,39,loi 19-12,loi 19-12,
+3902,39,Robbah,رباح,Robbah,39,39,loi 19-12,loi 19-12,
+3903,39,Oued El Alenda,وادي العلندة,Mih Ouansa,39,39,loi 19-12,loi 19-12,Oued Allenda
+3904,39,Bayadha,البياضة,Bayadha,39,39,loi 19-12,loi 19-12,
+3905,39,Nakhla,النخلة,Robbah,39,39,loi 19-12,loi 19-12,
+3906,39,Guemar,قمار,Guemar,39,39,loi 19-12,loi 19-12,
+3907,39,Kouinine,كوينين,El Oued,39,39,loi 19-12,loi 19-12,
+3908,39,Reguiba,الرقيبة,Reguiba,39,39,loi 19-12,loi 19-12,
+3909,39,Hamraia,حمراية,Reguiba,39,39,loi 19-12,loi 19-12,
+3910,39,Taghzout,تاغزوت,Guemar,39,39,loi 19-12,loi 19-12,
+3911,39,Debila,الدبيلة,Debila,39,39,loi 19-12,loi 19-12,
+3912,39,Hassani Abdelkrim,حساني عبد الكريم,Debila,39,39,loi 19-12,loi 19-12,
+3913,39,Hassi Khelifa,حاسي خليفة,Hassi Khelifa,39,39,loi 19-12,loi 19-12,Hassi Khalifa
+3914,39,Taleb Larbi,طالب العربي,Taleb Larbi,39,39,loi 19-12,loi 19-12,
+3915,39,Douar El Ma,دوار الماء,Taleb Larbi,39,39,loi 19-12,loi 19-12,
+3916,39,Sidi Aoun,سيدي عون,Magrane,39,39,loi 19-12,loi 19-12,
+3917,39,Trifaoui,تريفاوي,Hassi Khelifa,39,39,loi 19-12,loi 19-12,
+3918,39,Magrane,المقرن,Magrane,39,39,loi 19-12,loi 19-12,
+3919,39,Beni Guecha,بني قشة,Taleb Larbi,39,39,loi 19-12,loi 19-12,Ben Guecha
+3920,39,Ourmas,ورماس,Guemar,39,39,loi 19-12,loi 19-12,Ourmes
+3925,39,El Ogla,العقلة,Robbah,39,39,loi 19-12,loi 19-12,
+3926,39,Mih Ouansa,ميه ونسى,Mih Ouansa,39,39,loi 19-12,loi 19-12,Mih Ouensa
+4001,40,Khenchela,خنشلة,Khenchela,40,40,loi 84-09,loi 84-09,
+4002,40,M'Toussa,متوسة,Aïn Touila,40,40,loi 84-09,loi 84-09,
+4003,40,Kaïs,قايس,Kaïs,40,40,loi 84-09,loi 84-09,
+4004,40,Baghaï,بغاى,El Hamma,40,40,loi 84-09,loi 84-09,
+4005,40,El Hamma,الحامة,El Hamma,40,40,loi 84-09,loi 84-09,
+4006,40,Aïn Touila,عين الطويلة,Aïn Touila,40,40,loi 84-09,loi 84-09,
+4007,40,Taouzinet,تاوزينت,Kaïs,40,40,decret 91-306,decret 91-306,Faïs|Taouzient
+4008,40,Bouhmama,بوحمامة,Bouhmama,40,40,loi 84-09,loi 84-09,
+4009,40,El Oueldja,الولجة,Chechar,40,40,loi 84-09,loi 84-09,El Ouldja
+4010,40,Remila,الرميلة,Kaïs,40,40,loi 84-09,loi 84-09,
+4011,40,Chechar,ششار,Chechar,40,40,decret 91-306,loi 84-09,Cherchar
+4012,40,Djellal,جلال,Chechar,40,40,loi 84-09,loi 84-09,
+4013,40,Babar,بابار,Babar,40,40,loi 84-09,loi 84-09,
+4014,40,Tamza,تامزة,El Hamma,40,40,loi 84-09,loi 84-09,
+4015,40,Ensigha,انسيغة,El Hamma,40,40,loi 84-09,loi 84-09,
+4016,40,Ouled Rechache,أولاد رشاش,Ouled Rechache,40,40,loi 84-09,loi 84-09,
+4017,40,El Mahmal,المحمل,Ouled Rechache,40,40,loi 84-09,loi 84-09,El Mahmel
+4018,40,M'Sara,أمصارة,Bouhmama,40,40,loi 84-09,loi 84-09,
+4019,40,Yabous,يابوس,Bouhmama,40,40,loi 84-09,loi 84-09,
+4020,40,Khirane,خيران,Chechar,40,40,loi 84-09,loi 84-09,Khairane
+4021,40,Chelia,شلية,Bouhmama,40,40,loi 84-09,loi 84-09,Chellia
+4101,41,Souk Ahras,سوق أهراس,Souk Ahras,41,41,loi 84-09,loi 84-09,
+4102,41,Sedrata,سدراتة,Sedrata,41,41,loi 84-09,loi 84-09,
+4103,41,Hanancha,الحنانشة,Mechroha,41,41,loi 84-09,loi 84-09,Hannencha
+4104,41,Mechroha,المشروحة,Mechroha,41,41,loi 84-09,loi 84-09,
+4105,41,Ouled Driss,أولاد ادريس,Ouled Driss,41,41,loi 84-09,loi 84-09,
+4106,41,Tiffech,تيفاش,M'Daourouch,41,41,loi 84-09,loi 84-09,
+4107,41,Zaarouria,الزعرورية,Taoura,41,41,loi 84-09,loi 84-09,
+4108,41,Taoura,تاورة,Taoura,41,41,loi 84-09,loi 84-09,
+4109,41,Dréa,الدريعة,Taoura,41,41,loi 84-09,loi 84-09,
+4110,41,Haddada,الحدادة,Haddada,41,41,loi 84-09,loi 84-09,Heddada
+4111,41,Khedara,لخضارة,Haddada,41,41,loi 84-09,loi 84-09,
+4112,41,Merahna,المراهنة,Merahna,41,41,loi 84-09,loi 84-09,
+4113,41,Ouled Moumen,أولاد مؤمن,Haddada,41,41,loi 84-09,loi 84-09,
+4114,41,Bir Bouhouche,بئر بوحوش,Bir Bouhouche,41,41,decret 91-306,loi 84-09,Bir Bcuhouche|Bir Bou Haouch
+4115,41,M'Daourouch,مداوروش,M'Daourouch,41,41,decret 91-306,loi 84-09,M'Daourach
+4116,41,Oum El Adhaïm,أم العظايم,Oum El Adhaïm,41,41,loi 84-09,loi 84-09,
+4117,41,Aïn Zana,عين الزانة,Ouled Driss,41,41,loi 84-09,loi 84-09,
+4118,41,Aïn Soltane,عين سلطان,Sedrata,41,41,loi 84-09,loi 84-09,
+4119,41,Ouillen,ويلان,Merahna,41,41,loi 84-09,loi 84-09,
+4120,41,Sidi Frédj,سيدى فرج,Merahna,41,41,loi 84-09,loi 84-09,
+4121,41,Safel El Ouiden,سافل الويدان,Bir Bouhouche,41,41,loi 84-09,loi 84-09,Safel Ouiden
+4122,41,Ragouba,الرقوبة,M'Daourouch,41,41,loi 84-09,loi 84-09,
+4123,41,Khemissa,خميسة,Sedrata,41,41,loi 84-09,loi 84-09,
+4124,41,Oued Keberit,وادى الكبريت,Oum El Adhaïm,41,41,loi 84-09,loi 84-09,Oued Kebrit
+4125,41,Terraguelt,ترقالت,Oum El Adhaïm,41,41,loi 84-09,loi 84-09,Tarraguelt
+4126,41,Zouabi,الزوابى,Bir Bouhouche,41,41,loi 84-09,loi 84-09,
+4201,42,Tipaza,تيبازة,Tipaza,42,42,loi 84-09,loi 84-09,
+4202,42,Menaceur,مناصر,Sidi Amar,42,42,loi 84-09,loi 84-09,
+4203,42,Larhat,لرهاط,Damous,42,42,loi 84-09,loi 84-09,
+4204,42,Douaouda,دواودة,Fouka,42,42,loi 84-09,loi 84-09,
+4205,42,Bourkika,بورقيقة,Ahmar El Aïn,42,42,loi 84-09,loi 84-09,
+4206,42,Khemisti,خميستى,Bou Ismaïl,42,42,loi 84-09,loi 84-09,
+4210,42,Aghbal,اغبال,Gouraya,42,42,loi 84-09,loi 84-09,
+4212,42,Hadjout,حجوط,Hadjout,42,42,loi 84-09,loi 84-09,
+4213,42,Sidi Amar,سيدى عمر,Sidi Amar,42,42,loi 84-09,loi 84-09,
+4214,42,Gouraya,قوراية,Gouraya,42,42,loi 84-09,loi 84-09,
+4215,42,Nador,الناظور,Sidi Amar,42,42,loi 84-09,loi 84-09,
+4216,42,Chaïba,الشعيبة,Koléa,42,42,loi 84-09,loi 84-09,
+4217,42,Aïn Tagouraït,عين تقورايت,Bou Ismaïl,42,42,loi 84-09,loi 84-09,
+4222,42,Cherchell,شرشال,Cherchell,42,42,loi 84-09,loi 84-09,
+4223,42,Damous,الداموس,Damous,42,42,loi 84-09,loi 84-09,
+4224,42,Merad,مراد,Hadjout,42,42,decret 91-306,loi 84-09,Meurad
+4225,42,Fouka,فوكة,Fouka,42,42,loi 84-09,loi 84-09,
+4226,42,Bou Ismaïl,بواسماعيل,Bou Ismaïl,42,42,loi 84-09,loi 84-09,
+4227,42,Ahmar El Aïn,أحمر العين,Ahmar El Aïn,42,42,decret 91-306,loi 84-09,Ahmer El Aïn
+4230,42,Bou Haroun,بوهارون,Bou Ismaïl,42,42,loi 84-09,loi 84-09,
+4232,42,Sidi Ghilès,سيدى غيلاس,Cherchell,42,42,loi 84-09,loi 84-09,Sidi Ghilesse
+4233,42,Messelmoun,مسلمون,Gouraya,42,42,decret 91-306,loi 84-09,Messeloun
+4234,42,Sidi Rached,سيدى راشد,Ahmar El Aïn,42,42,loi 84-09,loi 84-09,
+4235,42,Koléa,القليعة,Koléa,42,42,loi 84-09,loi 84-09,
+4236,42,Attatba,الحطاطبة,Koléa,42,42,loi 84-09,loi 84-09,Hattatba
+4240,42,Sidi Semiane,سيدى سميان,Cherchell,42,42,loi 84-09,loi 84-09,
+4241,42,Béni Milleuk,بنى ميلك,Damous,42,42,loi 84-09,loi 84-09,Beni Meleuk
+4242,42,Hadjrat Nouss,حجرة النص,Cherchell,42,42,decret 91-306,loi 84-09,Hadjerat Ennous|Hadjeret Ennous
+4301,43,Mila,ميلة,Mila,43,43,loi 84-09,loi 84-09,
+4302,43,Ferdjioua,فرجيوة,Ferdjioua,43,43,loi 84-09,loi 84-09,
+4303,43,Chelghoum Laïd,شلغوم العيد,Chelghoum Laïd,43,43,loi 84-09,loi 84-09,
+4304,43,Oued Athmania,وادى العثمانية,Chelghoum Laïd,43,43,decret 91-306,loi 84-09,Oued Athménia
+4305,43,Aïn Mellouk,عين ملوك,Chelghoum Laïd,43,43,loi 84-09,loi 84-09,
+4306,43,Teleghma,تلاغمة,Teleghma,43,43,decret 91-306,loi 84-09,Télerghma
+4307,43,Oued Seguen,وادى سقان,Teleghma,43,43,loi 84-09,loi 84-09,
+4308,43,Tadjenanet,تاجنانت,Tadjenanet,43,43,loi 84-09,loi 84-09,
+4309,43,Benyahia Abderrahmane,بن يحي عبد الرحمن,Tadjenanet,43,43,loi 84-09,loi 84-09,
+4310,43,Oued Endja,وادى النجاء,Oued Endja,43,43,loi 84-09,loi 84-09,
+4311,43,Ahmed Rachedi,أحمد راشدى,Oued Endja,43,43,loi 84-09,loi 84-09,
+4312,43,Ouled Khalouf,أولاد خلوف,Tadjenanet,43,43,loi 84-09,loi 84-09,Ouled Khelouf
+4313,43,Tiberguent,تيبرقنت,Rouached,43,43,loi 84-09,loi 84-09,
+4314,43,Bouhatem,بوحاتم,Bouhatem,43,43,loi 84-09,loi 84-09,
+4315,43,Rouached,الرواشد,Rouached,43,43,loi 84-09,loi 84-09,
+4316,43,Tessala Lamtai,تسالة لمطاعى,Terraï Baïnen,43,43,decret 91-306,loi 84-09,Tessala Lemataï|Tessala Lemtaï
+4317,43,Grarem Gouga,قرارم قوقة,Grarem Gouga,43,43,loi 84-09,loi 84-09,
+4318,43,Sidi Merouane,سيدى مروان,Sidi Merouane,43,43,loi 84-09,loi 84-09,
+4319,43,Tassadane Haddada,تسادان حدادة,Tassadane Haddada,43,43,loi 84-09,loi 84-09,
+4320,43,Derradji Bousselah,دراجي بوصلاح,Bouhatem,43,43,loi 84-09,loi 84-09,
+4321,43,Minar Zarza,مينار زرزة,Tassadane Haddada,43,43,loi 84-09,loi 84-09,
+4322,43,Amira Arres,عميرة أراس,Terraï Baïnen,43,43,decret 91-306,loi 84-09,Amira Arras
+4323,43,Terraï Baïnen,ترعي باينان,Terraï Baïnen,43,43,loi 84-09,loi 84-09,Terrai Baïnem
+4324,43,Hamala,حمالة,Grarem Gouga,43,43,loi 84-09,loi 84-09,
+4325,43,Aïn Tine,عين التين,Mila,43,43,loi 84-09,loi 84-09,
+4326,43,El Mechira,المشيرة,Teleghma,43,43,loi 84-09,loi 84-09,
+4327,43,Sidi Khelifa,سيدى خليفة,Mila,43,43,loi 84-09,loi 84-09,
+4328,43,Zeghaïa,الزغاية,Oued Endja,43,43,loi 84-09,loi 84-09,
+4329,43,Elayadi Barbès,العياضى برباس,Aïn Beïda Harriche,43,43,loi 84-09,loi 84-09,
+4330,43,Aïn Beïda Harriche,عين البيضاء حريش,Aïn Beïda Harriche,43,43,loi 84-09,loi 84-09,
+4331,43,Yahia Beniguecha,يحيى بنى قشة,Ferdjioua,43,43,loi 84-09,loi 84-09,
+4332,43,Chigara,الشيقارة,Sidi Merouane,43,43,loi 84-09,loi 84-09,
+4401,44,Aïn Defla,عين الدفلى,Aïn Defla,44,44,loi 84-09,loi 84-09,
+4402,44,Miliana,مليانة,Miliana,44,44,loi 84-09,loi 84-09,
+4403,44,Boumedfaa,بومدفع,Boumedfaa,44,44,loi 84-09,loi 84-09,
+4404,44,Khemis Miliana,خميس مليانة,Khemis Miliana,44,44,loi 84-09,loi 84-09,Khemis
+4405,44,Hammam Righa,حمام ريغة,Hammam Righa,44,44,loi 84-09,loi 84-09,
+4406,44,Arib,عريب,El Amra,44,44,loi 84-09,loi 84-09,
+4407,44,Djelida,جليدة,Djelida,44,44,loi 84-09,loi 84-09,
+4408,44,El Amra,العامرة,El Amra,44,44,loi 84-09,loi 84-09,
+4409,44,Bourached,بوراشد,Djelida,44,44,loi 84-09,loi 84-09,
+4410,44,El Attaf,العطاف,El Attaf,44,44,loi 84-09,loi 84-09,
+4411,44,El Abadia,العبادية,El Abadia,44,44,loi 84-09,loi 84-09,
+4412,44,Djendel,جندل,Djendel,44,44,loi 84-09,loi 84-09,
+4413,44,Oued Chorfa,وادى الشرفاء,Djendel,44,44,loi 84-09,loi 84-09,
+4414,44,Aïn Lechiakh,عين لشياخ,Aïn Lechiakh,44,44,loi 84-09,loi 84-09,Aïn Lechiekh
+4415,44,Oued Djemaa,وادى جمعة,Aïn Lechiakh,44,44,loi 84-09,loi 84-09,
+4416,44,Rouina,روينة,Rouina,44,44,loi 84-09,loi 84-09,
+4417,44,Zeddine,زدين,Rouina,44,44,loi 84-09,loi 84-09,
+4418,44,El Hassania,الحسنية,Bathia,44,44,loi 84-09,loi 84-09,
+4419,44,Bir Ould Khelifa,بئر أولاد خليفة,Bordj Emir Khaled,44,44,loi 84-09,loi 84-09,Bir Ould Khlifa
+4420,44,Aïn Soltane,عين السلطان,Aïn Lechiakh,44,44,loi 84-09,loi 84-09,
+4421,44,Tarik Ibn Ziad,طارق بن زياد,Bordj Emir Khaled,44,44,loi 84-09,loi 84-09,
+4422,44,Bordj Emir Khaled,برج الامير خالد,Bordj Emir Khaled,44,44,loi 84-09,loi 84-09,Bordj El Emir Khaled
+4423,44,Aïn Torki,عين التركى,Hammam Righa,44,44,loi 84-09,loi 84-09,
+4424,44,Sidi Lakhdar,سيدى الاخضر,Khemis Miliana,44,44,loi 84-09,loi 84-09,
+4425,44,Ben Allal,بن علال,Miliana,44,44,loi 84-09,loi 84-09,
+4426,44,Aïn Benian,عين البنيان,Hammam Righa,44,44,loi 84-09,loi 84-09,
+4427,44,Hoceïnia,حسينية,Boumedfaa,44,44,loi 84-09,loi 84-09,El Hoceinia
+4428,44,Barbouche,بربوش,Djendel,44,44,loi 84-09,loi 84-09,Birbouche
+4429,44,Djemaa Ouled Chikh,جمعة أولاد الشيخ,Djelida,44,44,loi 84-09,loi 84-09,Djemaa Ouled Cheikh
+4430,44,Mekhatria,المخاطرية,El Amra,44,44,loi 84-09,loi 84-09,
+4431,44,Bathia,بطحية,Bathia,44,44,loi 84-09,loi 84-09,
+4432,44,Tacheta Zougagha,تاشتة زقاغة,El Abadia,44,44,loi 84-09,loi 84-09,Tachta Zouggagha
+4433,44,Aïn Bouyahia,عين بويحيى,El Abadia,44,44,loi 84-09,loi 84-09,
+4434,44,El Maïne,الماين,Rouina,44,44,loi 84-09,loi 84-09,
+4435,44,Tiberkanine,تبركانين,El Attaf,44,44,loi 84-09,loi 84-09,
+4436,44,Belaas,بالعاص,Bathia,44,44,loi 84-09,loi 84-09,
+4501,45,Naama,النعمة,Naama,45,45,loi 84-09,loi 84-09,
+4502,45,Mecheria,مشرية,Mecheria,45,45,loi 84-09,loi 84-09,Méchria
+4503,45,Aïn Sefra,عين الصفراء,Aïn Sefra,45,45,loi 84-09,loi 84-09,
+4504,45,Tiout,تيوت,Aïn Sefra,45,45,loi 84-09,loi 84-09,
+4505,45,Sfissifa,سفيسيفة,Sfissifa,45,45,loi 84-09,loi 84-09,
+4506,45,Moghrar,مغرار,Moghrar,45,45,loi 84-09,loi 84-09,
+4507,45,Assela,عسلة,Assela,45,45,loi 84-09,loi 84-09,Asla
+4508,45,Djeniene Bourezg,جنين بورزق,Moghrar,45,45,decret 91-306,loi 84-09,Djeniane Bourzeg
+4509,45,Aïn Ben Khelil,عين بن خليل,Mecheria,45,45,loi 84-09,loi 84-09,
+4510,45,Makman Ben Amer,مكمن بن عمر,Makman Ben Amer,45,45,loi 84-09,loi 84-09,Mekmen Ben Amar
+4511,45,Kasdir,قصدير,Makman Ben Amer,45,45,loi 84-09,loi 84-09,
+4512,45,El Biod,البيوض,Mecheria,45,45,loi 84-09,loi 84-09,El Biodh
+4601,46,Aïn Témouchent,عين تموشنت,Aïn Témouchent,46,46,loi 84-09,loi 84-09,
+4602,46,Chaabat El Ham,شعبة اللحم,El Malah,46,46,decret 91-306,loi 84-09,Chaabet El Ham|Chaabat El Leham
+4603,46,Ouled Kihal,أولاد كيحل,El Malah,46,46,loi 84-09,loi 84-09,Oued Kihel
+4604,46,Hammam Bouhadjar,حمام بوحجر,Hammam Bouhadjar,46,46,loi 84-09,loi 84-09,
+4605,46,Bou Zedjar,بوزجار,El Amria,46,46,loi 84-09,loi 84-09,
+4606,46,Oued Berkèche,وادى برقش,Hammam Bouhadjar,46,46,loi 84-09,loi 84-09,Oued Barkach
+4607,46,Aghlal,أغلال,Aïn Kihal,46,46,loi 84-09,loi 84-09,Aghlel
+4608,46,Terga,تارقة,El Malah,46,46,loi 84-09,loi 84-09,
+4609,46,Aïn El Arbaa,عين الاربعاء,Aïn El Arbaa,46,46,loi 84-09,loi 84-09,Aïn Larbaa
+4610,46,Tamzoura,تامزورة,Aïn El Arbaa,46,46,loi 84-09,loi 84-09,
+4611,46,Chentouf,شنتوف,Hammam Bouhadjar,46,46,loi 84-09,loi 84-09,
+4612,46,Sidi Ben Adda,سيدى بن عدة,Aïn Témouchent,46,46,loi 84-09,loi 84-09,
+4613,46,Aoubellil,عقب الليل,Aïn Kihal,46,46,loi 84-09,loi 84-09,Aoubelil
+4614,46,El Malah,المالح,El Malah,46,46,loi 84-09,loi 84-09,El Maleh
+4615,46,Sidi Boumediène,سيدى بومدين,Aïn El Arbaa,46,46,loi 84-09,loi 84-09,Sidi Boumedienne
+4616,46,Oued Sabah,وادى الصباح,Aïn El Arbaa,46,46,loi 84-09,loi 84-09,Oued Sebah
+4617,46,Ouled Boudjemaa,أولاد بوجمعة,El Amria,46,46,loi 84-09,loi 84-09,
+4618,46,Aïn Tolba,عين الطلبة,Aïn Kihal,46,46,loi 84-09,loi 84-09,
+4619,46,El Amria,العامرية,El Amria,46,46,loi 84-09,loi 84-09,
+4620,46,Hassi El Ghella,حاسى الغلة,El Amria,46,46,loi 84-09,loi 84-09,
+4621,46,Hassasna,الحساسنة,Hammam Bouhadjar,46,46,loi 84-09,loi 84-09,El Hassasna
+4622,46,Aïn Kihal,عين الكيحل,Aïn Kihal,46,46,loi 84-09,loi 84-09,Aïn Kihel
+4623,46,Béni Saf,بنى صاف,Béni Saf,46,46,loi 84-09,loi 84-09,
+4624,46,Sidi Safi,سيدى الصافى,Béni Saf,46,46,loi 84-09,loi 84-09,
+4625,46,Oulhaça El Gheraba,ولهاصة الغرابة,Oulhaça El Gheraba,46,46,loi 84-09,loi 84-09,Oulhassa Gheraba
+4626,46,Sidi Ouriach,سيدي أورياش,Oulhaça El Gheraba,46,46,decret 91-306,decret 91-306,Tadmaya|Sidi Ouriache
+4627,46,El Emir Abdelkader,الامير عبد القادر,Béni Saf,46,46,loi 84-09,loi 84-09,Emir Abdelkader
+4628,46,El Messaïd,المساعيد,El Amria,46,46,loi 84-09,loi 84-09,El M'Saïd
+4701,47,Ghardaïa,غرداية,Ghardaïa,47,47,loi 19-12,loi 19-12,
+4703,47,Dhayet Bendhahoua,ضاية بن ضحوة,Dhayet Bendhahoua,47,47,loi 19-12,loi 19-12,Dhayat Ben Dhahoua
+4704,47,Berriane,بريان,Berriane,47,47,loi 19-12,loi 19-12,
+4705,47,Metlili,متليلي,Metlili,47,47,loi 19-12,loi 19-12,
+4706,47,El Guerrera,القرارة,El Guerrera,47,47,loi 19-12,loi 19-12,El Guerrara|El Guerara
+4707,47,El Atteuf,العطف,Bounoura,47,47,loi 19-12,loi 19-12,
+4708,47,Zelfana,زلفانة,Zelfana,47,47,loi 19-12,loi 19-12,
+4709,47,Sebseb,سبسب,Metlili,47,47,loi 19-12,loi 19-12,
+4710,47,Bounoura,بونورة,Bounoura,47,47,loi 19-12,loi 19-12,
+4713,47,Mansoura,المنصورة,Mansoura,47,47,loi 19-12,loi 19-12,Mansourah
+4801,48,Relizane,غليزان,Relizane,48,48,loi 84-09,loi 84-09,
+4802,48,Oued Rhiou,وادى رهيو,Oued Rhiou,48,48,loi 84-09,loi 84-09,
+4803,48,Belaassel Bouzegza,بلعسل بوزقزة,El Matmar,48,48,loi 84-09,loi 84-09,Belassel Bouzegza
+4804,48,Sidi Saada,سيدى سعادة,Yellel,48,48,loi 84-09,loi 84-09,
+4805,48,Ouled Aïche,أولاد يعيش,Ammi Moussa,48,48,loi 84-09,loi 84-09,Ouled Aïch
+4806,48,Sidi Lazreg,سيدى لزرق,Mendès,48,48,loi 84-09,loi 84-09,
+4807,48,El Hamadna,الحمادنة,El Hamadna,48,48,loi 84-09,loi 84-09,El H'Madna
+4808,48,Sidi M'Hamed Ben Ali,سيدى محمد بن على,Sidi M'Hamed Ben Ali,48,48,loi 84-09,loi 84-09,
+4809,48,Mediouna,مديونة,Sidi M'Hamed Ben Ali,48,48,loi 84-09,loi 84-09,
+4810,48,Sidi Khettab,سيدى خطاب,El Matmar,48,48,loi 84-09,loi 84-09,Sidi Khetab
+4811,48,Ammi Moussa,عمى موسى,Ammi Moussa,48,48,loi 84-09,loi 84-09,
+4812,48,Zemmoura,زمورة,Zemmoura,48,48,loi 84-09,loi 84-09,Zemmora
+4813,48,Béni Dergoun,بنى درقون,Zemmoura,48,48,loi 84-09,loi 84-09,Beni Dergoune
+4814,48,Djidiouia,جديوية,Djidiouia,48,48,loi 84-09,loi 84-09,Djidioua
+4815,48,El Guettar,القطار,Mazouna,48,48,loi 84-09,loi 84-09,
+4816,48,Hamri,الحمرى,Djidiouia,48,48,loi 84-09,loi 84-09,El Hamri
+4817,48,El Matmar,المطمر,El Matmar,48,48,loi 84-09,loi 84-09,
+4818,48,Sidi M'Hamed Ben Aouda,سيدى محمد بن عودة,El Matmar,48,48,loi 84-09,loi 84-09,
+4819,48,Aïn Tarek,عين طارق,Aïn Tarek,48,48,loi 84-09,loi 84-09,
+4820,48,Oued Essalem,وادى السلام,Mendès,48,48,loi 84-09,loi 84-09,
+4821,48,Ouarizane,ورزان,Oued Rhiou,48,48,loi 84-09,loi 84-09,Ouarizène
+4822,48,Mazouna,مازونة,Mazouna,48,48,loi 84-09,loi 84-09,
+4823,48,Kalaa,القلعة,Yellel,48,48,loi 84-09,loi 84-09,
+4824,48,Aïn Rahma,عين الرحمة,Yellel,48,48,loi 84-09,loi 84-09,
+4825,48,Yellel,يلل,Yellel,48,48,loi 84-09,loi 84-09,
+4826,48,Oued El Djemaa,وادى الجمعة,El Hamadna,48,48,loi 84-09,loi 84-09,Oued Djemaa
+4827,48,Ramka,الرمكة,Ramka,48,48,loi 84-09,loi 84-09,
+4828,48,Mendès,منداس,Mendès,48,48,loi 84-09,loi 84-09,
+4829,48,Lahlef,الاحلاف,Oued Rhiou,48,48,loi 84-09,loi 84-09,
+4830,48,Béni Zentis,بنى زنتيس,Sidi M'Hamed Ben Ali,48,48,loi 84-09,loi 84-09,
+4831,48,Souk El Had,سوق الاحد,Ramka,48,48,decret 91-306,loi 84-09,Souk El Haad
+4832,48,Dar Ben Abdellah,دار بن عبد الله,Zemmoura,48,48,loi 84-09,loi 84-09,
+4833,48,El Hassi,الحاسى,Ammi Moussa,48,48,loi 84-09,loi 84-09,
+4834,48,Had Echkalla,حد الشكالة,Aïn Tarek,48,48,loi 84-09,loi 84-09,Had Echkala
+4835,48,Bendaoud,بن داود,Relizane,48,48,loi 84-09,loi 84-09,
+4836,48,El Ouldja,الولجة,Ammi Moussa,48,48,loi 84-09,loi 84-09,
+4837,48,Merdja Sidi Abed,مرجة سيدى عابد,Oued Rhiou,48,48,loi 84-09,loi 84-09,
+4838,48,Ouled Sidi Mihoub,أولاد سيدى ميهوب,Djidiouia,48,48,loi 84-09,loi 84-09,
+0103,49,Charouine,شروين,Charouine,49,01,loi 19-12,loi 19-12,
+0107,49,Ksar Kaddour,قصر قدور,Tinerkouk,49,01,loi 19-12,loi 19-12,
+0109,49,Timimoun,تيميمون,Timimoun,49,01,loi 19-12,loi 19-12,
+0110,49,Ouled Saïd,أولاد سعيد,Timimoun,49,01,loi 19-12,loi 19-12,
+0116,49,Tinerkouk,تينركوك,Tinerkouk,49,01,loi 19-12,loi 19-12,
+0117,49,Deldoul,دلدول,Aougrout,49,01,loi 19-12,loi 19-12,
+0120,49,Metarfa,المطارفة,Aougrout,49,01,loi 19-12,loi 19-12,
+0123,49,Aougrout,أوقروت,Aougrout,49,01,loi 19-12,loi 19-12,
+0124,49,Talmine,طالمين,Charouine,49,01,loi 19-12,loi 19-12,
+0127,49,Ouled Aïssa,أولاد عيسى,Charouine,49,01,loi 19-12,loi 19-12,
+0125,50,Bordj Badji Mokhtar,برج باجي مختار,Bordj Badji Mokhtar,50,01,loi 19-12,loi 19-12,
+0128,50,Timiaouine,تيمياوين,Bordj Badji Mokhtar,50,01,loi 19-12,loi 19-12,
+0705,51,Ouled Djellal,أولاد جلال,Ouled Djellal,51,07,loi 19-12,loi 19-12,
+0706,51,Ras El Miaâd,راس الميعاد,Sidi Khaled,51,07,loi 19-12,loi 19-12,Ouled Sassi
+0707,51,Besbes,البسباس,Sidi Khaled,51,07,loi 19-12,loi 19-12,Ouled Harkat
+0708,51,Sidi Khaled,سيدي خالد,Sidi Khaled,51,07,loi 19-12,loi 19-12,
+0709,51,Doucen,الدوسن,Ouled Djellal,51,07,loi 19-12,loi 19-12,
+0710,51,Chaïba,الشعيبة,Ouled Djellal,51,07,loi 19-12,loi 19-12,Ouled Rahma|Ech Chaïba|Chouaiba
+0803,52,Ouled Khodeir,أولاد خضير,Ouled Khodeir,52,08,loi 19-12,loi 19-12,Ouled Khoudir
+0805,52,Timoudi,تيمودي,Kerzaz,52,08,loi 19-12,loi 19-12,
+0807,52,Béni Abbès,بني عباس,Béni Abbès,52,08,loi 19-12,loi 19-12,
+0808,52,Béni Ikhlef,بني يخلف,El Ouata,52,08,loi 19-12,loi 19-12,
+0811,52,Igli,أقلي,Igli,52,08,loi 19-12,loi 19-12,
+0812,52,Tabelbala,تبلبلة,Tabelbala,52,08,loi 19-12,loi 19-12,Tabalbala
+0814,52,El Ouata,الوطاء,El Ouata,52,08,loi 19-12,loi 19-12,
+0818,52,Kerzaz,كرزاز,Kerzaz,52,08,loi 19-12,loi 19-12,
+0819,52,Ksabi,قصابي,Ouled Khodeir,52,08,loi 19-12,loi 19-12,
+0820,52,Tamtert,تامترت,Béni Abbès,52,08,loi 19-12,loi 19-12,
+1103,53,In Ghar,إن غار,In Ghar,53,11,loi 19-12,loi 19-12,
+1108,53,In Salah,إن صالح,In Salah,53,11,loi 19-12,loi 19-12,
+1110,53,Foggaret Ezzaouia,فقارت الزاوية,In Salah,53,11,loi 19-12,loi 19-12,Foggaret Ezzouaoua
+1104,54,In Guezzam,إن قزام,In Guezzam,54,11,loi 19-12,loi 19-12,
+1107,54,Tin Zaouatine,تين زاوتين,Tin Zaouatine,54,11,loi 19-12,loi 19-12,Tin Zouatine|Tinzaouten
+3006,55,Blidat Ameur,بليدة عامر,Tamacine,55,30,loi 19-12,loi 19-12,Balidat Ameur|Blidate Ameur|Blidet Amor
+3007,55,Tebesbest,تيبسبست,Touggourt,55,30,loi 19-12,loi 19-12,
+3008,55,Nezla,نزلة,Touggourt,55,30,loi 19-12,loi 19-12,
+3009,55,Zaouia El Abidia,الزاوية العابدية,Touggourt,55,30,loi 19-12,loi 19-12,
+3010,55,Sidi Slimane,سيدي سليمان,Megarine,55,30,loi 19-12,loi 19-12,
+3013,55,Touggourt,توقرت,Touggourt,55,30,loi 19-12,loi 19-12,
+3014,55,El Hadjira,الحجيرة,El Hadjira,55,30,loi 19-12,loi 19-12,
+3015,55,Taibet,الطيبات,Taibet,55,30,loi 19-12,loi 19-12,
+3016,55,Tamacine,تماسين,Tamacine,55,30,loi 19-12,loi 19-12,Temacine
+3017,55,Benaceur,بن ناصر,Taibet,55,30,loi 19-12,loi 19-12,Bennaceur
+3018,55,M'Naguar,المنقر,Taibet,55,30,loi 19-12,loi 19-12,M'Naguer
+3019,55,Megarine,المقارين,Megarine,55,30,loi 19-12,loi 19-12,
+3020,55,El Allia,العالية,El Hadjira,55,30,loi 19-12,loi 19-12,El Alia
+3021,55,El Borma,البرمة,El Borma,55,30,loi 19-12,loi 19-12,
+3302,56,Djanet,جانت,Djanet,56,33,loi 19-12,loi 19-12,
+3305,56,Bordj El Haouasse,برج الحواس,Djanet,56,33,loi 19-12,loi 19-12,Bordj El Houasse|Bordj El Haouas
+3921,57,Still,سطيل,El Megaier,57,39,loi 19-12,loi 19-12,
+3922,57,M'Rara,مرارة,Djamaâ,57,39,loi 19-12,loi 19-12,M'Ghagha
+3923,57,Sidi Khelil,سيدي خليل,El Megaier,57,39,loi 19-12,loi 19-12,Sidi Khellil
+3924,57,Tendla,تندلة,Djamaâ,57,39,loi 19-12,loi 19-12,Tinedla
+3927,57,El Megaier,المغير,El Megaier,57,39,loi 19-12,loi 19-12,El M'Ghaïr|El Meghaier
+3928,57,Djamaâ,جامعة,Djamaâ,57,39,loi 19-12,loi 19-12,
+3929,57,Oum Touyour,أم الطيور,El Megaier,57,39,loi 19-12,loi 19-12,
+3930,57,Sidi Amrane,سيدي عمران,Djamaâ,57,39,loi 19-12,loi 19-12,
+4702,58,El Meniaâ,المنيعة,El Meniaâ,58,47,loi 19-12,loi 19-12,El Menia|El Goléa
+4711,58,Hassi Fehal,حاسي الفحل,Mansoura,58,47,loi 19-12,loi 19-12,Hassi El Fehal
+4712,58,Hassi Gara,حاسي القارة,El Meniaâ,58,47,loi 19-12,loi 19-12,
+0310,59,Gueltat Sidi Saad,قلتة سيدي سعد,Gueltat Sidi Saad,03,03,loi 26-06,loi 26-06,
+0311,59,Aïn Sidi Ali,عين سيدي علي,Gueltat Sidi Saad,03,03,loi 26-06,loi 26-06,
+0312,59,El Beïdha,البيضاء,Gueltat Sidi Saad,03,03,loi 26-06,loi 26-06,Beidha
+0313,59,Brida,بريدة,Brida,03,03,loi 26-06,loi 26-06,
+0314,59,El Ghicha,الغيشة,El Ghicha,03,03,loi 26-06,loi 26-06,
+0315,59,Hadj Mechri,الحاج المشري,Brida,03,03,loi 26-06,loi 26-06,Hadj Mecheri
+0316,59,Sebgag,سبقاق,Aflou,03,03,loi 26-06,loi 26-06,
+0317,59,Taouiala,تاويالة,Brida,03,03,loi 26-06,loi 26-06,Taouila
+0319,59,Aflou,آفلو,Aflou,03,03,loi 26-06,loi 26-06,
+0321,59,Oued Morra,وادي مرة,Oued Morra,03,03,loi 26-06,loi 26-06,
+0322,59,Oued M'Zi,وادي مزي,Oued Morra,03,03,loi 26-06,loi 26-06,
+0324,59,Sidi Bouzid,سيدي بوزيد,Aflou,03,03,loi 26-06,loi 26-06,
+0514,60,Bitam,بيطام,Barika,05,05,loi 26-06,loi 26-06,
+0515,60,Abdelkader Azil,عبد القادر عزيل,Djezzar,05,05,loi 26-06,loi 26-06,Metkaouak|Metkaouek
+0518,60,Tilatou,تيلاطو,Seggana,05,05,loi 26-06,loi 26-06,
+0529,60,Seggana,سقانة,Seggana,05,05,loi 26-06,loi 26-06,
+0542,60,Barika,بريكة,Barika,05,05,loi 26-06,loi 26-06,
+0543,60,Djezzar,الجزار,Djezzar,05,05,loi 26-06,loi 26-06,Djezar
+0555,60,M'Doukal,امدوكال,Barika,05,05,loi 26-06,loi 26-06,Amdoukal|M'Doukel
+0556,60,Ouled Ammar,أولاد عمار,Djezzar,05,05,loi 26-06,loi 26-06,
+0703,61,Branis,البرانيس,Djemourah,07,07,loi 26-06,loi 26-06,
+0717,61,El Kantara,القنطرة,El Kantara,07,07,loi 26-06,loi 26-06,
+0718,61,Aïn Zaatout,عين زعطوط,El Kantara,07,07,loi 26-06,loi 26-06,
+0719,61,El Outaya,الوطاية,El Outaya,07,07,loi 26-06,loi 26-06,
+0720,61,Djemourah,جمورة,Djemourah,07,07,loi 26-06,loi 26-06,Djemorah
+1202,62,Bir El Ater,بئر العاتر,Bir El Ater,12,12,loi 26-06,loi 26-06,
+1209,62,Negrine,نقرين,Negrine,12,12,loi 26-06,loi 26-06,
+1215,62,El Ogla El Melha,العقلة المالحة,Bir El Ater,12,12,loi 26-06,loi 26-06,El Ogla El Malha|Ogla Melha
+1228,62,Ferkane,فركان,Negrine,12,12,loi 26-06,loi 26-06,
+1310,63,El Gor,القور,Sebdou,13,13,loi 26-06,loi 26-06,
+1332,63,El Aricha,العريشة,Sebdou,13,13,loi 26-06,loi 26-06,
+1341,63,Sidi Djillali,سيدي الجيلالي,Sidi Djillali,13,13,loi 26-06,loi 26-06,
+1343,63,El Bouihi,البويهي,Sidi Djillali,13,13,loi 26-06,loi 26-06,
+1409,64,Zmalet El Emir Abdelkader,زمالة الأمير عبد القادر,Ksar Chellala,14,14,loi 26-06,loi 26-06,Zmalat Emir Abdelkader
+1429,64,Ksar Chellala,قصر الشلالة,Ksar Chellala,14,14,loi 26-06,loi 26-06,
+1430,64,Rechaiga,الرشايقة,Hamadia,14,14,loi 26-06,loi 26-06,Racheiga
+1435,64,Hamadia,حمادية,Hamadia,14,14,loi 26-06,loi 26-06,
+1439,64,Serguine,سرقين,Ksar Chellala,14,14,loi 26-06,loi 26-06,Serghine
+1440,64,Bougara,بوقرة,Hamadia,14,14,loi 26-06,loi 26-06,
+1708,65,Birine,البيرين,Birine,17,17,loi 26-06,loi 26-06,
+1709,65,Bouira Lahdab,بويرة الأحدب,Had Sahary,17,17,loi 26-06,loi 26-06,Bouira Lahdeb
+1711,65,El Khemis,الخميس,Sidi Ladjel,17,17,loi 26-06,loi 26-06,
+1719,65,Sidi Ladjel,سيدي لعجال,Sidi Ladjel,17,17,loi 26-06,loi 26-06,
+1720,65,Had Sahary,حد الصحاري,Had Sahary,17,17,loi 26-06,loi 26-06,
+1721,65,Guernini,قرنيني,Aïn Ouessara,17,17,loi 26-06,loi 26-06,
+1731,65,Aïn Ouessara,عين وسارة,Aïn Ouessara,17,17,loi 26-06,loi 26-06,Aïn Oussera|Aïn Oussara
+1732,65,Benhar,بنهار,Birine,17,17,loi 26-06,loi 26-06,
+1733,65,Hassi Fedoul,حاسي فدول,Sidi Ladjel,17,17,loi 26-06,loi 26-06,
+1735,65,Aïn Fekka,عين فقة,Had Sahary,17,17,loi 26-06,loi 26-06,Aïn Feka
+1706,66,Sed Rahal,سد رحال,Messaad,17,17,loi 26-06,loi 26-06,
+1707,66,Faïdh El Botma,فيض البطمة,Faïdh El Botma,17,17,loi 26-06,loi 26-06,
+1717,66,Messaad,مسعد,Messaad,17,17,loi 26-06,loi 26-06,
+1718,66,Guettara,قطارة,Messaad,17,17,loi 26-06,loi 26-06,
+1722,66,Selmana,سلمانة,Messaad,17,17,loi 26-06,loi 26-06,
+1724,66,Oum Laadham,أم العظام,Faïdh El Botma,17,17,loi 26-06,loi 26-06,Oum El Adham
+1729,66,Deldoul,دلدول,Messaad,17,17,loi 26-06,loi 26-06,
+1734,66,Amourah,عمورة,Faïdh El Botma,17,17,loi 26-06,loi 26-06,
+2603,67,Ouled Maaref,أولاد معرف,Aïn Boucif,26,26,loi 26-06,loi 26-06,Ouled Maref
+2604,67,Aïn Boucif,عين بوسيف,Aïn Boucif,26,26,loi 26-06,loi 26-06,
+2608,67,Derrag,دراق,Aziz,26,26,loi 26-06,loi 26-06,
+2610,67,Bouaiche,البواعيش,Chahbounia,26,26,loi 26-06,loi 26-06,
+2617,67,Kef Lakhdar,الكاف الأخضر,Aïn Boucif,26,26,loi 26-06,loi 26-06,
+2618,67,Chelalet El Adhaoura,شلالة العذاورة,Chelalet El Adhaoura,26,26,loi 26-06,loi 26-06,Chellalat El Adhaoura
+2622,67,Ouled Hellal,أولاد هلال,Ouled Antar,26,26,loi 26-06,loi 26-06,
+2623,67,Tafraout,تافراوت,Chelalet El Adhaoura,26,26,loi 26-06,loi 26-06,
+2625,67,Boghar,بوغار,Ouled Antar,26,26,loi 26-06,loi 26-06,
+2631,67,Sidi Damed,سيدي دمد,Aïn Boucif,26,26,loi 26-06,loi 26-06,
+2632,67,Aziz,عزيز,Aziz,26,26,loi 26-06,loi 26-06,
+2635,67,Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,26,26,loi 26-06,loi 26-06,
+2638,67,Chahbounia,الشهبونية,Chahbounia,26,26,loi 26-06,loi 26-06,
+2640,67,Cheniguel,شنيقل,Chelalet El Adhaoura,26,26,loi 26-06,loi 26-06,
+2641,67,Aïn Ouksir,عين القصير,Chelalet El Adhaoura,26,26,loi 26-06,loi 26-06,
+2642,67,Oum El Djallil,أم الجليل,Aziz,26,26,loi 26-06,loi 26-06,Oum El Djalil
+2649,67,M'Fatha,المفاتحة,Ksar El Boukhari,26,26,loi 26-06,loi 26-06,Meftaha
+2651,67,Boughezoul,بوغزول,Chahbounia,26,26,loi 26-06,loi 26-06,
+2657,67,El Ouinet,العوينات,Aïn Boucif,26,26,loi 26-06,loi 26-06,El Aouinet
+2658,67,Ouled Antar,أولاد عنتر,Ouled Antar,26,26,loi 26-06,loi 26-06,
+2664,67,Saneg,السانق,Ksar El Boukhari,26,26,loi 26-06,loi 26-06,
+2807,68,Khoubana,الخبانة,Khoubana,28,28,loi 26-06,loi 26-06,
+2808,68,M'Cif,امسيف,Khoubana,28,28,loi 26-06,loi 26-06,
+2820,68,Bou Saada,بوسعادة,Bou Saada,28,28,loi 26-06,loi 26-06,Boussaada
+2821,68,Ouled Sidi Brahim,أولاد سيدي إبراهيم,Ouled Sidi Brahim,28,28,loi 26-06,loi 26-06,
+2822,68,Sidi Ameur,سيدي عامر,Sidi Ameur,28,28,loi 26-06,loi 26-06,
+2823,68,Tamsa,تامسة,Sidi Ameur,28,28,loi 26-06,loi 26-06,Temsa
+2824,68,Ben Srour,بن سرور,Ben Srour,28,28,loi 26-06,loi 26-06,
+2825,68,Ouled Slimane,أولاد سليمان,Ben Srour,28,28,loi 26-06,loi 26-06,
+2826,68,El Houamed,الحوامد,Bou Saada,28,28,loi 26-06,loi 26-06,
+2827,68,El Hamel,الهامل,Bou Saada,28,28,loi 26-06,loi 26-06,
+2833,68,Zarzour,الزرزور,Ben Srour,28,28,loi 26-06,loi 26-06,
+2834,68,Mouhamed Boudiaf,محمد بوضياف,Ben Srour,28,28,loi 26-06,loi 26-06,Oued Chaïr|Mohammed Boudiaf
+2835,68,Benzouh,بنزوه,Ouled Sidi Brahim,28,28,loi 26-06,loi 26-06,
+2836,68,Bir Foda,بئر الفضة,Aïn El Meleh,28,28,loi 26-06,loi 26-06,
+2837,68,Aïn Farès,عين فارس,Aïn El Meleh,28,28,loi 26-06,loi 26-06,
+2838,68,Sidi M'Hamed,سيدي امحمد,Aïn El Meleh,28,28,loi 26-06,loi 26-06,
+2839,68,Menaâ,مناعة,Medjedel,28,28,loi 26-06,loi 26-06,Ouled Atia|Ouled Attia
+2841,68,Aïn El Meleh,عين الملح,Aïn El Meleh,28,28,loi 26-06,loi 26-06,Aïn El Melh
+2842,68,Medjedel,امجدل,Medjedel,28,28,loi 26-06,loi 26-06,
+2843,68,Slim,سليم,Djebel Messaad,28,28,loi 26-06,loi 26-06,
+2844,68,Aïn Errich,عين الريش,Aïn El Meleh,28,28,loi 26-06,loi 26-06,Aïn Rich
+2846,68,Oultem,ولتام,Bou Saada,28,28,loi 26-06,loi 26-06,Oultène
+2847,68,Djebel Messaad,جبل مساعد,Djebel Messaad,28,28,loi 26-06,loi 26-06,
+3207,69,El Abiodh Sidi Cheikh,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh,32,32,loi 26-06,loi 26-06,Labiodh Sidi Cheikh
+3208,69,Aïn El Orak,عين العراك,El Abiodh Sidi Cheikh,32,32,loi 26-06,loi 26-06,
+3209,69,Arbaouat,أربوات,El Abiodh Sidi Cheikh,32,32,loi 26-06,loi 26-06,Arbaout
+3213,69,Boussemghoun,بوسمغون,Boussemghoun,32,32,loi 26-06,loi 26-06,Boussemghoum
+3214,69,Chellala,الشلالة,Chellala,32,32,loi 26-06,loi 26-06,
+3216,69,El Bnoud,البنود,El Abiodh Sidi Cheikh,32,32,loi 26-06,loi 26-06,
+3219,69,El Meharra,المحرة,Chellala,32,32,loi 26-06,loi 26-06,El Mehara

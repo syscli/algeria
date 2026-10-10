@@ -11,3 +11,7 @@ coverage/
 src/generated/
 geo/.cache/
 public/
+python/tests/parity.json
+python/dist/
+__pycache__/
+*.egg-info/

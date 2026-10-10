@@ -1,0 +1,70 @@
+code,name_fr,name_ar,created_by,name_source,communes
+01,Adrar,أدرار,loi 84-09,decret 84-79,16
+02,Chlef,الشلف,loi 84-09,decret 84-79,35
+03,Laghouat,الاغواط,loi 84-09,decret 84-79,12
+04,Oum El Bouaghi,أم البواقى,loi 84-09,decret 84-79,29
+05,Batna,باتنة,loi 84-09,decret 84-79,53
+06,Bejaïa,بجاية,loi 84-09,decret 84-79,52
+07,Biskra,بسكرة,loi 84-09,decret 84-79,22
+08,Béchar,بشار,loi 84-09,decret 84-79,11
+09,Blida,البليدة,loi 84-09,decret 84-79,25
+10,Bouira,البويرة,loi 84-09,decret 84-79,45
+11,Tamanghasset,تامنغست,loi 84-09,decret 84-79,5
+12,Tebessa,تبسة,loi 84-09,decret 84-79,24
+13,Tlemcen,تلمسان,loi 84-09,decret 84-79,49
+14,Tiaret,تيارت,loi 84-09,decret 84-79,36
+15,Tizi Ouzou,تيزى وزو,loi 84-09,decret 84-79,67
+16,Alger,الجزائر,loi 84-09,decret 84-79,57
+17,Djelfa,الجلفة,loi 84-09,decret 84-79,18
+18,Jijel,جيجل,loi 84-09,decret 84-79,28
+19,Sétif,سطيف,loi 84-09,decret 84-79,60
+20,Saïda,سعيدة,loi 84-09,decret 84-79,16
+21,Skikda,سكيكدة,loi 84-09,decret 84-79,38
+22,Sidi Bel Abbès,سيدى بلعباس,loi 84-09,decret 84-79,52
+23,Annaba,عنابة,loi 84-09,decret 84-79,12
+24,Guelma,قالمة,loi 84-09,decret 84-79,34
+25,Constantine,قسنطينة,loi 84-09,decret 84-79,12
+26,Médéa,المدية,loi 84-09,decret 84-79,43
+27,Mostaganem,مستغانم,loi 84-09,decret 84-79,32
+28,M'Sila,المسيلة,loi 84-09,decret 84-79,24
+29,Mascara,معسكر,loi 84-09,decret 84-79,47
+30,Ouargla,ورقلة,loi 84-09,decret 84-79,7
+31,Oran,وهران,loi 84-09,decret 84-79,26
+32,El Bayadh,البيض,loi 84-09,decret 84-79,15
+33,Illizi,ايليزى,loi 84-09,decret 84-79,4
+34,Bordj Bou Arréridj,برج بوعريريج,loi 84-09,decret 84-79,34
+35,Boumerdes,بومرداس,loi 84-09,decret 84-79,32
+36,El Tarf,الطارف,loi 84-09,decret 84-79,24
+37,Tindouf,تندوف,loi 84-09,decret 84-79,2
+38,Tissemsilt,تيسمسيلت,loi 84-09,decret 84-79,22
+39,El Oued,الوادى,loi 84-09,decret 84-79,22
+40,Khenchela,خنشلة,loi 84-09,decret 84-79,21
+41,Souk Ahras,سوق أهراس,loi 84-09,decret 84-79,26
+42,Tipaza,تيبازة,loi 84-09,decret 84-79,28
+43,Mila,ميلة,loi 84-09,decret 84-79,32
+44,Aïn Defla,عين الدفلى,loi 84-09,decret 84-79,36
+45,Naama,النعامة,loi 84-09,decret 84-79,12
+46,Aïn Temouchent,عين تيموشنت,loi 84-09,decret 84-79,28
+47,Ghardaïa,غرداية,loi 84-09,decret 84-79,10
+48,Relizane,غليزان,loi 84-09,decret 84-79,38
+49,Timimoun,تيميمون,loi 19-12,decret presidentiel 21-117,10
+50,Bordj Badji Mokhtar,برج باجي مختار,loi 19-12,decret presidentiel 21-117,2
+51,Ouled Djellal,أولاد جلال,loi 19-12,decret presidentiel 21-117,6
+52,Béni Abbès,بني عباس,loi 19-12,decret presidentiel 21-117,10
+53,In Salah,إن صالح,loi 19-12,decret presidentiel 21-117,3
+54,In Guezzam,إن قزام,loi 19-12,decret presidentiel 21-117,2
+55,Touggourt,توقرت,loi 19-12,decret presidentiel 21-117,14
+56,Djanet,جانت,loi 19-12,decret presidentiel 21-117,2
+57,El M'Ghaier,المغير,loi 19-12,decret presidentiel 21-117,8
+58,El Meniaa,المنيعة,loi 19-12,decret presidentiel 21-117,3
+59,Aflou,أفلو,loi 26-06,decret presidentiel 26-206,12
+60,Barika,بريكة,loi 26-06,decret presidentiel 26-206,8
+61,El Kantara,القنطرة,loi 26-06,decret presidentiel 26-206,5
+62,Bir El Ater,بئر العاتر,loi 26-06,decret presidentiel 26-206,4
+63,El Aricha,العريشة,loi 26-06,decret presidentiel 26-206,4
+64,Ksar Chellala,قصر الشلالة,loi 26-06,decret presidentiel 26-206,6
+65,Aïn Ouessara,عين وسارة,loi 26-06,decret presidentiel 26-206,10
+66,Messaad,مسعد,loi 26-06,decret presidentiel 26-206,8
+67,Ksar El Boukhari,قصر البخاري,loi 26-06,decret presidentiel 26-206,21
+68,Bou Saâda,بوسعادة,loi 26-06,decret presidentiel 26-206,23
+69,El Abiodh Sidi Cheikh,الأبيض سيدي الشيخ,loi 26-06,decret presidentiel 26-206,7
