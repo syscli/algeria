@@ -122,7 +122,10 @@ await build({
   minify: true,
   format: "esm",
   target: "es2020",
-  outfile: path.join(pub, "app.js"),
+  // The boundaries for "Use my location" load only when the button is used.
+  splitting: true,
+  outdir: pub,
+  chunkNames: "chunks/[name]-[hash]",
   loader: { ".json": "json" },
 });
 put(".nojekyll", "");
