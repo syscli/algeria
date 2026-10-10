@@ -119,6 +119,12 @@ npm run serve        # preview public/ on http://localhost:4173
 npm run build:geo    # rebuild geo/ from the open boundary sources
 ```
 
+## Releases and security
+
+Versions are listed in [CHANGELOG.md](CHANGELOG.md). Releases are published
+from GitHub Actions with npm provenance; `npm audit signatures` checks them.
+To report a security problem, see [SECURITY.md](SECURITY.md).
+
 ## License
 
 Code and data: MIT. Boundaries in geo/: CC BY-SA 2.0, derived from
