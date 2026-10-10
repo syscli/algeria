@@ -126,8 +126,8 @@ main { max-width: 1280px; margin: 0 auto; padding: 0 var(--gutter); }
 [dir="rtl"] .block__head h2 { letter-spacing: 0; line-height: 1.4; font-weight: 500; }
 .block__head p:last-child { max-width: 56ch; margin: 12px 0 0; color: var(--soft); }
 
-.new { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); border-top: 1.5px solid var(--ink); }
-.new li { display: grid; grid-template-columns: auto 1fr; column-gap: 14px; align-items: baseline; padding: 18px 16px 18px 0; border-bottom: 1px solid var(--rule); cursor: pointer; }
+.new { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); border-top: 1.5px solid var(--ink); overflow: hidden; }
+.new li { display: grid; grid-template-columns: auto 1fr; column-gap: 14px; align-items: baseline; padding: 18px 16px 18px 0; margin-top: -1px; border-top: 1px solid var(--rule); cursor: pointer; }
 [dir="rtl"] .new li { padding: 18px 0 18px 16px; }
 .new li:hover .name { color: var(--green); }
 .new .code { grid-row: span 2; font: 500 28px/1 var(--mono); color: var(--green); letter-spacing: -.04em; }
