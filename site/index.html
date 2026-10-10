@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="fr" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ma nouvelle wilaya</title>
+  <meta name="description" content="69 wilayas depuis 2026 : votre commune a-t-elle change de wilaya ? Donnees du Journal officiel.">
+  <meta property="og:title" content="Ma nouvelle wilaya">
+  <meta property="og:description" content="69 wilayas depuis 2026 : votre commune a-t-elle change de wilaya ?">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="./">algeria</a>
+    <nav class="lang" aria-label="Langue">
+      <button type="button" data-lang="fr" aria-pressed="true">FR</button>
+      <button type="button" data-lang="ar" aria-pressed="false" lang="ar">&#1593;&#1585;&#1576;&#1610;</button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1 data-t="title"></h1>
+      <p class="lead" data-t="lead"></p>
+      <div class="search" role="combobox" aria-haspopup="listbox" aria-owns="suggestions" aria-expanded="false">
+        <label class="sr" for="q" data-t="searchLabel"></label>
+        <input id="q" type="search" autocomplete="off" spellcheck="false" aria-autocomplete="list" aria-controls="suggestions">
+        <ul id="suggestions" role="listbox" hidden></ul>
+      </div>
+    </section>
+
+    <section id="result" class="result" hidden aria-live="polite"></section>
+
+    <figure class="map">
+      <svg id="map" role="img" aria-labelledby="map-caption"></svg>
+      <figcaption id="map-caption" data-t="mapCaption"></figcaption>
+    </figure>
+
+    <section class="new">
+      <h2 data-t="newTitle"></h2>
+      <p data-t="newLead"></p>
+      <ul id="new-wilayas" class="cards"></ul>
+    </section>
+
+    <section class="dev">
+      <h2 data-t="devTitle"></h2>
+      <p data-t="devLead"></p>
+      <pre><code>npm install @syscli/algeria
+
+import { search, changes } from "@syscli/algeria";
+search("bou saada")[0].wilaya.code; // "68"
+changes(2026).length;               // 108</code></pre>
+      <div class="cols">
+        <div>
+          <h3 data-t="apiTitle"></h3>
+          <ul class="links">
+            <li><a href="api/v1/wilayas.json">/api/v1/wilayas.json</a></li>
+            <li><a href="api/v1/wilayas/68.json">/api/v1/wilayas/68.json</a></li>
+            <li><a href="api/v1/communes.json">/api/v1/communes.json</a></li>
+            <li><a href="api/v1/communes/1601.json">/api/v1/communes/1601.json</a></li>
+            <li><a href="api/v1/changes/2026.json">/api/v1/changes/2026.json</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3 data-t="downloadsTitle"></h3>
+          <ul class="links">
+            <li><a href="downloads/communes.csv" download>communes.csv</a> <a href="downloads/wilayas.csv" download>wilayas.csv</a></li>
+            <li><a href="downloads/algeria.json" download>algeria.json</a></li>
+            <li><a href="downloads/algeria.sql" download>algeria.sql</a></li>
+            <li><a href="downloads/wilayas-69.geojson" download>wilayas-69.geojson</a></li>
+            <li><a href="downloads/communes.geojson" download>communes.geojson</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p data-t="footerData"></p>
+    <p data-t="footerMap"></p>
+    <p><span data-t="footerCode"></span> <a href="https://github.com/syscli/algeria">github.com/syscli/algeria</a></p>
+  </footer>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
